@@ -12,15 +12,15 @@ args_dict = {
     '--epochs': 30,
     '--unlabeled-batch-size': 64,
     '--labeled-batch-size': 4,
-    '--no-classes': 45,
+    '--no-classes': 44,
     '--cost-annealing': False,
-    '--labeled-sequences': '../data/idsse-data/seqlabelvae/labeled_sequences.npy',
-    '--labels': '../data/idsse-data/seqlabelvae/labels.npy',
-    '--unlabeled-frames': '../data/idsse-data/seqlabelvae/unlabeled_frames.npy',
+    '--labeled-sequences': './idsse-data/seqlabelvae/labeled_sequences.npy',
+    '--labels': './idsse-data/seqlabelvae/labels.npy',
+    '--unlabeled-frames': './idsse-data/seqlabelvae/unlabeled_frames.npy',
     # '--labeled-sequences': './data/idsse-data/seqlabelvae/labeled_sequences.npy',
     # '--labels': './data/idsse-data/seqlabelvae/labels.npy',
     # '--unlabeled-frames': './data/idsse-data/seqlabelvae/unlabeled_frames.npy',
-    '--weight_path': './training_weights.h5'
+    '--weight_path': './seqlabelvae/training_weights.h5'
 }
 
 # Build the command
