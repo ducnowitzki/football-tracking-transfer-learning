@@ -4,11 +4,10 @@ import pickle
 import numpy as np
 from idsse_helper import load_data
 from numpy.lib.format import open_memmap
+from configs import DATA_DIR, OUTPUT_DIR_SPLIT, OUTPUT_DIR_WHOLE, EVENTS_LABELS_PATH
+
 
 # ----- Configuration -----
-DATA_DIR    = './data/idsse-data/data/'
-OUTPUT_DIR_WHOLE  = './data/idsse-data/seqlabelvae/whole'
-OUTPUT_DIR_SPLIT  = './data/idsse-data/seqlabelvae/split'
 H, W        = 105, 68
 WINDOW_SIZE = 32
 FRAME_RATE  = 25
@@ -27,7 +26,7 @@ FILE_GROUPS = [
 
 
 # Load event-to-index map
-with open(os.path.join('./data/idsse-data/events_labels.pkl'), 'rb') as f:
+with open(os.path.join(EVENTS_LABELS_PATH), 'rb') as f:
     EVENTS_LABELS = pickle.load(f)
 
 def round_and_clip(x, y):
