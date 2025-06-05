@@ -183,12 +183,14 @@ def train_step(model, x_labeled, y, x_unlabeled, optimizer, labeled_batch_size, 
 
 
 def SeqLabelVAE_train(model, unlabeled_dataset, labeled_dataset, y, epochs, timesteps, labeled_batch_size,\
-    unlabeled_batch_size, channels, cost_annealing=True):
+    unlabeled_batch_size, channels, cost_annealing=True, sample_rate=0.15):
     """Dataset: (no_obs, 105, 68, 3); Generates 'on-the-fly' sequences for specified timesteps
     Labeled Dataset: (no_obs, timesteps, 105, 68, 3) with y encoding the associated labels for the sequences"""
 
     unlabeled_start_indices = np.arange(unlabeled_dataset.shape[0]-timesteps-1)
     labeled_start_indices = np.arange(labeled_dataset.shape[0])
+    total_windows = unlabeled_start_indices.shape[0]
+    num_windows_to_sample = int(sample_rate * total_windows)
 
     for epoch in range(1, epochs+1):
         print('Epoch %d/%d' % (epoch, epochs))
@@ -203,13 +205,34 @@ def SeqLabelVAE_train(model, unlabeled_dataset, labeled_dataset, y, epochs, time
         else:
             kl_weight = 1
 
-        for training_iteration in range(int(unlabeled_dataset.shape[0]//unlabeled_batch_size - timesteps)):
+
+        all_indices = np.arange(total_windows)
+        chosen_indices = np.random.choice(all_indices,
+                                          size=num_windows_to_sample,
+                                          replace=False)
+        # Shuffle them so we can walk through in mini‐batches
+        np.random.shuffle(chosen_indices)
+
+        # 3) Number of mini‐batches in this 15% subset
+        iterations_per_epoch = num_windows_to_sample // unlabeled_batch_size
+
+        # for training_iteration in range(int(unlabeled_dataset.shape[0]//unlabeled_batch_size - timesteps)):
+        for i_iter in range(iterations_per_epoch):
+
+            batch_slice = chosen_indices[
+                i_iter * unlabeled_batch_size : (i_iter + 1) * unlabeled_batch_size
+            ]
+
+            x_unlabeled = np.zeros((unlabeled_batch_size, timesteps, 105, 68, channels),
+                                   dtype="float32")
+            for i, start in enumerate(batch_slice):
+                x_unlabeled[i] = unlabeled_dataset[start : start + timesteps]
             
-            x_unlabeled  = np.zeros((unlabeled_batch_size, timesteps, 105, 68, channels)) 
-            for i in range(unlabeled_batch_size):
-                start_index = np.random.choice(unlabeled_start_indices)
-                images = unlabeled_dataset[start_index:start_index + timesteps]
-                x_unlabeled[i] = images
+            # x_unlabeled  = np.zeros((unlabeled_batch_size, timesteps, 105, 68, channels)) 
+            # for i in range(unlabeled_batch_size):
+            #     start_index = np.random.choice(unlabeled_start_indices)
+            #     images = unlabeled_dataset[start_index:start_index + timesteps]
+            #     x_unlabeled[i] = images
 
             indices = np.random.choice(labeled_start_indices, size=(labeled_batch_size))
             x_labeled  = labeled_dataset[indices]
