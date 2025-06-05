@@ -5,7 +5,13 @@ import tensorflow as tf
 import keras
 import numpy as np
 
-
+gpus = tf.config.list_physical_devices("GPU")
+if gpus:
+    try:
+        for gpu in gpus:
+            tf.config.experimental.set_memory_growth(gpu, True)
+    except RuntimeError as e:
+        print("Warning: could not set memory growth:", e)
 
 def build_architecture():
     feature_dim = opt.feature_dim
