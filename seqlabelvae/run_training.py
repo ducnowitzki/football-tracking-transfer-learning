@@ -14,9 +14,9 @@ args_dict = {
     '--labeled-batch-size': 4,
     '--no-classes': 44,
     '--cost-annealing': False,
-    '--labeled-sequences': './idsse-data/seqlabelvae/labeled_sequences.npy',
-    '--labels': './idsse-data/seqlabelvae/labels.npy',
-    '--unlabeled-frames': './idsse-data/seqlabelvae/unlabeled_frames.npy',
+    '--labeled-sequences': './idsse-data/seqlabelvae/split/train_sequences.npy',
+    '--labels': './idsse-data/seqlabelvae/split/train_labels.npy',
+    '--unlabeled-frames': './idsse-data/seqlabelvae/whole/unlabeled_frames.npy',
     # '--labeled-sequences': './data/idsse-data/seqlabelvae/labeled_sequences.npy',
     # '--labels': './data/idsse-data/seqlabelvae/labels.npy',
     # '--unlabeled-frames': './data/idsse-data/seqlabelvae/unlabeled_frames.npy',
@@ -24,7 +24,7 @@ args_dict = {
 }
 
 # Build the command
-cmd = ['python', 'train.py']
+cmd = ['python', 'seqlabelvae/train.py']
 # cmd = ['python', 'seqlabelvae/train.py']
 for k, v in args_dict.items():
     if isinstance(v, bool):

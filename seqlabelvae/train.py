@@ -5,13 +5,30 @@ import tensorflow as tf
 import keras
 import numpy as np
 
+# Enable mixed precision
+from tensorflow.keras import mixed_precision
+mixed_precision.set_global_policy('mixed_float16')
+
+# XLA compilation for further optimization
+tf.config.optimizer.set_jit(True)
+
+# GPU setup
 gpus = tf.config.list_physical_devices("GPU")
+print("TF version:", tf.__version__)
+print("Num GPUs available: ", len(gpus))
 if gpus:
     try:
         for gpu in gpus:
             tf.config.experimental.set_memory_growth(gpu, True)
     except RuntimeError as e:
         print("Warning: could not set memory growth:", e)
+
+# Profiler start (optional, comment out if not needed)
+# tf.profiler.experimental.start(logdir="/tmp/logdir")
+
+# Replace optimizer with loss-scaled version for mixed precision
+base_optimizer = tf.keras.optimizers.Adam(learning_rate=0.0001)
+optimizer = mixed_precision.LossScaleOptimizer(base_optimizer)
 
 def build_architecture():
     feature_dim = opt.feature_dim
@@ -111,7 +128,7 @@ kl_tracking_metric_a = keras.metrics.Mean()
 reconstruction_tracking_metric = keras.metrics.Mean()
 classification_loss_tracking_metric = keras.metrics.Mean()
 kl_tracking_metric = keras.metrics.Mean()
-optimizer = tf.keras.optimizers.Adam(learning_rate=0.0001) # chosen according to Ha & Eck (2017)
+# optimizer = tf.keras.optimizers.Adam(learning_rate=0.0001) # chosen according to Ha & Eck (2017)
 
 metrics = [loss_tracking_metric, kl_tracking_metric_z, kl_tracking_metric_a, reconstruction_tracking_metric,\
     classification_loss_tracking_metric, kl_tracking_metric]
@@ -256,7 +273,7 @@ def SeqLabelVAE_train(model, unlabeled_dataset, labeled_dataset, y, epochs, time
                  labeled_batch_size, unlabeled_batch_size, timesteps, kl_weight = kl_weight)
 
                     
-        print('Result at the end of epoch %d:' % (epoch,))
+        print('Result at the end of epoch %d:' % (epoch))
         for key, value in logs.items():
             print('...%s: %.4f' % (key, value))
 
