@@ -6,9 +6,10 @@ import keras
 import numpy as np
 
 # Enable mixed precision
-from tensorflow.keras import mixed_precision
-mixed_precision.set_global_policy('mixed_float16')
+# from tensorflow.keras import mixed_precision
+# mixed_precision.set_global_policy('mixed_float16')
 
+tf.random.set_seed(42) 
 # XLA compilation for further optimization
 tf.config.optimizer.set_jit(True)
 
@@ -27,8 +28,21 @@ if gpus:
 # tf.profiler.experimental.start(logdir="/tmp/logdir")
 
 # Replace optimizer with loss-scaled version for mixed precision
-base_optimizer = tf.keras.optimizers.Adam(learning_rate=0.0001)
-optimizer = mixed_precision.LossScaleOptimizer(base_optimizer)
+# base_optimizer = tf.keras.optimizers.Adam(learning_rate=0.0001)
+# optimizer = mixed_precision.LossScaleOptimizer(base_optimizer)
+
+# Training
+loss_tracking_metric = keras.metrics.Mean()
+kl_tracking_metric_z = keras.metrics.Mean()
+kl_tracking_metric_a = keras.metrics.Mean()
+reconstruction_tracking_metric = keras.metrics.Mean()
+classification_loss_tracking_metric = keras.metrics.Mean()
+kl_tracking_metric = keras.metrics.Mean()
+
+optimizer = tf.keras.optimizers.Adam(learning_rate=0.0001) # chosen according to Ha & Eck (2017)
+
+metrics = [loss_tracking_metric, kl_tracking_metric_z, kl_tracking_metric_a, reconstruction_tracking_metric,
+    classification_loss_tracking_metric, kl_tracking_metric]
 
 def build_architecture():
     feature_dim = opt.feature_dim
@@ -121,17 +135,17 @@ def get_model(pitch_x_axis=105, pitch_y_axis=68, channels=3, feature_dim=300, in
     return SeqLabelVAE(recurrent_encoder, MLP_z, MLP_a, recurrent_decoder, classifier)
 
 
-# Training
-loss_tracking_metric = keras.metrics.Mean()
-kl_tracking_metric_z = keras.metrics.Mean()
-kl_tracking_metric_a = keras.metrics.Mean()
-reconstruction_tracking_metric = keras.metrics.Mean()
-classification_loss_tracking_metric = keras.metrics.Mean()
-kl_tracking_metric = keras.metrics.Mean()
-# optimizer = tf.keras.optimizers.Adam(learning_rate=0.0001) # chosen according to Ha & Eck (2017)
+# # Training
+# loss_tracking_metric = keras.metrics.Mean()
+# kl_tracking_metric_z = keras.metrics.Mean()
+# kl_tracking_metric_a = keras.metrics.Mean()
+# reconstruction_tracking_metric = keras.metrics.Mean()
+# classification_loss_tracking_metric = keras.metrics.Mean()
+# kl_tracking_metric = keras.metrics.Mean()
+# # optimizer = tf.keras.optimizers.Adam(learning_rate=0.0001) # chosen according to Ha & Eck (2017)
 
-metrics = [loss_tracking_metric, kl_tracking_metric_z, kl_tracking_metric_a, reconstruction_tracking_metric,\
-    classification_loss_tracking_metric, kl_tracking_metric]
+# metrics = [loss_tracking_metric, kl_tracking_metric_z, kl_tracking_metric_a, reconstruction_tracking_metric,\
+#     classification_loss_tracking_metric, kl_tracking_metric]
 
 
 
@@ -202,6 +216,47 @@ def train_step(model, x_labeled, y, x_unlabeled, optimizer, labeled_batch_size, 
     logs['classification_loss (unweighted)'] = classification_loss_tracking_metric.result()
     logs['kl_loss (weighted)'] = kl_tracking_metric.result()
     return logs 
+
+
+# @tf.function
+# def train_step(model, x_labeled, y, x_unlabeled, optimizer, labeled_batch_size, unlabeled_batch_size, 
+#                timesteps, kl_weight):
+#     with tf.GradientTape() as tape:
+#         loss, reconstruction_loss, kl_loss_z, kl_loss_a, classification_loss, kl_loss = compute_loss(
+#             model, x_labeled, y, x_unlabeled, labeled_batch_size, unlabeled_batch_size, 
+#             kl_weight, timesteps)
+
+#         # Scale the loss
+#         scaled_loss = optimizer.get_scaled_loss(loss)
+
+#     # Compute gradients with respect to scaled loss
+#     scaled_gradients = tape.gradient(scaled_loss, model.trainable_variables)
+
+#     # Unscale the gradients before applying them
+#     gradients = optimizer.get_unscaled_gradients(scaled_gradients)
+
+#     # Apply gradients
+#     optimizer.apply_gradients(zip(gradients, model.trainable_variables))
+    
+#     # Update metrics
+#     loss_tracking_metric.update_state(loss)
+#     kl_tracking_metric_z.update_state(kl_loss_z)
+#     kl_tracking_metric_a.update_state(kl_loss_a)
+#     reconstruction_tracking_metric.update_state(reconstruction_loss)
+#     classification_loss_tracking_metric.update_state(classification_loss)
+#     kl_tracking_metric.update_state(kl_loss)
+
+#     logs = {
+#         'loss': loss_tracking_metric.result(),
+#         'kl_loss_z (unweighted)': kl_tracking_metric_z.result(),
+#         'kl_loss_a (unweighted)': kl_tracking_metric_a.result(),
+#         'reconstruction_loss': reconstruction_tracking_metric.result(),
+#         'classification_loss (unweighted)': classification_loss_tracking_metric.result(),
+#         'kl_loss (weighted)': kl_tracking_metric.result(),
+#     }
+
+#     return logs
+
 
 
 

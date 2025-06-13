@@ -12,6 +12,13 @@ module purge
 module load 2023
 module load TensorFlow/2.15.1-foss-2023a-CUDA-12.1.1
 
+export TF_XLA_FLAGS=--tf_xla_auto_jit=0
+export TF_ENABLE_AUTO_MIXED_PRECISION=0
+export TF_ENABLE_ONEDNN_OPTS=0
+
+# Optionally restrict GPU to deterministic algorithms
+export TF_DETERMINISTIC_OPS=1
+
 source $HOME/venvs/seqlabelvae-gpu/bin/activate
 
 # Copy data to scratch

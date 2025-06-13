@@ -26,11 +26,19 @@ class Sampling_timestep(layers.Layer):
 
   def call(self, inputs):
     z_mean, z_log_var = inputs
-    batch_size = tf.shape(z_mean)[0]
-    dim = tf.shape(z_mean)[2]
-    timesteps = tf.shape(z_mean)[1]
-    epsilon = tf.keras.backend.random_normal(shape=(batch_size, timesteps, dim))
+    epsilon = tf.random.normal(shape=tf.shape(z_mean), dtype=z_mean.dtype)  # Match dtype
     return z_mean + tf.exp(0.5 * z_log_var) * epsilon
+
+#   def call(self, inputs):
+#     z_mean, z_log_var = inputs
+#     batch_size = tf.shape(z_mean)[0]
+#     dim = tf.shape(z_mean)[2]
+#     timesteps = tf.shape(z_mean)[1]
+#     epsilon = tf.keras.backend.random_normal(shape=(batch_size, timesteps, dim))
+#     return z_mean + tf.exp(0.5 * z_log_var) * epsilon
+
+    
+
 
 
 def get_feature_extractor(feature_dim, pitch_x_axis, pitch_y_axis, channels):
