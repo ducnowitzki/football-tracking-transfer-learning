@@ -1,0 +1,1346 @@
+Event,Timestamp,Result,Type,Pass Outcome,Shot outcome,Pressure,Player Name,Shirt Number,Team Name,Start Position X,Start Position Y,Foot used,Receiver Name,Receiver Shirt Number,End Position X,End Position Y,Defensive Action,Side,Distribution,Goal Location,Booking,Game_State
+Game_State,00:00:00:000,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1st Half Start
+Pass,00:00:18:130,Successful,Basic,-,-,High,Jahmani Braham,17,AFC O19,37,33,-,Dax Keller,4,45,38,-,-,-,-,-,-
+Off-side,00:00:20:210,-,-,-,-,-,Mohamed el Khallare,7,AFC O19,25,5,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:00:33:000,Successful,Basic,-,-,Low,Enzo,5,FC Emmen O19,26,8,-,Raff,3,17,18,-,-,-,-,-,-
+Pass,00:00:35:280,Successful,Basic,-,-,Low,Raff,3,FC Emmen O19,18,19,-,Huub,8,26,21,-,-,-,-,-,-
+Pass,00:00:42:300,Unsuccessful,Basic,-,-,Medium,Huub,8,FC Emmen O19,44,35,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:00:51:510,Successful,Throw-in,-,-,Low,Pharell Dankwa,2,AFC O19,56,2,-,Noach Shenkman,6,36,8,-,-,-,-,-,-
+Defensive Action,00:00:54:670,Successful,-,-,-,-,Enzo,5,FC Emmen O19,34,5,-,-,-,-,-,Tackle,-,-,-,-,-
+Lost Possession,00:00:54:710,-,-,-,-,-,Noach Shenkman,6,AFC O19,33,5,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:00:56:020,Successful,Basic,-,-,High,Enzo,5,FC Emmen O19,30,7,-,Kevin,1,3,31,-,-,-,-,-,-
+Pass,00:01:00:210,Successful,Basic,-,-,Low,Kevin,1,FC Emmen O19,4,31,-,Raff,3,8,20,-,-,-,-,-,-
+Pass,00:01:03:780,Unsuccessful,Basic,-,-,High,Raff,3,FC Emmen O19,11,18,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:01:06:060,Successful,-,-,-,-,Dax Keller,4,AFC O19,48,33,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:01:06:100,Unsuccessful,Basic,-,-,High,Dax Keller,4,AFC O19,48,32,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:01:08:110,Successful,-,-,-,-,Enzo,5,FC Emmen O19,20,22,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:01:08:150,Unsuccessful,Basic,-,-,High,Enzo,5,FC Emmen O19,20,21,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:01:11:560,Successful,Basic,-,-,High,Rody Schouren,19,AFC O19,47,60,-,Diaz Baars,5,53,57,-,-,-,-,-,-
+Pass,00:01:15:630,Successful,Basic,-,-,High,Diaz Baars,5,AFC O19,55,50,-,Dax Keller,4,69,46,-,-,-,-,-,-
+Pass,00:01:18:240,Successful,Basic,-,-,High,Dax Keller,4,AFC O19,68,48,-,Jahmani Braham,17,20,11,-,-,-,-,-,-
+Attacking Third Entry,00:01:22:000,-,-,-,-,-,Jahmani Braham,17,AFC O19,20,10,-,-,-,-,-,-,Right,-,-,-,-
+Penalty Box Entries,00:01:22:940,-,-,-,-,-,Jahmani Braham,17,AFC O19,14,21,-,-,-,-,-,-,Right,-,-,-,-
+Pass,00:01:24:600,Unsuccessful,Basic,-,-,High,Jahmani Braham,17,AFC O19,5,25,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:01:26:220,Successful,-,-,-,-,David,4,FC Emmen O19,10,37,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:01:26:380,Successful,Basic,-,-,High,David,4,FC Emmen O19,10,37,-,Raff,3,8,23,-,-,-,-,-,-
+Pass,00:01:28:470,Unsuccessful,Basic,-,-,High,Raff,3,FC Emmen O19,9,24,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:01:30:500,Unsuccessful,-,-,-,-,Mohamed el Khallare,7,AFC O19,26,9,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:01:31:800,Successful,Basic,-,-,High,Yvarion,11,FC Emmen O19,25,12,-,Raff,3,13,31,-,-,-,-,-,-
+Pass,00:01:33:800,Successful,Basic,-,-,Medium,Raff,3,FC Emmen O19,13,31,-,Emmanuel,15,32,32,-,-,-,-,-,-
+Duel,00:01:35:610,Won,Ground,-,-,-,Emmanuel,15,FC Emmen O19,32,32,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:01:35:650,Lost,Ground,-,-,-,Prio Hamid,3,AFC O19,31,33,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:01:35:690,Successful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,32,32,-,Ilias,2,22,74,-,-,-,-,-,-
+Defensive Action,00:01:39:880,Unsuccessful,-,-,-,-,Rody Schouren,19,AFC O19,21,76,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,00:01:41:900,Unsuccessful,Basic,-,-,High,Ilias,2,FC Emmen O19,19,89,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:01:43:310,Successful,-,-,-,-,Diaz Baars,5,AFC O19,28,83,-,-,-,-,-,Interception,-,-,-,-,-
+Duel,00:01:43:350,Won,Ground,-,-,-,Diaz Baars,5,AFC O19,29,84,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:01:43:390,Lost,Ground,-,-,-,D' Angelo,12,FC Emmen O19,28,84,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:01:43:760,Unsuccessful,Basic,-,-,High,Nicolai de Kort,15,AFC O19,25,88,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:01:43:970,Unsuccessful,-,-,-,-,D' Angelo,12,FC Emmen O19,27,87,-,-,-,-,-,Interception,-,-,-,-,-
+Foul,00:01:48:440,-,-,-,-,-,D' Angelo,12,FC Emmen O19,30,95,-,Nicolai de Kort,15,-,-,-,-,-,-,-,-
+Freekick,00:02:05:180,Successful,Pass,-,-,-,Nicolai de Kort,15,AFC O19,42,88,-,Diaz Baars,5,63,86,-,-,-,-,-,-
+Pass,00:02:05:220,Successful,Basic,-,-,Low,Nicolai de Kort,15,AFC O19,42,89,-,Diaz Baars,5,63,86,-,-,-,-,-,-
+Pass,00:02:08:850,Unsuccessful,Basic,-,-,Medium,Diaz Baars,5,AFC O19,45,90,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:02:12:130,Successful,Basic,-,-,High,David,4,FC Emmen O19,18,79,-,Kevin,1,6,54,-,-,-,-,-,-
+Pass,00:02:18:070,Successful,Basic,-,-,Low,Kevin,1,FC Emmen O19,6,51,-,Raff,3,6,38,-,-,-,-,-,-
+Pass,00:02:19:970,Successful,Basic,-,-,Medium,Raff,3,FC Emmen O19,6,39,-,Kevin,1,6,50,-,-,-,-,-,-
+Pass,00:02:21:920,Successful,Basic,-,-,High,Kevin,1,FC Emmen O19,7,50,-,Emmanuel,15,14,50,-,-,-,-,-,-
+Pass,00:02:24:500,Successful,Basic,-,-,Medium,Emmanuel,15,FC Emmen O19,6,69,-,David,4,5,87,-,-,-,-,-,-
+Pass,00:02:26:390,Successful,Basic,-,-,High,David,4,FC Emmen O19,6,87,-,Emmanuel,15,11,89,-,-,-,-,-,-
+Lost Possession,00:02:33:260,-,-,-,-,-,Emmanuel,15,FC Emmen O19,9,93,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:02:56:940,Successful,Throw-in,-,-,Low,Rody Schouren,19,AFC O19,8,96,-,Jahmani Braham,17,8,87,-,-,-,-,-,-
+Pass,00:02:57:750,Successful,Basic,-,-,High,Jahmani Braham,17,AFC O19,9,85,-,Rody Schouren,19,8,95,-,-,-,-,-,-
+Pass,00:02:59:970,Unsuccessful,Cross,-,-,High,Rody Schouren,19,AFC O19,3,92,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:03:00:800,Unsuccessful,-,-,-,-,David,4,FC Emmen O19,4,75,-,-,-,-,-,Interception,-,-,-,-,-
+Corners,00:03:27:250,Unsuccessful,Cross,-,-,-,Noach Shenkman,6,AFC O19,2,97,-,-,-,-,-,-,Left Corner,-,-,-,-
+Defensive Action,00:03:28:680,Successful,-,-,-,-,Raff,3,FC Emmen O19,5,51,-,-,-,-,-,Clearance,-,-,-,-,-
+Pass,00:03:36:690,Unsuccessful,Cross,-,-,High,Milan Engelander,10,AFC O19,16,82,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:03:37:740,Successful,-,-,-,-,David,4,FC Emmen O19,7,55,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:03:37:780,Unsuccessful,Basic,-,-,High,David,4,FC Emmen O19,7,55,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:03:40:180,Successful,-,-,-,-,Milan Engelander,10,AFC O19,19,73,-,-,-,-,-,Interception,-,-,-,-,-
+Duel,00:03:40:220,Won,Ground,-,-,-,Milan Engelander,10,AFC O19,19,73,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:03:40:260,Lost,Ground,-,-,-,Amine,6,FC Emmen O19,19,74,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:03:43:470,Successful,-,-,-,-,Ilias,2,FC Emmen O19,12,83,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,00:03:44:570,Successful,Basic,-,-,High,Ilias,2,FC Emmen O19,12,89,-,D' Angelo,12,23,91,-,-,-,-,-,-
+Lost Possession,00:03:45:460,-,-,-,-,-,D' Angelo,12,FC Emmen O19,23,91,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:03:57:270,Successful,Throw-in,-,-,Low,Diaz Baars,5,AFC O19,28,96,-,Noach Shenkman,6,19,91,-,-,-,-,-,-
+Duel,00:03:58:720,Won,Air,-,-,-,Noach Shenkman,6,AFC O19,18,90,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:03:58:760,Lost,Air,-,-,-,Ilias,2,FC Emmen O19,18,90,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:03:58:800,Unsuccessful,Basic,-,-,High,Noach Shenkman,6,AFC O19,18,90,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:04:02:280,Successful,Basic,-,-,High,Huub,8,FC Emmen O19,15,81,-,Ilias,2,15,93,-,-,-,-,-,-
+Pass,00:04:03:270,Successful,Basic,-,-,High,Ilias,2,FC Emmen O19,15,92,-,Emmanuel,15,23,74,-,-,-,-,-,-
+Pass,00:04:05:400,Successful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,20,86,-,David,4,9,88,-,-,-,-,-,-
+Pass,00:04:10:030,Successful,Basic,-,-,Low,David,4,FC Emmen O19,16,50,-,Enzo,5,25,16,-,-,-,-,-,-
+Pass,00:04:12:420,Successful,Basic,-,-,High,Enzo,5,FC Emmen O19,25,14,-,Huub,8,41,15,-,-,-,-,-,-
+Pass,00:04:13:640,Successful,Basic,-,-,High,Huub,8,FC Emmen O19,44,19,-,Amine,6,30,18,-,-,-,-,-,-
+Defensive Action,00:04:15:080,Successful,-,-,-,-,Noach Shenkman,6,AFC O19,30,17,-,-,-,-,-,Tackle,-,-,-,-,-
+Penalty Box Entries,00:04:21:050,-,-,-,-,-,Noach Shenkman,6,AFC O19,15,24,-,-,-,-,-,-,Right,-,-,-,-
+Pass,00:04:22:630,Unsuccessful,Basic,-,-,High,Noach Shenkman,6,AFC O19,9,25,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:04:22:670,Unsuccessful,-,-,-,-,Raff,3,FC Emmen O19,9,26,-,-,-,-,-,Interception,-,-,-,-,-
+Corners,00:04:47:850,Chance Created,Cross,-,-,-,Noach Shenkman,6,AFC O19,2,2,-,Jahmani Braham,17,5,43,-,Right Corner,-,-,-,-
+Pass,00:04:47:890,Successful,Cross,Key,-,Low,Noach Shenkman,6,AFC O19,1,2,-,Jahmani Braham,17,5,43,-,-,-,-,-,-
+Shots,00:04:49:070,On Target,In Game,-,No Goal,High,Jahmani Braham,17,AFC O19,5,43,Right Foot,-,-,-,-,-,-,-,Top-right,-,-
+Gk Saves,00:04:50:720,-,High Saves,-,-,-,Kevin,1,FC Emmen O19,3,46,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,00:04:56:050,Successful,-,-,-,-,Kevin,1,FC Emmen O19,5,51,-,David,4,9,70,-,-,Throw,-,-,-
+Pass,00:04:58:330,Successful,Basic,-,-,Low,David,4,FC Emmen O19,13,71,-,Emmanuel,15,17,62,-,-,-,-,-,-
+Pass,00:05:00:840,Successful,Basic,-,-,Medium,Emmanuel,15,FC Emmen O19,20,65,-,D' Angelo,12,38,56,-,-,-,-,-,-
+Pass,00:05:02:230,Successful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,38,57,-,Remiyan,9,47,57,-,-,-,-,-,-
+Pass,00:05:04:130,Unsuccessful,Basic,-,-,High,Remiyan,9,FC Emmen O19,47,58,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:05:05:030,Successful,-,-,-,-,Dax Keller,4,AFC O19,46,63,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:05:06:420,Unsuccessful,Basic,-,-,High,Dax Keller,4,AFC O19,45,63,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:05:07:290,Successful,-,-,-,-,David,4,FC Emmen O19,33,63,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:05:08:230,Successful,Basic,-,-,High,Rody Schouren,19,AFC O19,45,53,-,Milan Engelander,10,7,78,-,-,-,-,-,-
+Penalty Box Entries,00:05:12:890,-,-,-,-,-,Milan Engelander,10,AFC O19,8,77,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:05:15:180,Unsuccessful,Cross,-,-,High,Milan Engelander,10,AFC O19,10,82,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:05:16:570,Successful,-,-,-,-,Raff,3,FC Emmen O19,9,55,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:05:16:730,Unsuccessful,Basic,-,-,Medium,Raff,3,FC Emmen O19,10,55,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:05:19:060,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,27,60,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:05:20:240,Successful,Basic,-,-,Medium,Nicolai de Kort,15,AFC O19,34,55,-,Dax Keller,4,39,57,-,-,-,-,-,-
+Pass,00:05:21:980,Successful,Basic,-,-,Medium,Dax Keller,4,AFC O19,36,62,-,Pharell Dankwa,2,26,11,-,-,-,-,-,-
+Attacking Third Entry,00:05:24:710,-,-,-,-,-,Pharell Dankwa,2,AFC O19,24,13,-,-,-,-,-,-,Right,-,-,-,-
+Pass,00:05:26:150,Unsuccessful,Basic,-,-,Medium,Pharell Dankwa,2,AFC O19,18,8,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:05:26:420,Successful,-,-,-,-,Enzo,5,FC Emmen O19,15,14,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:05:28:160,Unsuccessful,Basic,-,-,High,Pharell Dankwa,2,AFC O19,15,8,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:05:48:190,Successful,Basic,-,-,Low,Raff,3,FC Emmen O19,5,37,-,Kevin,1,5,50,-,-,-,-,-,-
+Pass,00:05:56:340,Successful,Basic,-,-,Low,Kevin,1,FC Emmen O19,7,49,-,David,4,8,33,-,-,-,-,-,-
+Pass,00:05:59:560,Unsuccessful,Basic,-,-,High,David,4,FC Emmen O19,9,30,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:06:04:520,Successful,Basic,-,-,High,Rody Schouren,19,AFC O19,58,64,-,Storm Huijsman,20,88,69,-,-,-,-,-,-
+Pass,00:06:09:480,Successful,Basic,-,-,Medium,Storm Huijsman,20,AFC O19,88,70,-,Rody Schouren,19,77,85,-,-,-,-,-,-
+Pass,00:06:10:560,Successful,Basic,-,-,Medium,Rody Schouren,19,AFC O19,78,85,-,Diaz Baars,5,81,78,-,-,-,-,-,-
+Pass,00:06:13:000,Successful,Basic,-,-,Medium,Diaz Baars,5,AFC O19,77,76,-,Milan Engelander,10,62,73,-,-,-,-,-,-
+Pass,00:06:14:200,Successful,Basic,-,-,High,Milan Engelander,10,AFC O19,57,73,-,Rody Schouren,19,34,94,-,-,-,-,-,-
+Lost Possession,00:06:18:570,-,-,-,-,-,Rody Schouren,19,AFC O19,34,94,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:06:25:100,Successful,Throw-in,-,-,Low,Ilias,2,FC Emmen O19,29,96,-,David,4,21,85,-,-,-,-,-,-
+Pass,00:06:28:760,Successful,Basic,-,-,Low,David,4,FC Emmen O19,21,76,-,Raff,3,17,50,-,-,-,-,-,-
+Pass,00:06:31:560,Successful,Basic,-,-,Low,Raff,3,FC Emmen O19,18,51,-,David,4,18,69,-,-,-,-,-,-
+Pass,00:06:35:140,Successful,Basic,-,-,Medium,David,4,FC Emmen O19,20,70,-,Raff,3,17,43,-,-,-,-,-,-
+Pass,00:06:38:020,Successful,Basic,-,-,Medium,Raff,3,FC Emmen O19,17,35,-,Enzo,5,20,17,-,-,-,-,-,-
+Pass,00:06:41:080,Unsuccessful,Basic,-,-,High,Enzo,5,FC Emmen O19,20,18,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:06:42:330,Unsuccessful,-,-,-,-,Nicolai de Kort,15,AFC O19,25,35,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:06:44:170,Unsuccessful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,27,31,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:07:11:760,Successful,Throw-in,-,-,Low,Pharell Dankwa,2,AFC O19,27,2,-,Mohamed el Khallare,7,13,13,-,-,-,-,-,-
+Duel,00:07:13:560,Won,Air,-,-,-,Mohamed el Khallare,7,AFC O19,13,13,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:07:13:600,Lost,Air,-,-,-,Enzo,5,FC Emmen O19,13,14,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:07:13:640,Successful,Basic,-,-,High,Mohamed el Khallare,7,AFC O19,13,14,-,Noach Shenkman,6,21,14,-,-,-,-,-,-
+Pass,00:07:14:770,Successful,Basic,-,-,High,Noach Shenkman,6,AFC O19,22,14,-,Jahmani Braham,17,22,9,-,-,-,-,-,-
+Pass,00:07:15:670,Successful,Basic,-,-,High,Jahmani Braham,17,AFC O19,23,11,-,Pharell Dankwa,2,28,4,-,-,-,-,-,-
+Pass,00:07:19:720,Successful,Basic,-,-,High,Pharell Dankwa,2,AFC O19,9,4,-,Rody Schouren,19,22,53,-,-,-,-,-,-
+Pass,00:07:24:000,Unsuccessful,Basic,-,-,High,Rody Schouren,19,AFC O19,21,54,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:07:24:090,Successful,-,-,-,-,Amine,6,FC Emmen O19,20,56,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:07:24:560,Unsuccessful,Basic,-,-,High,Rody Schouren,19,AFC O19,20,57,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:07:26:010,Successful,-,-,-,-,David,4,FC Emmen O19,19,70,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:07:26:080,Unsuccessful,Basic,-,-,Medium,David,4,FC Emmen O19,20,70,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:07:36:350,Unsuccessful,Basic,-,-,High,Dax Keller,4,AFC O19,69,42,-,-,-,-,-,-,-,-,-,-,-
+Foul,00:07:39:780,-,-,-,-,-,David,4,FC Emmen O19,22,71,-,Milan Engelander,10,-,-,-,-,-,-,-,-
+Freekick,00:08:17:240,1st Contact Opponent,Shot,-,-,-,Milan Engelander,10,AFC O19,20,69,-,-,-,-,-,-,-,-,-,-,-
+Shots,00:08:17:280,Blocked,In Game,-,No Goal,Low,Milan Engelander,10,AFC O19,20,69,Right Foot,-,-,-,-,-,-,-,Middle-center,-,-
+Defensive Action,00:08:17:500,Successful,-,-,-,-,Emmanuel,15,FC Emmen O19,13,66,-,-,-,-,-,Blocks,-,-,-,-,-
+Pass,00:08:20:430,Successful,Basic,Key,-,High,Mohamed el Khallare,7,AFC O19,25,50,-,Milan Engelander,10,24,63,-,-,-,-,-,-
+Shots,00:08:22:220,On Target,In Game,-,No Goal,High,Milan Engelander,10,AFC O19,24,59,Right Foot,-,-,-,-,-,-,-,Bottom-left,-,-
+Gk Saves,00:08:23:300,-,Low Saves,-,-,-,Kevin,1,FC Emmen O19,3,53,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,00:08:27:730,Successful,-,-,-,-,Kevin,1,FC Emmen O19,5,55,-,David,4,4,71,-,-,Throw,-,-,-
+Pass,00:08:30:720,Successful,Basic,-,-,Low,David,4,FC Emmen O19,10,70,-,Emmanuel,15,18,62,-,-,-,-,-,-
+Pass,00:08:32:659,Successful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,18,64,-,David,4,11,73,-,-,-,-,-,-
+Pass,00:08:34:880,Successful,Basic,-,-,High,David,4,FC Emmen O19,11,71,-,D' Angelo,12,28,67,-,-,-,-,-,-
+Pass,00:08:37:539,Unsuccessful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,32,58,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:08:39:340,Successful,-,-,-,-,Dax Keller,4,AFC O19,47,57,-,-,-,-,-,Interception,-,-,-,-,-
+Duel,00:08:39:380,Won,Ground,-,-,-,Dax Keller,4,AFC O19,47,57,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:08:39:419,Lost,Ground,-,-,-,Remiyan,9,FC Emmen O19,47,57,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:08:39:440,Successful,Basic,-,-,High,Dax Keller,4,AFC O19,47,58,-,Diaz Baars,5,40,48,-,-,-,-,-,-
+Pass,00:08:44:690,Unsuccessful,Basic,-,-,High,Diaz Baars,5,AFC O19,37,51,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:08:45:630,Successful,-,-,-,-,Raff,3,FC Emmen O19,26,45,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:08:47:020,Unsuccessful,Basic,-,-,High,Raff,3,FC Emmen O19,29,39,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:08:47:250,Successful,-,-,-,-,Noach Shenkman,6,AFC O19,33,39,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:08:48:920,Successful,Basic,-,-,High,Raff,3,FC Emmen O19,34,43,-,Amine,6,44,35,-,-,-,-,-,-
+Pass,00:08:52:310,Successful,Basic,-,-,High,Amine,6,FC Emmen O19,45,31,-,Enzo,5,56,6,-,-,-,-,-,-
+Pass,00:08:56:120,Successful,Basic,-,-,High,Enzo,5,FC Emmen O19,62,5,-,Yvarion,11,78,4,-,-,-,-,-,-
+Attacking Third Entry,00:08:57:810,-,-,-,-,-,Yvarion,11,FC Emmen O19,77,5,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:08:59:000,Unsuccessful,Cross,-,-,High,Yvarion,11,FC Emmen O19,89,8,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:09:00:730,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,92,52,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:09:00:770,Unsuccessful,Basic,-,-,High,Nicolai de Kort,15,AFC O19,91,54,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:09:02:910,Successful,-,-,-,-,Emmanuel,15,FC Emmen O19,78,68,-,-,-,-,-,Interception,-,-,-,-,-
+Duel,00:09:02:950,Won,Ground,-,-,-,Emmanuel,15,FC Emmen O19,78,64,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:09:02:990,Lost,Ground,-,-,-,Milan Engelander,10,AFC O19,78,62,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:09:03:030,Unsuccessful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,78,64,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:09:05:330,Successful,-,-,-,-,Diaz Baars,5,AFC O19,92,60,-,-,-,-,-,Clearance,-,-,-,-,-
+Pass,00:09:11:440,Successful,Basic,-,-,High,David,4,FC Emmen O19,42,70,-,Kevin,1,23,58,-,-,-,-,-,-
+Pass,00:09:14:960,Successful,Basic,-,-,Low,Kevin,1,FC Emmen O19,23,59,-,Raff,3,26,34,-,-,-,-,-,-
+Pass,00:09:17:600,Successful,Basic,-,-,Medium,Raff,3,FC Emmen O19,26,33,-,Huub,8,41,43,-,-,-,-,-,-
+Pass,00:09:18:780,Successful,Basic,-,-,Medium,Huub,8,FC Emmen O19,39,43,-,Emmanuel,15,36,61,-,-,-,-,-,-
+Pass,00:09:20:960,Successful,Basic,-,-,Medium,Emmanuel,15,FC Emmen O19,36,61,-,David,4,30,79,-,-,-,-,-,-
+Pass,00:09:24:450,Unsuccessful,Basic,-,-,Medium,David,4,FC Emmen O19,39,87,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:09:48:960,Successful,Throw-in,-,-,Low,Ilias,2,FC Emmen O19,84,96,-,Huub,8,76,79,-,-,-,-,-,-
+Pass,00:09:51:450,Successful,Basic,-,-,High,Huub,8,FC Emmen O19,74,75,-,Enzo,5,46,54,-,-,-,-,-,-
+Pass,00:09:56:100,Successful,Basic,-,-,Low,Enzo,5,FC Emmen O19,53,42,-,Yvarion,11,61,20,-,-,-,-,-,-
+Pass,00:09:59:880,Successful,Basic,-,-,High,Yvarion,11,FC Emmen O19,65,17,-,Amine,6,76,6,-,-,-,-,-,-
+Attacking Third Entry,00:10:00:970,-,-,-,-,-,Amine,6,FC Emmen O19,74,4,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:10:04:970,Unsuccessful,Cross,-,-,High,Amine,6,FC Emmen O19,84,10,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:10:05:170,Successful,-,-,-,-,Mohamed el Khallare,7,AFC O19,85,15,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:10:10:980,Unsuccessful,Basic,-,-,Medium,Prio Hamid,3,AFC O19,68,40,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:10:17:280,Successful,Basic,-,-,Low,Kevin,1,FC Emmen O19,12,41,-,David,4,17,67,-,-,-,-,-,-
+Pass,00:10:19:850,Successful,Basic,-,-,Low,David,4,FC Emmen O19,19,68,-,Emmanuel,15,27,59,-,-,-,-,-,-
+Pass,00:10:24:190,Successful,Basic,-,-,Medium,Emmanuel,15,FC Emmen O19,32,56,-,Raff,3,34,34,-,-,-,-,-,-
+Pass,00:10:26:780,Successful,Basic,-,-,Low,Raff,3,FC Emmen O19,34,31,-,Enzo,5,38,15,-,-,-,-,-,-
+Pass,00:10:29:190,Unsuccessful,Basic,-,-,Medium,Enzo,5,FC Emmen O19,43,18,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:10:31:290,Successful,-,-,-,-,Diaz Baars,5,AFC O19,63,37,-,-,-,-,-,Interception,-,-,-,-,-
+Duel,00:10:32:840,Won,Ground,-,-,-,Emmanuel,15,FC Emmen O19,54,41,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:10:32:880,Lost,Ground,-,-,-,Noach Shenkman,6,AFC O19,54,41,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:10:32:920,Successful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,53,40,-,D' Angelo,12,59,62,-,-,-,-,-,-
+Attacking Third Entry,00:10:36:770,-,-,-,-,-,D' Angelo,12,FC Emmen O19,71,57,-,-,-,-,-,-,Center,-,-,-,-
+Pass,00:10:37:430,Unsuccessful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,74,49,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:10:37:700,Successful,-,-,-,-,Dax Keller,4,AFC O19,77,50,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:10:39:570,Unsuccessful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,83,51,-,-,-,-,-,-,-,-,-,-,-
+Penalty Box Entries,00:10:39:610,-,-,-,-,-,D' Angelo,12,FC Emmen O19,83,50,-,-,-,-,-,-,Center,-,-,-,-
+Defensive Action,00:10:40:310,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,86,54,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:10:41:270,Successful,Basic,-,-,High,Nicolai de Kort,15,AFC O19,87,55,-,Dax Keller,4,81,54,-,-,-,-,-,-
+Pass,00:10:43:280,Unsuccessful,Basic,-,-,High,Dax Keller,4,AFC O19,78,53,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:10:54:850,Successful,Throw-in,-,-,Low,Enzo,5,FC Emmen O19,21,4,-,Raff,3,14,24,-,-,-,-,-,-
+Pass,00:10:58:310,Successful,Basic,-,-,Low,Raff,3,FC Emmen O19,15,25,-,David,4,17,52,-,-,-,-,-,-
+Pass,00:11:01:450,Successful,Basic,-,-,Medium,David,4,FC Emmen O19,18,58,-,Emmanuel,15,22,43,-,-,-,-,-,-
+Pass,00:11:03:150,Successful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,22,34,-,Raff,3,16,29,-,-,-,-,-,-
+Pass,00:11:05:980,Successful,Basic,-,-,High,Raff,3,FC Emmen O19,17,26,-,Enzo,5,21,7,-,-,-,-,-,-
+Pass,00:11:08:080,Unsuccessful,Basic,-,-,High,Enzo,5,FC Emmen O19,21,7,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:11:12:780,Successful,Basic,-,-,Medium,Pharell Dankwa,2,AFC O19,65,4,-,Storm Huijsman,20,89,31,-,-,-,-,-,-
+Pass,00:11:26:050,Successful,Basic,-,-,High,Storm Huijsman,20,AFC O19,83,27,-,Mohamed el Khallare,7,23,14,-,-,-,-,-,-
+Attacking Third Entry,00:11:26:090,-,-,-,-,-,Storm Huijsman,20,AFC O19,82,26,-,-,-,-,-,-,Right,-,-,-,-
+Penalty Box Entries,00:11:32:850,-,-,-,-,-,Mohamed el Khallare,7,AFC O19,10,21,-,-,-,-,-,-,Right,-,-,-,-
+Pass,00:11:34:170,Unsuccessful,Basic,-,-,High,Mohamed el Khallare,7,AFC O19,4,25,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:11:34:800,Successful,-,-,-,-,Kevin,1,FC Emmen O19,5,48,-,-,-,-,-,Interception,-,-,-,-,-
+Gk Distribution,00:11:38:150,Successful,-,-,-,-,Kevin,1,FC Emmen O19,7,48,-,Emmanuel,15,12,59,-,-,Throw,-,-,-
+Pass,00:11:43:150,Successful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,24,72,-,David,4,16,76,-,-,-,-,-,-
+Pass,00:11:50:620,Successful,Basic,-,-,High,David,4,FC Emmen O19,12,67,-,Kevin,1,5,62,-,-,-,-,-,-
+Pass,00:11:51:660,Successful,Basic,Key,-,Medium,Kevin,1,FC Emmen O19,5,61,-,D' Angelo,12,73,48,-,-,-,-,-,-
+Attacking Third Entry,00:11:56:750,-,-,-,-,-,D' Angelo,12,FC Emmen O19,72,45,-,-,-,-,-,-,Center,-,-,-,-
+Shots,00:11:59:400,Blocked,In Game,-,No Goal,High,D' Angelo,12,FC Emmen O19,81,53,Right Foot,-,-,-,-,-,-,-,Bottom-center,-,-
+Defensive Action,00:11:59:430,Successful,-,-,-,-,Dax Keller,4,AFC O19,82,52,-,-,-,-,-,Blocks,-,-,-,-,-
+Pass,00:12:03:220,Successful,Basic,-,-,High,Dax Keller,4,AFC O19,71,49,-,Jahmani Braham,17,64,50,-,-,-,-,-,-
+Pass,00:12:04:280,Unsuccessful,Basic,-,-,High,Jahmani Braham,17,AFC O19,64,51,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:12:46:160,Successful,Throw-in,-,-,Low,Diaz Baars,5,AFC O19,89,96,-,Dax Keller,4,90,87,-,-,-,-,-,-
+Pass,00:12:47:610,Unsuccessful,Basic,-,-,High,Dax Keller,4,AFC O19,89,86,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:12:51:790,Successful,Basic,-,-,Medium,David,4,FC Emmen O19,28,81,-,Kevin,1,11,65,-,-,-,-,-,-
+Pass,00:12:56:120,Successful,Basic,-,-,Low,Kevin,1,FC Emmen O19,9,65,-,David,4,16,87,-,-,-,-,-,-
+Pass,00:12:58:710,Successful,Basic,-,-,Low,David,4,FC Emmen O19,18,88,-,Huub,8,24,69,-,-,-,-,-,-
+Pass,00:13:01:970,Successful,Basic,-,-,High,Huub,8,FC Emmen O19,32,60,-,Yvarion,11,45,6,-,-,-,-,-,-
+Pass,00:13:08:490,Successful,Basic,-,-,Medium,Yvarion,11,FC Emmen O19,44,25,-,David,4,30,44,-,-,-,-,-,-
+Pass,00:13:13:200,Unsuccessful,Basic,-,-,Medium,David,4,FC Emmen O19,34,55,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:13:15:560,Successful,-,-,-,-,Dax Keller,4,AFC O19,74,38,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:13:15:600,Successful,Basic,-,-,High,Dax Keller,4,AFC O19,73,39,-,Pharell Dankwa,2,76,14,-,-,-,-,-,-
+Pass,00:13:20:510,Successful,Basic,-,-,High,Pharell Dankwa,2,AFC O19,77,10,-,Mohamed el Khallare,7,58,7,-,-,-,-,-,-
+Pass,00:13:25:350,Successful,Basic,-,-,High,Mohamed el Khallare,7,AFC O19,64,10,-,Storm Huijsman,20,96,36,-,-,-,-,-,-
+Pass,00:13:30:550,Unsuccessful,Basic,-,-,High,Storm Huijsman,20,AFC O19,95,28,-,-,-,-,-,-,-,-,-,-,-
+Foul,00:13:34:010,-,-,-,-,-,Jahmani Braham,17,AFC O19,47,15,-,Raff,3,-,-,-,-,-,-,-,-
+Freekick,00:13:56:840,Successful,Pass,-,-,-,Prio Hamid,3,AFC O19,45,15,-,Jahmani Braham,17,39,17,-,-,-,-,-,-
+Pass,00:13:56:880,Successful,Basic,-,-,Low,Prio Hamid,3,AFC O19,45,14,-,Jahmani Braham,17,39,17,-,-,-,-,-,-
+Pass,00:13:57:430,Successful,Basic,-,-,Medium,Jahmani Braham,17,AFC O19,39,18,-,Prio Hamid,3,46,17,-,-,-,-,-,-
+Pass,00:13:58:630,Unsuccessful,Basic,-,-,High,Prio Hamid,3,AFC O19,46,18,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:13:59:810,Successful,-,-,-,-,Huub,8,FC Emmen O19,28,14,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:14:02:040,Unsuccessful,Basic,-,-,High,Nicolai de Kort,15,AFC O19,47,32,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:14:06:000,Successful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,39,30,-,Enzo,5,44,5,-,-,-,-,-,-
+Pass,00:14:10:910,Successful,Basic,-,-,Medium,Enzo,5,FC Emmen O19,42,8,-,Emmanuel,15,40,20,-,-,-,-,-,-
+Pass,00:14:11:750,Successful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,40,21,-,Raff,3,27,14,-,-,-,-,-,-
+Pass,00:14:14:220,Successful,Basic,-,-,Low,Raff,3,FC Emmen O19,27,15,-,Emmanuel,15,36,25,-,-,-,-,-,-
+Pass,00:14:17:460,Successful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,41,32,-,Huub,8,43,37,-,-,-,-,-,-
+Pass,00:14:17:680,Successful,Basic,-,-,High,Huub,8,FC Emmen O19,43,37,-,Raff,3,37,21,-,-,-,-,-,-
+Pass,00:14:21:500,Successful,Basic,-,-,High,Raff,3,FC Emmen O19,35,22,-,Huub,8,33,33,-,-,-,-,-,-
+Pass,00:14:24:610,Unsuccessful,Basic,-,-,High,Huub,8,FC Emmen O19,34,38,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:14:27:340,Successful,Basic,-,-,Medium,Pharell Dankwa,2,AFC O19,70,29,-,Nicolai de Kort,15,57,32,-,-,-,-,-,-
+Pass,00:14:30:780,Unsuccessful,Basic,-,-,High,Nicolai de Kort,15,AFC O19,58,31,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:14:32:700,Successful,Basic,-,-,Medium,Raff,3,FC Emmen O19,39,19,-,Huub,8,45,20,-,-,-,-,-,-
+Pass,00:14:34:430,Successful,Basic,-,-,Medium,Huub,8,FC Emmen O19,45,19,-,Raff,3,30,4,-,-,-,-,-,-
+Pass,00:14:37:920,Successful,Basic,-,-,Medium,Raff,3,FC Emmen O19,22,4,-,Kevin,1,8,29,-,-,-,-,-,-
+Pass,00:14:42:430,Successful,Basic,-,-,Low,Kevin,1,FC Emmen O19,9,39,-,David,4,10,56,-,-,-,-,-,-
+Pass,00:14:44:940,Successful,Basic,-,-,Medium,David,4,FC Emmen O19,12,60,-,Emmanuel,15,23,54,-,-,-,-,-,-
+Pass,00:14:45:820,Unsuccessful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,23,53,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:14:46:970,Successful,-,-,-,-,Mohamed el Khallare,7,AFC O19,29,57,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:15:09:550,Successful,Throw-in,-,-,Low,Ilias,2,FC Emmen O19,6,95,-,D' Angelo,12,22,90,-,-,-,-,-,-
+Foul,00:15:12:820,-,-,-,-,-,Diaz Baars,5,AFC O19,22,90,-,D' Angelo,12,-,-,-,-,-,-,-,-
+Freekick,00:15:22:430,Successful,Pass,-,-,-,Ilias,2,FC Emmen O19,22,90,-,Emmanuel,15,27,84,-,-,-,-,-,-
+Pass,00:15:22:470,Successful,Basic,-,-,Low,Ilias,2,FC Emmen O19,22,90,-,Emmanuel,15,27,84,-,-,-,-,-,-
+Pass,00:15:24:050,Successful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,27,85,-,David,4,12,83,-,-,-,-,-,-
+Pass,00:15:26:620,Successful,Basic,-,-,Medium,David,4,FC Emmen O19,17,73,-,Raff,3,16,41,-,-,-,-,-,-
+Pass,00:15:30:060,Successful,Basic,-,-,Medium,Raff,3,FC Emmen O19,19,31,-,Enzo,5,35,6,-,-,-,-,-,-
+Pass,00:15:34:560,Successful,Basic,-,-,High,Enzo,5,FC Emmen O19,41,7,-,D' Angelo,12,48,36,-,-,-,-,-,-
+Pass,00:15:36:490,Successful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,46,35,-,Yvarion,11,60,4,-,-,-,-,-,-
+Defensive Action,00:15:41:300,Successful,-,-,-,-,Pharell Dankwa,2,AFC O19,68,9,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,00:15:45:260,Unsuccessful,Basic,-,-,High,Raff,3,FC Emmen O19,59,30,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:15:46:370,Successful,-,-,-,-,Noach Shenkman,6,AFC O19,68,39,-,-,-,-,-,Interception,-,-,-,-,-
+Duel,00:15:46:410,Won,Ground,-,-,-,Noach Shenkman,6,AFC O19,68,39,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:15:46:450,Lost,Ground,-,-,-,D' Angelo,12,FC Emmen O19,68,39,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:15:46:490,Successful,Basic,-,-,High,Noach Shenkman,6,AFC O19,68,38,-,Nicolai de Kort,15,61,37,-,-,-,-,-,-
+Pass,00:15:48:070,Successful,Basic,-,-,High,Nicolai de Kort,15,AFC O19,61,42,-,Milan Engelander,10,55,55,-,-,-,-,-,-
+Off-side,00:15:49:050,-,-,-,-,-,Mohamed el Khallare,7,AFC O19,45,6,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:16:16:200,Successful,Basic,-,-,Low,Enzo,5,FC Emmen O19,43,7,-,Raff,3,32,15,-,-,-,-,-,-
+Pass,00:16:19:290,Successful,Basic,-,-,Medium,Raff,3,FC Emmen O19,30,16,-,Kevin,1,18,50,-,-,-,-,-,-
+Pass,00:16:27:430,Unsuccessful,Basic,-,-,High,Kevin,1,FC Emmen O19,18,53,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:16:30:370,Successful,-,-,-,-,Dax Keller,4,AFC O19,71,41,-,-,-,-,-,Interception,-,-,-,-,-
+Penalty Box Entries,00:16:32:620,-,-,-,-,-,Yvarion,11,FC Emmen O19,85,29,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:16:34:460,Unsuccessful,Basic,-,-,High,Yvarion,11,FC Emmen O19,91,30,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:16:57:080,Unsuccessful,Throw-in,-,-,Low,Diaz Baars,5,AFC O19,89,97,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:16:58:010,Successful,-,-,-,-,Raff,3,FC Emmen O19,66,75,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:17:13:240,Successful,Throw-in,-,-,Low,Diaz Baars,5,AFC O19,65,96,-,Noach Shenkman,6,36,86,-,-,-,-,-,-
+Duel,00:17:15:800,Won,Air,-,-,-,Noach Shenkman,6,AFC O19,36,86,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:17:15:839,Lost,Air,-,-,-,Ilias,2,FC Emmen O19,36,87,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:17:15:880,Unsuccessful,Basic,-,-,High,Noach Shenkman,6,AFC O19,35,87,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:17:30:350,Unsuccessful,Throw-in,-,-,Low,Ilias,2,FC Emmen O19,25,96,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:17:32:070,Successful,-,-,-,-,Dax Keller,4,AFC O19,64,77,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:17:32:660,Successful,Basic,-,-,High,Dax Keller,4,AFC O19,66,74,-,Nicolai de Kort,15,58,77,-,-,-,-,-,-
+Pass,00:17:33:140,Successful,Basic,-,-,High,Nicolai de Kort,15,AFC O19,58,77,-,Diaz Baars,5,67,75,-,-,-,-,-,-
+Pass,00:17:34:300,Unsuccessful,Basic,-,-,High,Diaz Baars,5,AFC O19,69,78,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:17:34:410,Successful,-,-,-,-,D' Angelo,12,FC Emmen O19,69,81,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:17:40:240,Successful,Throw-in,-,-,Low,Diaz Baars,5,AFC O19,89,98,-,Dax Keller,4,92,87,-,-,-,-,-,-
+Pass,00:17:42:980,Successful,Basic,-,-,High,Dax Keller,4,AFC O19,90,79,-,Storm Huijsman,20,94,45,-,-,-,-,-,-
+Pass,00:17:47:120,Unsuccessful,Basic,-,-,High,Storm Huijsman,20,AFC O19,94,29,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:17:50:320,Unsuccessful,Basic,-,-,High,Raff,3,FC Emmen O19,41,31,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:17:57:850,Successful,Basic,-,-,High,Milan Engelander,10,AFC O19,21,71,-,Rody Schouren,19,9,84,-,-,-,-,-,-
+Pass,00:18:00:210,Successful,Cross,-,-,Medium,Rody Schouren,19,AFC O19,9,85,-,Mohamed el Khallare,7,8,27,-,-,-,-,-,-
+Penalty Box Entries,00:18:00:250,-,-,-,-,-,Rody Schouren,19,AFC O19,9,85,-,-,-,-,-,-,Left,-,-,-,-
+Lost Possession,00:18:01:870,-,-,-,-,-,Mohamed el Khallare,7,AFC O19,8,26,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:18:17:500,Successful,Basic,-,-,Low,Raff,3,FC Emmen O19,5,37,-,Kevin,1,4,48,-,-,-,-,-,-
+Pass,00:18:20:880,Unsuccessful,Basic,-,-,Medium,Kevin,1,FC Emmen O19,5,49,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:18:46:190,Successful,Throw-in,-,-,Low,Pharell Dankwa,2,AFC O19,44,4,-,Jahmani Braham,17,36,11,-,-,-,-,-,-
+Duel,00:18:47:940,Won,Air,-,-,-,Jahmani Braham,17,AFC O19,35,11,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:18:47:980,Lost,Air,-,-,-,Enzo,5,FC Emmen O19,35,12,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:18:48:020,Unsuccessful,Basic,-,-,High,Jahmani Braham,17,AFC O19,35,11,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:18:49:190,Successful,-,-,-,-,Raff,3,FC Emmen O19,24,10,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:19:02:100,Successful,Throw-in,-,-,Low,Pharell Dankwa,2,AFC O19,22,4,-,Prio Hamid,3,30,12,-,-,-,-,-,-
+Pass,00:19:04:070,Unsuccessful,Basic,-,-,High,Prio Hamid,3,AFC O19,28,7,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:19:05:370,Successful,-,-,-,-,Raff,3,FC Emmen O19,12,20,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:19:05:410,Unsuccessful,Basic,-,-,High,Raff,3,FC Emmen O19,12,20,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:19:07:440,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,27,18,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:19:07:480,Unsuccessful,Basic,-,-,High,Nicolai de Kort,15,AFC O19,26,18,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:19:08:030,Successful,-,-,-,-,Huub,8,FC Emmen O19,22,20,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:19:08:170,Unsuccessful,Basic,-,-,High,Huub,8,FC Emmen O19,22,21,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:19:14:050,Successful,Basic,-,-,High,Prio Hamid,3,AFC O19,35,35,-,Rody Schouren,19,30,68,-,-,-,-,-,-
+Attacking Third Entry,00:19:15:970,-,-,-,-,-,Rody Schouren,19,AFC O19,21,76,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:19:20:110,Unsuccessful,Cross,-,-,High,Rody Schouren,19,AFC O19,10,81,-,-,-,-,-,-,-,-,-,-,-
+Penalty Box Entries,00:19:20:150,-,-,-,-,-,Rody Schouren,19,AFC O19,10,81,-,-,-,-,-,-,Left,-,-,-,-
+Defensive Action,00:19:21:210,Successful,-,-,-,-,David,4,FC Emmen O19,9,61,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:19:22:520,Successful,Basic,Key,-,High,Jahmani Braham,17,AFC O19,4,64,-,Noach Shenkman,6,9,62,-,-,-,-,-,-
+Shots,00:19:23:200,Blocked,In Game,-,No Goal,High,Noach Shenkman,6,AFC O19,9,63,Left Foot,-,-,-,-,-,-,-,Bottom-left,-,-
+Defensive Action,00:19:23:310,Successful,-,-,-,-,David,4,FC Emmen O19,7,61,-,-,-,-,-,Blocks,-,-,-,-,-
+Corners,00:19:53:770,Unsuccessful,Cross,-,-,-,Mohamed el Khallare,7,AFC O19,2,96,-,-,-,-,-,-,Left Corner,-,-,-,-
+Penalty Box Entries,00:19:53:810,-,-,-,-,-,Mohamed el Khallare,7,AFC O19,2,95,-,-,-,-,-,-,Left,-,-,-,-
+Defensive Action,00:19:55:420,Successful,-,-,-,-,Raff,3,FC Emmen O19,4,52,-,-,-,-,-,Clearance,-,-,-,-,-
+Foul,00:19:59:500,-,-,-,-,-,D' Angelo,12,FC Emmen O19,24,44,-,Nicolai de Kort,15,-,-,-,-,-,-,-,-
+Freekick,00:20:26:680,1st Contact Opponent,Shot,-,-,-,Noach Shenkman,6,AFC O19,24,38,-,-,-,-,-,-,-,-,-,-,-
+Shots,00:20:26:720,Blocked,In Game,-,No Goal,Low,Noach Shenkman,6,AFC O19,24,39,Right Foot,-,-,-,-,-,-,-,Middle-center,-,-
+Defensive Action,00:20:26:940,Successful,-,-,-,-,Emmanuel,15,FC Emmen O19,16,36,-,-,-,-,-,Blocks,-,-,-,-,-
+Pass,00:20:33:550,Successful,Basic,-,-,High,Enzo,5,FC Emmen O19,22,14,-,Yvarion,11,33,3,-,-,-,-,-,-
+Pass,00:20:35:920,Successful,Basic,-,-,Medium,Yvarion,11,FC Emmen O19,33,5,-,Raff,3,21,19,-,-,-,-,-,-
+Pass,00:20:38:920,Successful,Basic,-,-,Medium,Raff,3,FC Emmen O19,22,16,-,David,4,17,57,-,-,-,-,-,-
+Pass,00:20:42:080,Successful,Basic,-,-,Medium,David,4,FC Emmen O19,18,59,-,D' Angelo,12,32,58,-,-,-,-,-,-
+Pass,00:20:44:770,Unsuccessful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,35,64,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:20:45:890,Successful,-,-,-,-,Rody Schouren,19,AFC O19,62,69,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:20:54:110,Unsuccessful,Basic,-,-,High,Rody Schouren,19,AFC O19,94,86,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:20:56:650,Successful,-,-,-,-,Raff,3,FC Emmen O19,49,60,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:20:56:690,Successful,Basic,-,-,High,Raff,3,FC Emmen O19,48,60,-,Huub,8,59,58,-,-,-,-,-,-
+Pass,00:20:58:370,Unsuccessful,Basic,-,-,High,Huub,8,FC Emmen O19,58,60,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:20:59:090,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,62,65,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:21:12:630,Successful,Throw-in,-,-,Low,Ilias,2,FC Emmen O19,58,96,-,Emmanuel,15,58,82,-,-,-,-,-,-
+Pass,00:21:13:270,Successful,Basic,-,-,Medium,Emmanuel,15,FC Emmen O19,58,82,-,Ilias,2,61,95,-,-,-,-,-,-
+Pass,00:21:14:410,Successful,Basic,-,-,High,Ilias,2,FC Emmen O19,61,95,-,D' Angelo,12,70,95,-,-,-,-,-,-
+Pass,00:21:14:800,Successful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,69,95,-,Emmanuel,15,66,80,-,-,-,-,-,-
+Pass,00:21:17:160,Successful,Basic,-,-,Medium,Emmanuel,15,FC Emmen O19,61,75,-,Amine,6,70,50,-,-,-,-,-,-
+Pass,00:21:18:520,Unsuccessful,Basic,-,-,Medium,Amine,6,FC Emmen O19,70,50,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:21:19:030,Successful,-,-,-,-,Prio Hamid,3,AFC O19,74,50,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:21:19:070,Unsuccessful,Basic,-,-,High,Prio Hamid,3,AFC O19,75,50,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:21:19:360,Successful,-,-,-,-,Huub,8,FC Emmen O19,71,50,-,-,-,-,-,Interception,-,-,-,-,-
+Duel,00:21:20:740,Won,Ground,-,-,-,Prio Hamid,3,AFC O19,76,48,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:21:20:780,Lost,Ground,-,-,-,Huub,8,FC Emmen O19,76,48,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:21:20:820,Unsuccessful,Basic,-,-,High,Prio Hamid,3,AFC O19,76,48,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:21:26:240,Successful,Basic,-,-,High,Enzo,5,FC Emmen O19,60,4,-,Amine,6,67,17,-,-,-,-,-,-
+Attacking Third Entry,00:21:27:630,-,-,-,-,-,Amine,6,FC Emmen O19,66,15,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:21:27:660,Successful,Basic,-,-,High,Amine,6,FC Emmen O19,70,18,-,Yvarion,11,76,3,-,-,-,-,-,-
+Pass,00:21:33:050,Unsuccessful,Cross,-,-,High,Yvarion,11,FC Emmen O19,90,6,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:21:34:130,Successful,-,-,-,-,Dax Keller,4,AFC O19,90,42,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:21:38:430,Unsuccessful,Basic,-,-,High,Milan Engelander,10,AFC O19,71,42,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:21:42:020,Unsuccessful,Basic,-,-,High,David,4,FC Emmen O19,34,42,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:21:42:290,Successful,-,-,-,-,Jahmani Braham,17,AFC O19,32,42,-,-,-,-,-,Interception,-,-,-,-,-
+Defensive Action,00:21:44:170,Successful,-,-,-,-,Raff,3,FC Emmen O19,27,43,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,00:21:44:310,Successful,Basic,-,-,High,Raff,3,FC Emmen O19,26,44,-,Kevin,1,7,49,-,-,-,-,-,-
+Pass,00:21:48:680,Successful,Basic,-,-,Medium,Kevin,1,FC Emmen O19,7,52,-,Raff,3,7,29,-,-,-,-,-,-
+Pass,00:21:53:670,Successful,Basic,-,-,High,Raff,3,FC Emmen O19,20,14,-,Enzo,5,29,6,-,-,-,-,-,-
+Pass,00:21:55:880,Unsuccessful,Basic,-,-,High,Enzo,5,FC Emmen O19,33,5,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:21:57:930,Successful,-,-,-,-,Diaz Baars,5,AFC O19,47,42,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:21:59:920,Successful,Basic,-,-,Medium,Diaz Baars,5,AFC O19,44,43,-,Milan Engelander,10,36,58,-,-,-,-,-,-
+Pass,00:22:06:390,Successful,Basic,-,-,High,Milan Engelander,10,AFC O19,32,29,-,Pharell Dankwa,2,26,13,-,-,-,-,-,-
+Attacking Third Entry,00:22:08:550,-,-,-,-,-,Pharell Dankwa,2,AFC O19,26,12,-,-,-,-,-,-,Right,-,-,-,-
+Pass,00:22:09:680,Unsuccessful,Cross,-,-,High,Pharell Dankwa,2,AFC O19,25,14,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:22:10:870,Successful,-,-,-,-,David,4,FC Emmen O19,12,37,-,-,-,-,-,Clearance,-,-,-,-,-
+Pass,00:22:12:850,Successful,Basic,-,-,Medium,Milan Engelander,10,AFC O19,36,27,-,Nicolai de Kort,15,25,37,-,-,-,-,-,-
+Attacking Third Entry,00:22:14:770,-,-,-,-,-,Nicolai de Kort,15,AFC O19,25,38,-,-,-,-,-,-,Center,-,-,-,-
+Pass,00:22:15:060,Successful,Basic,-,-,High,Nicolai de Kort,15,AFC O19,24,40,-,Rody Schouren,19,23,76,-,-,-,-,-,-
+Pass,00:22:19:480,Unsuccessful,Basic,-,-,High,Rody Schouren,19,AFC O19,22,75,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:22:20:560,Successful,-,-,-,-,Huub,8,FC Emmen O19,22,58,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:22:22:600,Successful,Basic,-,-,High,Jahmani Braham,17,AFC O19,21,56,-,Milan Engelander,10,27,59,-,-,-,-,-,-
+Pass,00:22:25:470,Successful,Basic,-,-,High,Milan Engelander,10,AFC O19,28,49,-,Pharell Dankwa,2,17,22,-,-,-,-,-,-
+Penalty Box Entries,00:22:28:080,-,-,-,-,-,Pharell Dankwa,2,AFC O19,16,24,-,-,-,-,-,-,Right,-,-,-,-
+Pass,00:22:31:370,Unsuccessful,Basic,-,-,High,Pharell Dankwa,2,AFC O19,2,25,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:22:31:730,Successful,-,-,-,-,Raff,3,FC Emmen O19,2,32,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:22:33:860,Unsuccessful,Basic,-,-,High,Enzo,5,FC Emmen O19,6,32,-,-,-,-,-,-,-,-,-,-,-
+Off-side,00:22:41:660,-,-,-,-,-,Jahmani Braham,17,AFC O19,25,49,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:22:53:700,Successful,Basic,-,-,Low,David,4,FC Emmen O19,19,72,-,Kevin,1,9,57,-,-,-,-,-,-
+Pass,00:23:00:110,Unsuccessful,Basic,-,-,Medium,Kevin,1,FC Emmen O19,11,62,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:23:04:600,Successful,-,-,-,-,Dax Keller,4,AFC O19,77,72,-,-,-,-,-,Interception,-,-,-,-,-
+Foul,00:23:07:920,-,-,-,-,-,Remiyan,9,FC Emmen O19,93,89,-,Dax Keller,4,-,-,-,-,-,-,-,-
+Booking,00:23:12:380,-,-,-,-,-,Remiyan,9,FC Emmen O19,93,88,-,-,-,-,-,-,-,-,-,Yellow Card,-
+Freekick,00:23:52:810,Successful,Pass,-,-,-,Dax Keller,4,AFC O19,93,88,-,Storm Huijsman,20,95,63,-,-,-,-,-,-
+Pass,00:23:52:850,Successful,Basic,-,-,Low,Dax Keller,4,AFC O19,93,88,-,Storm Huijsman,20,95,63,-,-,-,-,-,-
+Pass,00:23:59:200,Unsuccessful,Basic,-,-,High,Storm Huijsman,20,AFC O19,93,51,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:24:02:410,Unsuccessful,Basic,-,-,High,Enzo,5,FC Emmen O19,40,31,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:24:04:530,Successful,-,-,-,-,Milan Engelander,10,AFC O19,44,56,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:24:04:700,Unsuccessful,Basic,-,-,High,Milan Engelander,10,AFC O19,44,56,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:24:05:640,Successful,-,-,-,-,Enzo,5,FC Emmen O19,29,25,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:24:07:400,Successful,Basic,-,-,High,Jahmani Braham,17,AFC O19,43,31,-,Mohamed el Khallare,7,32,14,-,-,-,-,-,-
+Duel,00:24:08:750,Won,Ground,-,-,-,Mohamed el Khallare,7,AFC O19,32,13,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:24:08:790,Lost,Ground,-,-,-,Enzo,5,FC Emmen O19,32,13,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:24:14:140,Successful,Basic,-,-,Medium,Mohamed el Khallare,7,AFC O19,51,4,-,Prio Hamid,3,72,18,-,-,-,-,-,-
+Pass,00:24:17:660,Successful,Basic,-,-,High,Prio Hamid,3,AFC O19,77,27,-,Storm Huijsman,20,94,53,-,-,-,-,-,-
+Pass,00:24:21:760,Successful,Basic,-,-,Medium,Storm Huijsman,20,AFC O19,94,53,-,Prio Hamid,3,90,23,-,-,-,-,-,-
+Pass,00:24:26:710,Successful,Basic,-,-,High,Prio Hamid,3,AFC O19,75,18,-,Nicolai de Kort,15,72,29,-,-,-,-,-,-
+Pass,00:24:28:990,Successful,Basic,-,-,High,Nicolai de Kort,15,AFC O19,70,33,-,Rody Schouren,19,23,93,-,-,-,-,-,-
+Attacking Third Entry,00:24:32:350,-,-,-,-,-,Rody Schouren,19,AFC O19,23,93,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:24:35:610,Successful,Basic,-,-,High,Rody Schouren,19,AFC O19,23,76,-,Jahmani Braham,17,18,75,-,-,-,-,-,-
+Pass,00:24:36:760,Successful,Basic,-,-,High,Jahmani Braham,17,AFC O19,18,78,-,Rody Schouren,19,12,70,-,-,-,-,-,-
+Penalty Box Entries,00:24:38:440,-,-,-,-,-,Rody Schouren,19,AFC O19,12,69,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:24:40:650,Successful,Basic,-,-,High,Rody Schouren,19,AFC O19,4,85,-,Jahmani Braham,17,10,83,-,-,-,-,-,-
+Pass,00:24:45:920,Successful,Basic,-,-,High,Jahmani Braham,17,AFC O19,11,83,-,Rody Schouren,19,2,90,-,-,-,-,-,-
+Pass,00:24:48:220,Successful,Cross,-,-,Medium,Rody Schouren,19,AFC O19,2,90,-,Noach Shenkman,6,13,53,-,-,-,-,-,-
+Penalty Box Entries,00:24:50:460,-,-,-,-,-,Noach Shenkman,6,AFC O19,13,53,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:24:50:500,Successful,Basic,-,-,High,Noach Shenkman,6,AFC O19,13,53,-,Pharell Dankwa,2,17,30,-,-,-,-,-,-
+Pass,00:24:52:770,Successful,Basic,-,-,Medium,Pharell Dankwa,2,AFC O19,17,31,-,Milan Engelander,10,25,39,-,-,-,-,-,-
+Foul,00:24:55:590,-,-,-,-,-,Amine,6,FC Emmen O19,22,25,-,Milan Engelander,10,-,-,-,-,-,-,-,-
+Freekick,00:25:27:810,On Target,Shot,-,-,-,Mohamed el Khallare,7,AFC O19,22,25,-,-,-,-,-,-,-,-,-,-,-
+Shots,00:25:27:850,On Target,After Free Kick,-,No Goal,Low,Mohamed el Khallare,7,AFC O19,22,25,Right Foot,-,-,-,-,-,-,-,Top-right,-,-
+Gk Saves,00:25:28:790,-,High Saves,-,-,-,Kevin,1,FC Emmen O19,2,46,-,-,-,-,-,-,-,-,-,-,-
+Corners,00:26:14:420,Unsuccessful,Cross,-,-,-,Mohamed el Khallare,7,AFC O19,2,2,-,-,-,-,-,-,Right Corner,-,-,-,-
+Defensive Action,00:26:15:660,Successful,-,-,-,-,Raff,3,FC Emmen O19,6,42,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:26:17:010,Unsuccessful,Basic,-,-,High,Nicolai de Kort,15,AFC O19,13,51,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:26:19:660,Unsuccessful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,19,62,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:26:20:910,Successful,-,-,-,-,Diaz Baars,5,AFC O19,26,77,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:26:36:050,Successful,Throw-in,-,-,Low,Ilias,2,FC Emmen O19,25,95,-,D' Angelo,12,33,85,-,-,-,-,-,-
+Pass,00:26:36:660,Successful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,33,85,-,Ilias,2,27,96,-,-,-,-,-,-
+Pass,00:26:39:370,Successful,Basic,-,-,High,Ilias,2,FC Emmen O19,25,91,-,David,4,17,90,-,-,-,-,-,-
+Pass,00:26:40:560,Unsuccessful,Basic,-,-,High,David,4,FC Emmen O19,17,91,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:26:42:500,Successful,-,-,-,-,Diaz Baars,5,AFC O19,41,82,-,-,-,-,-,Interception,-,-,-,-,-
+Duel,00:26:42:540,Won,Air,-,-,-,Diaz Baars,5,AFC O19,41,82,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:26:42:580,Lost,Air,-,-,-,Remiyan,9,FC Emmen O19,40,81,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:26:42:620,Successful,Basic,-,-,High,Diaz Baars,5,AFC O19,40,81,-,Dax Keller,4,54,62,-,-,-,-,-,-
+Pass,00:26:48:140,Successful,Cross,-,-,Medium,Dax Keller,4,AFC O19,48,56,-,Pharell Dankwa,2,12,29,-,-,-,-,-,-
+Penalty Box Entries,00:26:51:580,-,-,-,-,-,Pharell Dankwa,2,AFC O19,12,28,-,-,-,-,-,-,Right,-,-,-,-
+Pass,00:26:52:050,Unsuccessful,Basic,-,-,High,Pharell Dankwa,2,AFC O19,10,26,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:26:55:960,Successful,-,-,-,-,Ilias,2,FC Emmen O19,4,69,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:26:56:000,Unsuccessful,Basic,-,-,High,Ilias,2,FC Emmen O19,4,69,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:27:05:050,Successful,Throw-in,-,-,Low,Diaz Baars,5,AFC O19,22,95,-,Nicolai de Kort,15,26,80,-,-,-,-,-,-
+Attacking Third Entry,00:27:08:020,-,-,-,-,-,Nicolai de Kort,15,AFC O19,25,72,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:27:08:160,Successful,Basic,-,-,High,Nicolai de Kort,15,AFC O19,25,71,-,Noach Shenkman,6,18,71,-,-,-,-,-,-
+Off-side,00:27:09:290,-,-,-,-,-,Milan Engelander,10,AFC O19,12,79,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:27:26:340,Successful,Basic,-,-,Low,Kevin,1,FC Emmen O19,11,68,-,Raff,3,10,35,-,-,-,-,-,-
+Pass,00:27:30:050,Successful,Basic,-,-,High,Raff,3,FC Emmen O19,11,29,-,Enzo,5,20,9,-,-,-,-,-,-
+Pass,00:27:32:400,Unsuccessful,Basic,-,-,High,Enzo,5,FC Emmen O19,20,8,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:27:36:060,Unsuccessful,Basic,-,-,High,Diaz Baars,5,AFC O19,45,28,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:27:38:030,Successful,Basic,-,-,High,Huub,8,FC Emmen O19,36,24,-,Amine,6,45,21,-,-,-,-,-,-
+Foul,00:27:40:430,-,-,-,-,-,Mohamed el Khallare,7,AFC O19,45,25,-,Amine,6,-,-,-,-,-,-,-,-
+Freekick,00:27:48:110,Successful,Pass,-,-,-,Yvarion,11,FC Emmen O19,45,23,-,Enzo,5,39,15,-,-,-,-,-,-
+Pass,00:27:48:150,Successful,Basic,-,-,Low,Yvarion,11,FC Emmen O19,45,23,-,Enzo,5,39,15,-,-,-,-,-,-
+Pass,00:27:50:560,Successful,Basic,-,-,Medium,Enzo,5,FC Emmen O19,39,15,-,Huub,8,53,5,-,-,-,-,-,-
+Defensive Action,00:27:54:840,Successful,-,-,-,-,Diaz Baars,5,AFC O19,63,10,-,-,-,-,-,Tackle,-,-,-,-,-
+Defensive Action,00:27:58:320,Successful,-,-,-,-,Huub,8,FC Emmen O19,66,7,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,00:28:12:600,Successful,Throw-in,-,-,Low,Pharell Dankwa,2,AFC O19,60,2,-,Noach Shenkman,6,46,5,-,-,-,-,-,-
+Foul,00:28:14:900,-,-,-,-,-,Enzo,5,FC Emmen O19,41,8,-,Pharell Dankwa,2,-,-,-,-,-,-,-,-
+Freekick,00:28:52:340,Successful,Pass,-,-,-,Prio Hamid,3,AFC O19,38,7,-,Dax Keller,4,12,34,-,-,-,-,-,-
+Pass,00:28:52:380,Successful,Cross,Key,-,Low,Prio Hamid,3,AFC O19,38,7,-,Dax Keller,4,12,34,-,-,-,-,-,-
+Shots,00:28:53:840,Off Target,In Game,-,No Goal,High,Dax Keller,4,AFC O19,12,36,Header,-,-,-,-,-,-,-,Top-right,-,-
+Pass,00:29:18:590,Successful,Basic,-,-,Low,Raff,3,FC Emmen O19,5,37,-,Kevin,1,5,49,-,-,-,-,-,-
+Pass,00:29:23:220,Unsuccessful,Basic,-,-,High,Kevin,1,FC Emmen O19,5,54,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:29:26:540,Unsuccessful,Basic,-,-,Medium,Dax Keller,4,AFC O19,66,44,-,-,-,-,-,-,-,-,-,-,-
+Dribbles,00:29:30:510,Successful,-,-,-,-,Yvarion,11,FC Emmen O19,55,34,-,-,-,56,36,-,-,-,-,-,-
+Lost Possession,00:29:33:290,-,-,-,-,-,Yvarion,11,FC Emmen O19,55,52,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:29:34:780,Successful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,54,51,-,Enzo,5,62,5,-,-,-,-,-,-
+Pass,00:29:39:300,Successful,Basic,-,-,High,Enzo,5,FC Emmen O19,64,14,-,D' Angelo,12,79,30,-,-,-,-,-,-
+Attacking Third Entry,00:29:40:150,-,-,-,-,-,D' Angelo,12,FC Emmen O19,79,30,-,-,-,-,-,-,Center,-,-,-,-
+Pass,00:29:40:190,Unsuccessful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,80,30,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:29:40:990,Successful,Basic,-,-,High,Prio Hamid,3,AFC O19,82,26,-,Jahmani Braham,17,78,34,-,-,-,-,-,-
+Duel,00:29:42:540,Won,Ground,-,-,-,Jahmani Braham,17,AFC O19,78,32,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:29:42:580,Lost,Ground,-,-,-,D' Angelo,12,FC Emmen O19,78,33,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:29:44:200,Successful,Basic,-,-,High,Jahmani Braham,17,AFC O19,74,39,-,Milan Engelander,10,76,86,-,-,-,-,-,-
+Pass,00:29:50:750,Successful,Basic,-,-,Medium,Milan Engelander,10,AFC O19,90,92,-,Nicolai de Kort,15,79,92,-,-,-,-,-,-
+Lost Possession,00:29:51:600,-,-,-,-,-,Nicolai de Kort,15,AFC O19,77,92,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:29:53:650,Successful,Basic,-,-,Medium,Ilias,2,FC Emmen O19,61,88,-,David,4,32,90,-,-,-,-,-,-
+Pass,00:29:56:270,Successful,Basic,-,-,Low,David,4,FC Emmen O19,30,88,-,Raff,3,28,53,-,-,-,-,-,-
+Pass,00:30:01:830,Successful,Basic,-,-,Medium,Raff,3,FC Emmen O19,45,52,-,D' Angelo,12,55,42,-,-,-,-,-,-
+Pass,00:30:02:980,Unsuccessful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,55,41,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:30:06:170,Unsuccessful,Basic,-,-,High,Dax Keller,4,AFC O19,72,35,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:30:11:450,Successful,Basic,-,-,High,Enzo,5,FC Emmen O19,28,16,-,Kevin,1,11,41,-,-,-,-,-,-
+Pass,00:30:14:970,Successful,Basic,-,-,Low,Kevin,1,FC Emmen O19,12,44,-,David,4,14,69,-,-,-,-,-,-
+Pass,00:30:17:730,Successful,Basic,-,-,Medium,David,4,FC Emmen O19,15,68,-,Ilias,2,24,94,-,-,-,-,-,-
+Pass,00:30:20:120,Successful,Basic,-,-,High,Ilias,2,FC Emmen O19,24,94,-,Emmanuel,15,25,78,-,-,-,-,-,-
+Pass,00:30:21:640,Unsuccessful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,24,84,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:30:22:720,Successful,-,-,-,-,Diaz Baars,5,AFC O19,32,89,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:30:22:760,Successful,Basic,-,-,High,Diaz Baars,5,AFC O19,32,89,-,Rody Schouren,19,28,93,-,-,-,-,-,-
+Pass,00:30:24:920,Successful,Basic,-,-,High,Rody Schouren,19,AFC O19,29,95,-,Diaz Baars,5,38,93,-,-,-,-,-,-
+Defensive Action,00:30:26:200,Successful,-,-,-,-,D' Angelo,12,FC Emmen O19,35,88,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,00:30:27:730,Successful,Basic,-,-,High,Ilias,2,FC Emmen O19,31,93,-,Emmanuel,15,28,83,-,-,-,-,-,-
+Pass,00:30:28:140,Unsuccessful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,28,83,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:30:29:490,Successful,Basic,-,-,High,Noach Shenkman,6,AFC O19,39,72,-,Jahmani Braham,17,26,71,-,-,-,-,-,-
+Attacking Third Entry,00:30:31:200,-,-,-,-,-,Jahmani Braham,17,AFC O19,26,72,-,-,-,-,-,-,Left,-,-,-,-
+Defensive Action,00:30:32:290,Unsuccessful,-,-,-,-,David,4,FC Emmen O19,24,66,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,00:30:32:850,Unsuccessful,Basic,-,-,High,Jahmani Braham,17,AFC O19,24,65,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:30:34:650,Unsuccessful,Basic,-,-,High,Huub,8,FC Emmen O19,19,71,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:30:50:470,Successful,Throw-in,-,-,Low,Diaz Baars,5,AFC O19,24,96,-,Milan Engelander,10,18,85,-,-,-,-,-,-
+Attacking Third Entry,00:30:52:210,-,-,-,-,-,Milan Engelander,10,AFC O19,18,85,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:30:52:250,Unsuccessful,Basic,-,-,High,Milan Engelander,10,AFC O19,18,86,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:30:57:930,Unsuccessful,Basic,-,-,High,Amine,6,FC Emmen O19,23,92,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:30:58:550,Successful,-,-,-,-,Rody Schouren,19,AFC O19,31,94,-,-,-,-,-,Interception,-,-,-,-,-
+Lost Possession,00:30:59:510,-,-,-,-,-,Rody Schouren,19,AFC O19,31,95,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:31:25:840,Unsuccessful,Throw-in,-,-,Low,Diaz Baars,5,AFC O19,38,95,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:31:27:640,Successful,Basic,-,-,High,David,4,FC Emmen O19,27,76,-,Emmanuel,15,30,66,-,-,-,-,-,-
+Pass,00:31:30:780,Unsuccessful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,32,62,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:31:32:290,Successful,Basic,-,-,High,Prio Hamid,3,AFC O19,48,56,-,Nicolai de Kort,15,41,63,-,-,-,-,-,-
+Pass,00:31:35:800,Successful,Basic,-,-,Medium,Nicolai de Kort,15,AFC O19,36,66,-,Rody Schouren,19,24,93,-,-,-,-,-,-
+Attacking Third Entry,00:31:37:500,-,-,-,-,-,Rody Schouren,19,AFC O19,24,93,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:31:38:960,Successful,Cross,-,-,Medium,Rody Schouren,19,AFC O19,20,90,-,Pharell Dankwa,2,12,28,-,-,-,-,-,-
+Penalty Box Entries,00:31:41:180,-,-,-,-,-,Pharell Dankwa,2,AFC O19,12,28,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:31:41:360,Successful,Basic,Key,-,Medium,Pharell Dankwa,2,AFC O19,11,28,-,Nicolai de Kort,15,19,27,-,-,-,-,-,-
+Shots,00:31:43:380,Blocked,In Game,-,No Goal,Medium,Nicolai de Kort,15,AFC O19,19,27,Right Foot,-,-,-,-,-,-,-,Bottom-right,-,-
+Defensive Action,00:31:43:860,Successful,-,-,-,-,Raff,3,FC Emmen O19,8,37,-,-,-,-,-,Blocks,-,-,-,-,-
+Pass,00:31:44:010,Unsuccessful,Basic,-,-,Medium,Raff,3,FC Emmen O19,7,37,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:31:46:580,Successful,-,-,-,-,Prio Hamid,3,AFC O19,38,45,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:31:48:620,Successful,Basic,-,-,High,Prio Hamid,3,AFC O19,29,67,-,Rody Schouren,19,24,89,-,-,-,-,-,-
+Pass,00:31:50:680,Successful,Basic,-,-,High,Rody Schouren,19,AFC O19,25,90,-,Prio Hamid,3,27,76,-,-,-,-,-,-
+Dribbles,00:31:52:850,Successful,-,-,-,-,Prio Hamid,3,AFC O19,29,75,-,-,-,30,72,-,-,-,-,-,-
+Pass,00:31:55:130,Successful,Basic,-,-,High,Prio Hamid,3,AFC O19,23,69,-,Jahmani Braham,17,12,89,-,-,-,-,-,-
+Pass,00:31:58:180,Unsuccessful,Basic,-,-,High,Jahmani Braham,17,AFC O19,10,87,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:31:58:700,Successful,-,-,-,-,David,4,FC Emmen O19,11,78,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:32:00:350,Successful,Basic,-,-,High,David,4,FC Emmen O19,14,89,-,Yvarion,11,26,88,-,-,-,-,-,-
+Pass,00:32:06:210,Unsuccessful,Basic,-,-,High,Yvarion,11,FC Emmen O19,38,69,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:32:07:820,Successful,-,-,-,-,Pharell Dankwa,2,AFC O19,54,39,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:32:07:860,Successful,Basic,Key,-,High,Pharell Dankwa,2,AFC O19,54,39,-,Milan Engelander,10,42,37,-,-,-,-,-,-
+Defensive Action,00:32:10:410,Unsuccessful,-,-,-,-,Amine,6,FC Emmen O19,45,43,-,-,-,-,-,Interception,-,-,-,-,-
+Shots,00:32:12:390,Off Target,In Game,-,No Goal,High,Milan Engelander,10,AFC O19,40,39,Right Foot,-,-,-,-,-,-,-,Bottom-left,-,-
+Pass,00:32:55:790,Successful,Basic,-,-,High,Kevin,1,FC Emmen O19,14,58,-,Emmanuel,15,22,70,-,-,-,-,-,-
+Pass,00:32:58:490,Successful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,23,76,-,Ilias,2,35,94,-,-,-,-,-,-
+Defensive Action,00:33:00:490,Successful,-,-,-,-,Rody Schouren,19,AFC O19,33,96,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,00:33:10:010,Successful,Throw-in,-,-,Low,Diaz Baars,5,AFC O19,30,96,-,Jahmani Braham,17,24,75,-,-,-,-,-,-
+Attacking Third Entry,00:33:11:220,-,-,-,-,-,Jahmani Braham,17,AFC O19,25,81,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:33:11:260,Unsuccessful,Basic,-,-,High,Jahmani Braham,17,AFC O19,26,80,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:33:11:380,Successful,-,-,-,-,Dax Keller,4,AFC O19,25,79,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:33:13:880,Successful,Basic,-,-,High,Mohamed el Khallare,7,AFC O19,24,69,-,Jahmani Braham,17,27,62,-,-,-,-,-,-
+Pass,00:33:14:650,Unsuccessful,Basic,-,-,High,Jahmani Braham,17,AFC O19,27,62,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:33:14:770,Successful,-,-,-,-,Huub,8,FC Emmen O19,26,60,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:33:16:210,Successful,Basic,-,-,High,Noach Shenkman,6,AFC O19,28,62,-,Nicolai de Kort,15,24,66,-,-,-,-,-,-
+Pass,00:33:17:230,Successful,Basic,-,-,High,Nicolai de Kort,15,AFC O19,24,66,-,Rody Schouren,19,23,94,-,-,-,-,-,-
+Defensive Action,00:33:21:230,Successful,-,-,-,-,Ilias,2,FC Emmen O19,18,90,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,00:33:22:900,Successful,Basic,-,-,High,Amine,6,FC Emmen O19,17,72,-,D' Angelo,12,18,95,-,-,-,-,-,-
+Dribbles,00:33:25:950,Successful,-,-,-,-,D' Angelo,12,FC Emmen O19,18,94,-,-,-,19,95,-,-,-,-,-,-
+Pass,00:33:27:710,Successful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,19,88,-,Raff,3,11,53,-,-,-,-,-,-
+Pass,00:33:31:490,Successful,Basic,-,-,Low,Raff,3,FC Emmen O19,11,51,-,Enzo,5,14,31,-,-,-,-,-,-
+Pass,00:33:36:380,Unsuccessful,Basic,-,-,High,Enzo,5,FC Emmen O19,23,4,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:33:52:110,Unsuccessful,Throw-in,-,-,Low,Noach Shenkman,6,AFC O19,33,3,-,-,-,-,-,-,-,-,-,-,-
+Foul,00:33:53:210,-,-,-,-,-,Raff,3,FC Emmen O19,16,14,-,Jahmani Braham,17,-,-,-,-,-,-,-,-
+Freekick,00:34:34:530,Successful,Pass,-,-,-,Mohamed el Khallare,7,AFC O19,16,13,-,Prio Hamid,3,5,55,-,-,-,-,-,-
+Pass,00:34:34:570,Successful,Cross,Key,-,Low,Mohamed el Khallare,7,AFC O19,16,12,-,Prio Hamid,3,5,55,-,-,-,-,-,-
+Shots,00:34:36:090,On Target,In Game,-,No Goal,High,Prio Hamid,3,AFC O19,4,55,Header,-,-,-,-,-,-,-,Bottom-right,-,-
+Gk Saves,00:34:37:550,-,Low Saves,-,-,-,Kevin,1,FC Emmen O19,3,46,-,-,-,-,-,-,-,-,-,-,-
+Corners,00:35:04:010,Unsuccessful,Cross,-,-,-,Mohamed el Khallare,7,AFC O19,2,4,-,-,-,-,-,-,Right Corner,-,-,-,-
+Defensive Action,00:35:05:960,Successful,-,-,-,-,Ilias,2,FC Emmen O19,5,55,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:35:08:230,Unsuccessful,Basic,-,-,High,David,4,FC Emmen O19,11,58,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:35:11:900,Unsuccessful,Basic,-,-,Medium,Prio Hamid,3,AFC O19,45,14,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:35:20:170,Successful,Throw-in,-,-,Low,Yvarion,11,FC Emmen O19,28,2,-,Enzo,5,18,11,-,-,-,-,-,-
+Pass,00:35:27:980,Successful,Basic,-,-,Medium,Enzo,5,FC Emmen O19,24,19,-,David,4,14,60,-,-,-,-,-,-
+Pass,00:35:34:350,Unsuccessful,Basic,-,-,High,David,4,FC Emmen O19,26,62,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:35:36:610,Successful,-,-,-,-,Diaz Baars,5,AFC O19,55,68,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:35:38:720,Successful,Basic,Key,-,High,Diaz Baars,5,AFC O19,43,67,-,Mohamed el Khallare,7,17,29,-,-,-,-,-,-
+Attacking Third Entry,00:35:41:170,-,-,-,-,-,Mohamed el Khallare,7,AFC O19,17,28,-,-,-,-,-,-,Center,-,-,-,-
+Penalty Box Entries,00:35:41:730,-,-,-,-,-,Mohamed el Khallare,7,AFC O19,15,29,-,-,-,-,-,-,Right,-,-,-,-
+Shots,00:35:44:110,Off Target,In Game,-,No Goal,High,Mohamed el Khallare,7,AFC O19,13,36,Left Foot,-,-,-,-,-,-,-,Bottom-right,-,-
+Pass,00:36:06:570,Successful,Basic,-,-,Low,Raff,3,FC Emmen O19,5,39,-,Kevin,1,4,44,-,-,-,-,-,-
+Pass,00:36:09:790,Unsuccessful,Basic,-,-,Medium,Kevin,1,FC Emmen O19,5,49,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:36:13:390,Successful,-,-,-,-,Pharell Dankwa,2,AFC O19,66,34,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:36:13:560,Successful,Basic,-,-,High,Pharell Dankwa,2,AFC O19,66,34,-,Prio Hamid,3,58,33,-,-,-,-,-,-
+Pass,00:36:16:240,Successful,Basic,-,-,High,Prio Hamid,3,AFC O19,58,32,-,Mohamed el Khallare,7,40,14,-,-,-,-,-,-
+Pass,00:36:19:660,Unsuccessful,Basic,-,-,High,Mohamed el Khallare,7,AFC O19,39,11,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,00:36:25:900,Successful,-,-,-,-,Kevin,1,FC Emmen O19,14,45,-,David,4,11,57,-,-,Throw,-,-,-
+Pass,00:36:29:190,Successful,Basic,-,-,High,David,4,FC Emmen O19,12,57,-,D' Angelo,12,30,61,-,-,-,-,-,-
+Pass,00:36:30:650,Unsuccessful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,30,60,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:36:42:510,Unsuccessful,Throw-in,-,-,Low,Diaz Baars,5,AFC O19,25,95,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:36:43:910,Successful,-,-,-,-,David,4,FC Emmen O19,12,88,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:36:44:060,Successful,Basic,-,-,Medium,David,4,FC Emmen O19,12,88,-,Ilias,2,15,94,-,-,-,-,-,-
+Pass,00:36:44:960,Successful,Basic,-,-,High,Ilias,2,FC Emmen O19,11,93,-,Emmanuel,15,15,87,-,-,-,-,-,-
+Pass,00:36:46:430,Unsuccessful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,14,87,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:36:46:880,Successful,-,-,-,-,Milan Engelander,10,AFC O19,22,85,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:36:49:520,Successful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,22,85,-,Ilias,2,22,94,-,-,-,-,-,-
+Pass,00:36:51:230,Successful,Basic,-,-,High,Ilias,2,FC Emmen O19,31,93,-,Huub,8,77,72,-,-,-,-,-,-
+Attacking Third Entry,00:36:54:700,-,-,-,-,-,Huub,8,FC Emmen O19,76,72,-,-,-,-,-,-,Center,-,-,-,-
+Pass,00:36:59:310,Successful,Basic,-,-,High,Huub,8,FC Emmen O19,90,87,-,Yvarion,11,72,27,-,-,-,-,-,-
+Pass,00:37:05:880,Unsuccessful,Basic,-,-,High,Yvarion,11,FC Emmen O19,75,25,-,-,-,-,-,-,-,-,-,-,-
+Foul,00:37:06:260,-,-,-,-,-,Jahmani Braham,17,AFC O19,79,26,-,Huub,8,-,-,-,-,-,-,-,-
+Freekick,00:37:54:330,On Target,Shot,-,-,-,D' Angelo,12,FC Emmen O19,80,25,-,-,-,-,-,-,-,-,-,-,-
+Shots,00:37:54:370,On Target,After Free Kick,-,No Goal,Low,D' Angelo,12,FC Emmen O19,80,25,Right Foot,-,-,-,-,-,-,-,Top-left,-,-
+Gk Saves,00:37:55:240,-,High Saves,-,-,-,Storm Huijsman,20,AFC O19,98,48,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,00:38:09:720,Successful,-,-,-,-,Storm Huijsman,20,AFC O19,95,48,-,Dax Keller,4,94,83,-,-,Kick,-,-,-
+Pass,00:38:13:450,Unsuccessful,Basic,-,-,High,Dax Keller,4,AFC O19,95,83,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:38:16:170,Won,Air,-,-,-,Emmanuel,15,FC Emmen O19,53,45,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:38:16:210,Lost,Air,-,-,-,Jahmani Braham,17,AFC O19,53,45,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:38:16:250,Successful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,53,45,-,Huub,8,56,44,-,-,-,-,-,-
+Pass,00:38:17:230,Unsuccessful,Basic,-,-,Medium,Huub,8,FC Emmen O19,55,44,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:38:18:080,Successful,Basic,-,-,Medium,Nicolai de Kort,15,AFC O19,64,48,-,Jahmani Braham,17,71,37,-,-,-,-,-,-
+Pass,00:38:20:400,Successful,Basic,-,-,Medium,Jahmani Braham,17,AFC O19,69,54,-,Rody Schouren,19,71,87,-,-,-,-,-,-
+Pass,00:38:25:450,Successful,Basic,-,-,Medium,Rody Schouren,19,AFC O19,72,87,-,Dax Keller,4,72,62,-,-,-,-,-,-
+Pass,00:38:28:060,Unsuccessful,Basic,-,-,High,Dax Keller,4,AFC O19,69,60,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:38:33:850,Successful,Throw-in,-,-,Low,Enzo,5,FC Emmen O19,40,4,-,Yvarion,11,60,14,-,-,-,-,-,-
+Pass,00:38:38:840,Successful,Basic,-,-,Medium,Yvarion,11,FC Emmen O19,54,42,-,Emmanuel,15,46,46,-,-,-,-,-,-
+Pass,00:38:43:650,Unsuccessful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,53,56,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:39:06:300,Unsuccessful,Throw-in,-,-,Low,Diaz Baars,5,AFC O19,87,96,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:39:07:920,Unsuccessful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,71,93,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:39:09:520,Successful,Basic,-,-,High,Diaz Baars,5,AFC O19,78,94,-,Milan Engelander,10,74,86,-,-,-,-,-,-
+Pass,00:39:09:870,Successful,Basic,-,-,Medium,Milan Engelander,10,AFC O19,74,87,-,Jahmani Braham,17,72,77,-,-,-,-,-,-
+Pass,00:39:11:250,Successful,Basic,-,-,High,Jahmani Braham,17,AFC O19,72,83,-,Milan Engelander,10,76,79,-,-,-,-,-,-
+Pass,00:39:12:150,Unsuccessful,Basic,-,-,High,Milan Engelander,10,AFC O19,76,80,-,-,-,-,-,-,-,-,-,-,-
+Attacking Third Entry,00:39:16:620,-,-,-,-,-,Huub,8,FC Emmen O19,70,33,-,-,-,-,-,-,Center,-,-,-,-
+Foul,00:39:19:840,-,-,-,-,-,Diaz Baars,5,AFC O19,74,24,-,Huub,8,-,-,-,-,-,-,-,-
+Freekick,00:39:49:210,Unsuccessful,Pass,-,-,-,D' Angelo,12,FC Emmen O19,75,23,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:39:49:250,Unsuccessful,Cross,-,-,Low,D' Angelo,12,FC Emmen O19,75,23,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:40:04:560,Successful,Basic,-,-,Low,Dax Keller,4,AFC O19,95,62,-,Prio Hamid,3,95,38,-,-,-,-,-,-
+Pass,00:40:09:010,Successful,Basic,-,-,Medium,Prio Hamid,3,AFC O19,87,20,-,Jahmani Braham,17,53,32,-,-,-,-,-,-
+Pass,00:40:12:280,Successful,Basic,-,-,High,Jahmani Braham,17,AFC O19,46,23,-,Mohamed el Khallare,7,42,9,-,-,-,-,-,-
+Attacking Third Entry,00:40:17:060,-,-,-,-,-,Mohamed el Khallare,7,AFC O19,30,7,-,-,-,-,-,-,Right,-,-,-,-
+Pass,00:40:18:460,Successful,Basic,-,-,Medium,Mohamed el Khallare,7,AFC O19,30,8,-,Milan Engelander,10,25,63,-,-,-,-,-,-
+Pass,00:40:22:520,Unsuccessful,Basic,-,-,High,Milan Engelander,10,AFC O19,25,57,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:40:23:680,Successful,-,-,-,-,Emmanuel,15,FC Emmen O19,19,51,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:40:24:560,Successful,Basic,-,-,Medium,Emmanuel,15,FC Emmen O19,22,50,-,D' Angelo,12,23,59,-,-,-,-,-,-
+Pass,00:40:27:100,Successful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,32,63,-,Yvarion,11,70,11,-,-,-,-,-,-
+Attacking Third Entry,00:40:31:350,-,-,-,-,-,Yvarion,11,FC Emmen O19,70,9,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:40:33:220,Unsuccessful,Cross,-,-,Low,Yvarion,11,FC Emmen O19,81,15,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:40:34:410,Successful,-,-,-,-,Dax Keller,4,AFC O19,90,44,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:40:34:560,Successful,Basic,-,-,Medium,Dax Keller,4,AFC O19,90,44,-,Milan Engelander,10,78,51,-,-,-,-,-,-
+Duel,00:40:36:420,Won,Ground,-,-,-,Milan Engelander,10,AFC O19,78,51,-,-,-,-,-,-,-,-,-,-,-
+Duel,00:40:36:460,Lost,Ground,-,-,-,Emmanuel,15,FC Emmen O19,78,51,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:40:36:500,Successful,Basic,-,-,High,Milan Engelander,10,AFC O19,77,51,-,Prio Hamid,3,89,22,-,-,-,-,-,-
+Pass,00:40:37:650,Unsuccessful,Basic,-,-,High,Prio Hamid,3,AFC O19,89,25,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:42:13:860,Successful,Throw-in,-,-,Low,Enzo,5,FC Emmen O19,50,3,-,Yvarion,11,58,6,-,-,-,-,-,-
+Pass,00:42:15:420,Unsuccessful,Basic,-,-,High,Yvarion,11,FC Emmen O19,59,7,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:42:16:220,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,56,18,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:42:16:720,Unsuccessful,Basic,-,-,High,Nicolai de Kort,15,AFC O19,56,18,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:42:17:800,Successful,-,-,-,-,Yvarion,11,FC Emmen O19,65,14,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:42:19:050,Successful,Basic,-,-,High,Yvarion,11,FC Emmen O19,65,25,-,Amine,6,62,36,-,-,-,-,-,-
+Pass,00:42:20:610,Successful,Basic,-,-,Medium,Amine,6,FC Emmen O19,62,39,-,Ilias,2,61,59,-,-,-,-,-,-
+Attacking Third Entry,00:42:24:280,-,-,-,-,-,Ilias,2,FC Emmen O19,72,65,-,-,-,-,-,-,Center,-,-,-,-
+Pass,00:42:27:850,Successful,Basic,-,-,High,Ilias,2,FC Emmen O19,79,70,-,D' Angelo,12,71,54,-,-,-,-,-,-
+Pass,00:42:29:470,Successful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,72,55,-,David,4,58,69,-,-,-,-,-,-
+Pass,00:42:36:170,Unsuccessful,Basic,-,-,Medium,David,4,FC Emmen O19,68,61,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:42:36:700,Successful,-,-,-,-,Diaz Baars,5,AFC O19,79,66,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:42:49:090,Successful,Throw-in,-,-,Low,Ilias,2,FC Emmen O19,65,95,-,Emmanuel,15,63,80,-,-,-,-,-,-
+Defensive Action,00:42:50:300,Unsuccessful,-,-,-,-,Milan Engelander,10,AFC O19,64,85,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,00:42:59:280,Successful,Throw-in,-,-,Low,Ilias,2,FC Emmen O19,73,95,-,Remiyan,9,74,71,-,-,-,-,-,-
+Pass,00:43:00:970,Unsuccessful,Basic,-,-,High,Jahmani Braham,17,AFC O19,74,63,-,-,-,-,-,-,-,-,-,-,-
+Dribbles,00:43:01:020,Unsuccessful,-,-,-,-,Jahmani Braham,17,AFC O19,74,68,-,-,-,74,65,-,-,-,-,-,-
+Pass,00:43:22:300,Successful,Basic,-,-,Medium,Emmanuel,15,FC Emmen O19,68,64,-,Huub,8,58,45,-,-,-,-,-,-
+Pass,00:43:24:930,Successful,Basic,-,-,Medium,Huub,8,FC Emmen O19,60,43,-,Enzo,5,60,7,-,-,-,-,-,-
+Pass,00:43:27:690,Successful,Basic,-,-,High,Enzo,5,FC Emmen O19,60,7,-,Yvarion,11,71,4,-,-,-,-,-,-
+Attacking Third Entry,00:43:30:530,-,-,-,-,-,Yvarion,11,FC Emmen O19,70,7,-,-,-,-,-,-,Left,-,-,-,-
+Pass,00:43:31:320,Successful,Basic,-,-,High,Yvarion,11,FC Emmen O19,56,11,-,Enzo,5,37,10,-,-,-,-,-,-
+Pass,00:43:33:990,Successful,Basic,-,-,Medium,Enzo,5,FC Emmen O19,56,14,-,Huub,8,57,24,-,-,-,-,-,-
+Pass,00:43:34:500,Successful,Basic,-,-,Medium,Huub,8,FC Emmen O19,57,23,-,Raff,3,46,17,-,-,-,-,-,-
+Pass,00:43:37:720,Successful,Basic,-,-,Low,Raff,3,FC Emmen O19,45,26,-,David,4,44,61,-,-,-,-,-,-
+Pass,00:43:42:000,Unsuccessful,Cross,-,-,Medium,David,4,FC Emmen O19,46,57,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:43:44:500,Successful,-,-,-,-,Storm Huijsman,20,AFC O19,85,46,-,-,-,-,-,Interception,-,-,-,-,-
+Gk Distribution,00:43:46:510,Successful,-,-,-,-,Storm Huijsman,20,AFC O19,85,49,-,Diaz Baars,5,80,62,-,-,Throw,-,-,-
+Pass,00:43:50:430,Successful,Basic,-,-,Medium,Diaz Baars,5,AFC O19,73,70,-,Milan Engelander,10,20,76,-,-,-,-,-,-
+Duel,00:43:53:990,Won,Ground,-,-,-,Milan Engelander,10,AFC O19,20,75,-,-,-,-,-,-,-,-,-,-,-
+Attacking Third Entry,00:43:54:030,-,-,-,-,-,Milan Engelander,10,AFC O19,20,76,-,-,-,-,-,-,Left,-,-,-,-
+Duel,00:43:54:030,Lost,Ground,-,-,-,Ilias,2,FC Emmen O19,20,76,-,-,-,-,-,-,-,-,-,-,-
+Pass,00:43:54:070,Unsuccessful,Cross,-,-,High,Milan Engelander,10,AFC O19,20,75,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,00:44:05:990,Successful,-,-,-,-,Kevin,1,FC Emmen O19,8,55,-,Raff,3,8,31,-,-,Throw,-,-,-
+Pass,00:44:08:860,Successful,Basic,-,-,Low,Raff,3,FC Emmen O19,9,34,-,Kevin,1,5,55,-,-,-,-,-,-
+Pass,00:44:12:010,Unsuccessful,Basic,-,-,Medium,Kevin,1,FC Emmen O19,8,60,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:44:13:790,Successful,-,-,-,-,Diaz Baars,5,AFC O19,26,82,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,00:44:25:340,Successful,Throw-in,-,-,Low,Ilias,2,FC Emmen O19,29,96,-,D' Angelo,12,49,82,-,-,-,-,-,-
+Defensive Action,00:44:28:670,Unsuccessful,-,-,-,-,Noach Shenkman,6,AFC O19,41,71,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,00:44:29:610,Unsuccessful,Basic,-,-,High,Ilias,2,FC Emmen O19,34,82,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,00:44:29:760,Successful,-,-,-,-,Noach Shenkman,6,AFC O19,36,81,-,-,-,-,-,Interception,-,-,-,-,-
+Defensive Action,00:44:32:220,Unsuccessful,-,-,-,-,Ilias,2,FC Emmen O19,33,95,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,00:44:44:390,Successful,Throw-in,-,-,Low,Diaz Baars,5,AFC O19,34,97,-,Milan Engelander,10,26,86,-,-,-,-,-,-
+Attacking Third Entry,00:44:45:510,-,-,-,-,-,Milan Engelander,10,AFC O19,26,86,-,-,-,-,-,-,Left,-,-,-,-
+Defensive Action,00:44:48:330,Successful,-,-,-,-,Huub,8,FC Emmen O19,23,68,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,00:44:50:290,Successful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,26,67,-,D' Angelo,12,26,94,-,-,-,-,-,-
+Pass,00:44:56:500,Successful,Basic,-,-,Medium,D' Angelo,12,FC Emmen O19,28,70,-,Ilias,2,23,81,-,-,-,-,-,-
+Pass,00:44:59:320,Successful,Basic,-,-,Low,Ilias,2,FC Emmen O19,25,75,-,Emmanuel,15,32,70,-,-,-,-,-,-
+Pass,00:45:01:380,Successful,Basic,-,-,Medium,Emmanuel,15,FC Emmen O19,26,73,-,Emmanuel,15,24,95,-,-,-,-,-,-
+Pass,00:45:01:390,Successful,Basic,-,-,Medium,Emmanuel,15,FC Emmen O19,26,77,-,D' Angelo,12,26,95,-,-,-,-,-,-
+Defensive Action,00:45:02:850,Unsuccessful,-,-,-,-,Rody Schouren,19,AFC O19,26,95,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,00:45:15:090,Successful,Throw-in,-,-,Low,Ilias,2,FC Emmen O19,27,96,-,Huub,8,28,82,-,-,-,-,-,-
+Pass,00:45:17:010,Successful,Basic,-,-,High,Huub,8,FC Emmen O19,27,84,-,Raff,3,25,51,-,-,-,-,-,-
+Pass,00:45:20:170,Successful,Basic,-,-,Low,Raff,3,FC Emmen O19,28,49,-,Emmanuel,15,46,46,-,-,-,-,-,-
+Pass,00:45:23:530,Successful,Basic,-,-,High,Emmanuel,15,FC Emmen O19,54,35,-,Enzo,5,63,3,-,-,-,-,-,-
+Pass,00:45:26:900,Successful,Basic,-,-,High,Enzo,5,FC Emmen O19,69,4,-,D' Angelo,12,90,87,-,-,-,-,-,-
+Attacking Third Entry,00:45:30:730,-,-,-,-,-,D' Angelo,12,FC Emmen O19,90,87,-,-,-,-,-,-,Right,-,-,-,-
+Penalty Box Entries,00:45:32:950,-,-,-,-,-,D' Angelo,12,FC Emmen O19,94,79,-,-,-,-,-,-,Right,-,-,-,-
+Foul,00:45:35:740,-,-,-,-,-,Dax Keller,4,AFC O19,95,72,-,D' Angelo,12,-,-,-,-,-,-,-,-
+Booking,00:45:42:770,-,-,-,-,-,Dax Keller,4,AFC O19,95,72,-,-,-,-,-,-,-,-,-,Yellow Card,-
+Shots,00:46:55:570,On Target,After Penalty,-,Goal,Low,Remiyan,9,FC Emmen O19,90,49,Right Foot,-,-,-,-,-,-,-,Top-left,-,-
+Goal,00:46:55:610,Goal,Penalty Goal,-,-,-,Remiyan,9,FC Emmen O19,90,50,-,Storm Huijsman,20,98,50,-,-,-,Top-left,-,-
+Pass,00:47:37:100,Successful,Basic,-,-,Low,Jahmani Braham,17,AFC O19,50,50,-,Prio Hamid,3,71,24,-,-,-,-,-,-
+Pass,00:47:39:550,Successful,Basic,-,-,Low,Prio Hamid,3,AFC O19,72,24,-,Dax Keller,4,77,37,-,-,-,-,-,-
+Game_State,00:47:42:260,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1st Half End
+Substitute,01:04:23:210,-,Tactical,-,-,-,Emmanuel,15,FC Emmen O19,55,98,-,Rinse,16,-,-,-,-,-,-,-,-
+Game_State,01:04:48:250,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2nd Half Start
+Pass,01:04:49:750,Successful,Basic,-,-,Low,Remiyan,9,FC Emmen O19,50,50,-,Huub,8,64,54,-,-,-,-,-,-
+Pass,01:04:52:100,Successful,Basic,-,-,Medium,Huub,8,FC Emmen O19,66,55,-,Raff,3,74,54,-,-,-,-,-,-
+Pass,01:04:56:580,Successful,Basic,-,-,Medium,Huub,8,FC Emmen O19,68,53,-,Kevin,1,89,46,-,-,-,-,-,-
+Pass,01:05:01:420,Unsuccessful,Basic,-,-,Medium,Kevin,1,FC Emmen O19,88,41,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:05:04:450,Won,Air,-,-,-,Pharell Dankwa,2,AFC O19,35,64,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:05:04:450,Lost,Air,-,-,-,Remiyan,9,FC Emmen O19,35,64,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:05:04:570,Successful,Basic,-,-,High,Pharell Dankwa,2,AFC O19,35,64,-,Dax Keller,4,24,23,-,-,-,-,-,-
+Pass,01:05:11:080,Successful,Basic,-,-,High,Dax Keller,4,AFC O19,28,25,-,Jahmani Braham,17,55,41,-,-,-,-,-,-
+Attacking Third Entry,01:05:12:710,-,-,-,-,-,Jahmani Braham,17,AFC O19,55,42,-,-,-,-,-,-,Center,-,-,-,-
+Pass,01:05:14:860,Successful,Basic,-,-,Medium,Jahmani Braham,17,AFC O19,55,54,-,Mohamed el Khallare,7,79,86,-,-,-,-,-,-
+Defensive Action,01:05:22:880,Successful,-,-,-,-,Huub,8,FC Emmen O19,83,67,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:05:24:190,Successful,Basic,-,-,High,Huub,8,FC Emmen O19,82,65,-,Yvarion,11,71,81,-,-,-,-,-,-
+Defensive Action,01:05:29:490,Unsuccessful,-,-,-,-,Noach Shenkman,6,AFC O19,53,93,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:05:34:380,Successful,Throw-in,-,-,Low,Enzo,5,FC Emmen O19,69,97,-,Huub,8,78,83,-,-,-,-,-,-
+Pass,01:05:43:440,Successful,Basic,-,-,Medium,Huub,8,FC Emmen O19,65,73,-,Yvarion,11,8,92,-,-,-,-,-,-
+Attacking Third Entry,01:05:49:140,-,-,-,-,-,Yvarion,11,FC Emmen O19,8,92,-,-,-,-,-,-,Left,-,-,-,-
+Pass,01:05:56:510,Successful,Basic,-,-,High,Yvarion,11,FC Emmen O19,7,94,-,Enzo,5,18,93,-,-,-,-,-,-
+Pass,01:05:59:830,Successful,Basic,-,-,Medium,Enzo,5,FC Emmen O19,16,83,-,Amine,6,20,69,-,-,-,-,-,-
+Pass,01:06:02:710,Successful,Basic,-,-,High,Amine,6,FC Emmen O19,17,71,-,Yvarion,11,11,92,-,-,-,-,-,-
+Pass,01:06:05:850,Unsuccessful,Cross,-,-,Medium,Yvarion,11,FC Emmen O19,9,93,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:06:08:020,Successful,-,-,-,-,Storm Huijsman,20,AFC O19,4,50,-,-,-,-,-,Interception,-,-,-,-,-
+Gk Distribution,01:06:27:210,Unsuccessful,-,-,-,-,Storm Huijsman,20,AFC O19,8,64,-,-,-,-,-,-,-,Kick,-,-,-
+Pass,01:07:11:250,Successful,Throw-in,-,-,Low,Diaz Baars,5,AFC O19,91,96,-,Milan Engelander,10,76,76,-,-,-,-,-,-
+Pass,01:07:11:350,Unsuccessful,Basic,-,-,High,Milan Engelander,10,AFC O19,76,73,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:07:12:120,Successful,-,-,-,-,Raff,3,FC Emmen O19,81,71,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:07:12:280,Unsuccessful,Basic,-,-,High,Raff,3,FC Emmen O19,80,70,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:07:17:800,Successful,-,-,-,-,Dax Keller,4,AFC O19,34,93,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:07:20:650,Unsuccessful,Basic,-,-,Low,Dax Keller,4,AFC O19,30,79,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:07:23:170,Successful,-,-,-,-,Raff,3,FC Emmen O19,73,68,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:07:23:270,Unsuccessful,Basic,-,-,Medium,Raff,3,FC Emmen O19,74,70,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:07:24:250,Successful,-,-,-,-,Noach Shenkman,6,AFC O19,63,74,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:07:25:080,Unsuccessful,Basic,-,-,High,Noach Shenkman,6,AFC O19,64,76,-,-,-,-,-,-,-,-,-,-,-
+Foul,01:07:26:300,-,-,-,-,-,Amine,6,FC Emmen O19,73,85,-,Pharell Dankwa,2,-,-,-,-,-,-,-,-
+Freekick,01:07:47:620,Successful,Pass,-,-,-,Jahmani Braham,17,AFC O19,76,90,-,Dax Keller,4,90,56,-,-,-,-,-,-
+Duel,01:07:48:860,Won,Ground,-,-,-,Dax Keller,4,AFC O19,91,57,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:07:48:860,Lost,Ground,-,-,-,Raff,3,FC Emmen O19,91,57,-,-,-,-,-,-,-,-,-,-,-
+Penalty Box Entries,01:07:48:900,-,-,-,-,-,Dax Keller,4,AFC O19,90,57,-,-,-,-,-,-,Center,-,-,-,-
+Shots,01:07:48:940,On Target,In Game,-,No Goal,High,Dax Keller,4,AFC O19,90,57,Left Foot,-,-,-,-,-,-,-,Bottom-right,-,-
+Gk Saves,01:07:50:160,-,Low Saves,-,-,-,Kevin,1,FC Emmen O19,96,54,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,01:07:56:450,Successful,-,-,-,-,Kevin,1,FC Emmen O19,95,49,-,David,4,92,33,-,-,Throw,-,-,-
+Pass,01:08:00:120,Unsuccessful,Basic,-,-,Medium,David,4,FC Emmen O19,88,32,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:08:01:920,Unsuccessful,-,-,-,-,Prio Hamid,3,AFC O19,61,46,-,-,-,-,-,Interception,-,-,-,-,-
+Defensive Action,01:08:03:280,Successful,-,-,-,-,Amine,6,FC Emmen O19,62,44,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:08:03:420,Successful,Basic,-,-,Medium,Amine,6,FC Emmen O19,62,44,-,D' Angelo,12,61,32,-,-,-,-,-,-
+Defensive Action,01:08:05:090,Unsuccessful,-,-,-,-,Diaz Baars,5,AFC O19,57,31,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:08:07:290,Unsuccessful,Basic,-,-,High,D' Angelo,12,FC Emmen O19,52,30,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:08:10:580,Successful,-,-,-,-,Diaz Baars,5,AFC O19,20,15,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:08:10:670,Successful,Basic,-,-,High,Diaz Baars,5,AFC O19,20,14,-,Storm Huijsman,20,5,30,-,-,-,-,-,-
+Pass,01:08:12:730,Unsuccessful,Basic,-,-,Medium,Storm Huijsman,20,AFC O19,5,30,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:08:35:149,Successful,Throw-in,-,-,Low,Amine,6,FC Emmen O19,36,4,-,D' Angelo,12,34,11,-,-,-,-,-,-
+Defensive Action,01:08:37:300,Successful,-,-,-,-,Diaz Baars,5,AFC O19,32,15,-,-,-,-,-,Tackle,-,-,-,-,-
+Foul,01:08:39:020,-,-,-,-,-,D' Angelo,12,FC Emmen O19,31,25,-,Diaz Baars,5,-,-,-,-,-,-,-,-
+Booking,01:08:51:870,-,-,-,-,-,D' Angelo,12,FC Emmen O19,28,22,-,-,-,-,-,-,-,-,-,Yellow Card,-
+Booking,01:08:51:910,-,-,-,-,-,Diaz Baars,5,AFC O19,27,22,-,-,-,-,-,-,-,-,-,Yellow Card,-
+Freekick,01:09:25:779,Successful,Pass,-,-,-,Dax Keller,4,AFC O19,31,24,-,Nicolai de Kort,15,45,31,-,-,-,-,-,-
+Pass,01:09:26:660,Successful,Basic,-,-,Medium,Nicolai de Kort,15,AFC O19,42,27,-,Dax Keller,4,30,19,-,-,-,-,-,-
+Pass,01:09:28:399,Unsuccessful,Basic,Regular,-,Medium,Dax Keller,4,AFC O19,28,20,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:09:29:979,Successful,-,-,-,-,Rinse,16,FC Emmen O19,46,28,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:09:30:069,Successful,Basic,Regular,-,High,Rinse,16,FC Emmen O19,46,28,-,Amine,6,41,28,-,-,-,-,-,-
+Lost Possession,01:09:30:680,-,-,-,-,-,Amine,6,FC Emmen O19,41,31,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:09:32:359,Successful,Basic,Regular,-,High,Noach Shenkman,6,AFC O19,44,39,-,Diaz Baars,5,46,27,-,-,-,-,-,-
+Pass,01:09:35:120,Unsuccessful,Basic,Regular,-,Medium,Diaz Baars,5,AFC O19,54,27,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:09:38:520,Successful,-,-,-,-,Kevin,1,FC Emmen O19,90,61,-,-,-,-,-,Interception,-,-,-,-,-
+Gk Distribution,01:09:43:149,Successful,-,-,-,-,Kevin,1,FC Emmen O19,94,50,-,Raff,3,93,59,-,-,Throw,-,-,-
+Pass,01:09:48:910,Successful,Basic,Regular,-,Medium,Raff,3,FC Emmen O19,85,56,-,David,4,80,14,-,-,-,-,-,-
+Pass,01:09:52:420,Successful,Basic,Regular,-,High,David,4,FC Emmen O19,76,13,-,Ilias,2,58,20,-,-,-,-,-,-
+Pass,01:09:56:940,Unsuccessful,Basic,Regular,-,High,Ilias,2,FC Emmen O19,63,6,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:10:08:490,Unsuccessful,Basic,Regular,-,Medium,Dax Keller,4,AFC O19,31,23,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:10:10:240,Won,Ground,-,-,-,Raff,3,FC Emmen O19,61,49,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:10:10:240,Lost,Ground,-,-,-,Mohamed el Khallare,7,AFC O19,61,49,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:10:10:240,Won,Air,-,-,-,Mohamed el Khallare,7,AFC O19,61,49,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:10:10:240,Won,Air,-,-,-,Mohamed el Khallare,7,AFC O19,61,49,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:10:10:250,Successful,-,-,-,-,Raff,3,FC Emmen O19,62,46,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:10:10:350,Unsuccessful,Basic,Regular,-,High,Raff,3,FC Emmen O19,60,45,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:10:13:230,Successful,-,-,-,-,Prio Hamid,3,AFC O19,26,51,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:10:13:340,Successful,Basic,Regular,-,High,Prio Hamid,3,AFC O19,26,52,-,Noach Shenkman,6,39,52,-,-,-,-,-,-
+Pass,01:10:14:440,Unsuccessful,Basic,Regular,-,High,Noach Shenkman,6,AFC O19,39,51,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:10:16:130,Successful,-,-,-,-,Raff,3,FC Emmen O19,53,56,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:10:16:290,Successful,Basic,Regular,-,High,Raff,3,FC Emmen O19,52,56,-,Yvarion,11,33,63,-,-,-,-,-,-
+Attacking Third Entry,01:10:19:300,-,-,-,-,-,Yvarion,11,FC Emmen O19,32,65,-,-,-,-,-,-,Left,-,-,-,-
+Defensive Action,01:10:19:500,Successful,-,-,-,-,Noach Shenkman,6,AFC O19,34,67,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:10:19:880,Successful,Basic,Regular,-,High,Noach Shenkman,6,AFC O19,33,69,-,Pharell Dankwa,2,30,74,-,-,-,-,-,-
+Foul,01:10:21:760,-,-,-,-,-,Yvarion,11,FC Emmen O19,30,84,-,Pharell Dankwa,2,-,-,-,-,-,-,-,-
+Freekick,01:10:38:240,Successful,Pass,-,-,-,Pharell Dankwa,2,AFC O19,28,86,-,Prio Hamid,3,13,87,-,-,-,-,-,-
+Pass,01:10:40:960,Successful,Basic,Regular,-,Low,Prio Hamid,3,AFC O19,13,86,-,Dax Keller,4,17,38,-,-,-,-,-,-
+Pass,01:10:45:730,Successful,Basic,Regular,-,Medium,Dax Keller,4,AFC O19,25,30,-,Milan Engelander,10,45,24,-,-,-,-,-,-
+Pass,01:10:53:180,Unsuccessful,Through Ball,Regular,-,High,Milan Engelander,10,AFC O19,68,33,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,01:11:06:210,Successful,-,-,-,-,Raff,3,FC Emmen O19,95,61,-,Kevin,1,95,52,-,-,Kick,-,-,-
+Pass,01:11:12:050,Unsuccessful,Basic,Regular,-,Medium,Kevin,1,FC Emmen O19,93,49,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:11:15:680,Won,Air,-,-,-,Dax Keller,4,AFC O19,41,30,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:11:15:680,Lost,Air,-,-,-,Remiyan,9,FC Emmen O19,41,30,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:11:15:720,Successful,-,-,-,-,Dax Keller,4,AFC O19,40,30,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:11:15:760,Unsuccessful,Basic,Regular,-,High,Dax Keller,4,AFC O19,40,30,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:11:17:500,Successful,-,-,-,-,Ilias,2,FC Emmen O19,56,15,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:11:20:410,Successful,Basic,Regular,-,Medium,Ilias,2,FC Emmen O19,48,11,-,David,4,66,13,-,-,-,-,-,-
+Pass,01:11:22:660,Successful,Basic,Regular,-,Medium,David,4,FC Emmen O19,64,15,-,Rinse,16,56,21,-,-,-,-,-,-
+Pass,01:11:24:940,Successful,Basic,Regular,-,Medium,Rinse,16,FC Emmen O19,60,30,-,Raff,3,68,57,-,-,-,-,-,-
+Pass,01:11:28:010,Successful,Basic,Regular,-,Medium,Raff,3,FC Emmen O19,63,63,-,Enzo,5,35,93,-,-,-,-,-,-
+Pass,01:11:33:350,Successful,Basic,Regular,-,High,Enzo,5,FC Emmen O19,33,87,-,Huub,8,38,85,-,-,-,-,-,-
+Pass,01:11:35:780,Successful,Basic,Regular,-,High,Huub,8,FC Emmen O19,44,84,-,Raff,3,59,81,-,-,-,-,-,-
+Pass,01:11:38:320,Successful,Basic,Regular,-,High,Raff,3,FC Emmen O19,54,81,-,Rinse,16,48,65,-,-,-,-,-,-
+Pass,01:11:40:240,Successful,Basic,Regular,-,Medium,Rinse,16,FC Emmen O19,48,67,-,Huub,8,54,67,-,-,-,-,-,-
+Pass,01:11:41:500,Successful,Basic,Regular,-,High,Huub,8,FC Emmen O19,57,64,-,David,4,63,38,-,-,-,-,-,-
+Pass,01:11:44:590,Successful,Basic,Regular,-,Medium,David,4,FC Emmen O19,60,39,-,D' Angelo,12,41,31,-,-,-,-,-,-
+Lost Possession,01:11:48:110,-,-,-,-,-,D' Angelo,12,FC Emmen O19,44,14,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:11:58:980,Unsuccessful,Throw-in,Regular,-,Low,Diaz Baars,5,AFC O19,64,3,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:12:00:770,Successful,-,-,-,-,David,4,FC Emmen O19,79,8,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:12:00:910,Successful,Basic,Regular,-,Medium,David,4,FC Emmen O19,78,10,-,Huub,8,78,26,-,-,-,-,-,-
+Duel,01:12:02:930,Won,Ground,-,-,-,Huub,8,FC Emmen O19,80,25,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:12:02:930,Lost,Ground,-,-,-,Jahmani Braham,17,AFC O19,80,25,-,-,-,-,-,-,-,-,-,-,-
+Foul,01:12:04:730,-,-,-,-,-,Jahmani Braham,17,AFC O19,83,28,-,Huub,8,-,-,-,-,-,-,-,-
+Freekick,01:12:10:630,Successful,Pass,-,-,-,David,4,FC Emmen O19,89,29,-,Kevin,1,93,42,-,-,-,-,-,-
+Pass,01:12:15:340,Successful,Basic,Regular,-,Medium,Kevin,1,FC Emmen O19,93,44,-,Raff,3,90,61,-,-,-,-,-,-
+Pass,01:12:19:730,Successful,Basic,Regular,-,Medium,Raff,3,FC Emmen O19,81,70,-,D' Angelo,12,52,11,-,-,-,-,-,-
+Foul,01:12:27:690,-,-,-,-,-,Rody Schouren,19,AFC O19,42,11,-,D' Angelo,12,-,-,-,-,-,-,-,-
+Freekick,01:12:54:480,Successful,Pass,-,-,-,Huub,8,FC Emmen O19,38,15,-,Remiyan,9,17,64,-,-,-,-,-,-
+Attacking Third Entry,01:12:56:930,-,-,-,-,-,Remiyan,9,FC Emmen O19,17,66,-,-,-,-,-,-,Center,-,-,-,-
+Pass,01:12:57:000,Unsuccessful,Basic,Regular,-,High,Remiyan,9,FC Emmen O19,18,66,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:12:58:200,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,18,48,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:12:58:320,Unsuccessful,Basic,Regular,-,High,Nicolai de Kort,15,AFC O19,18,48,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:13:00:390,Successful,-,-,-,-,Huub,8,FC Emmen O19,25,25,-,-,-,-,-,Interception,-,-,-,-,-
+Shots,01:13:03:230,On Target,In Game,-,No Goal,High,Huub,8,FC Emmen O19,18,30,Left Foot,-,-,-,-,-,-,-,Bottom-right,-,-
+Gk Saves,01:13:04:440,-,Low Saves,-,-,-,Storm Huijsman,20,AFC O19,3,46,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,01:13:25:210,Unsuccessful,-,-,-,-,Storm Huijsman,20,AFC O19,8,64,-,-,-,-,-,-,-,Kick,-,-,-
+Pass,01:13:31:050,Successful,Basic,Regular,-,Medium,Raff,3,FC Emmen O19,82,62,-,Kevin,1,90,40,-,-,-,-,-,-
+Pass,01:13:34:930,Successful,Basic,Regular,-,High,Kevin,1,FC Emmen O19,90,29,-,Rinse,16,74,29,-,-,-,-,-,-
+Pass,01:13:37:410,Successful,Basic,Regular,-,Medium,Rinse,16,FC Emmen O19,76,36,-,Huub,8,80,58,-,-,-,-,-,-
+Pass,01:13:41:000,Successful,Basic,Regular,-,High,Huub,8,FC Emmen O19,73,70,-,Enzo,5,72,92,-,-,-,-,-,-
+Pass,01:13:43:370,Successful,Basic,Regular,-,Medium,Enzo,5,FC Emmen O19,66,90,-,Amine,6,57,71,-,-,-,-,-,-
+Pass,01:13:45:510,Successful,Basic,Regular,-,High,Amine,6,FC Emmen O19,55,67,-,Rinse,16,46,54,-,-,-,-,-,-
+Pass,01:13:48:200,Unsuccessful,Basic,Regular,-,High,Rinse,16,FC Emmen O19,37,56,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:14:10:980,Unsuccessful,Throw-in,Regular,-,Low,Prio Hamid,3,AFC O19,11,96,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:14:12:460,Successful,-,-,-,-,Huub,8,FC Emmen O19,29,93,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:14:12:630,Unsuccessful,Basic,Regular,-,High,Huub,8,FC Emmen O19,27,92,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:14:13:150,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,25,84,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:14:13:320,Successful,Basic,Regular,-,High,Nicolai de Kort,15,AFC O19,26,84,-,Noach Shenkman,6,29,86,-,-,-,-,-,-
+Defensive Action,01:14:14:040,Unsuccessful,-,-,-,-,Amine,6,FC Emmen O19,28,87,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:14:24:540,Unsuccessful,Throw-in,Regular,-,Low,Prio Hamid,3,AFC O19,33,97,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:14:58:650,Unsuccessful,Basic,Regular,-,High,Yvarion,11,FC Emmen O19,33,96,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:14:58:760,Unsuccessful,-,-,-,-,Noach Shenkman,6,AFC O19,32,94,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:15:12:810,Successful,Throw-in,Regular,-,Low,Enzo,5,FC Emmen O19,30,96,-,Amine,6,27,83,-,-,-,-,-,-
+Attacking Third Entry,01:15:14:200,-,-,-,-,-,Amine,6,FC Emmen O19,26,82,-,-,-,-,-,-,Left,-,-,-,-
+Foul,01:15:15:220,-,-,-,-,-,Noach Shenkman,6,AFC O19,28,83,-,Amine,6,-,-,-,-,-,-,-,-
+Freekick,01:15:37:960,Unsuccessful,Pass,-,-,-,Amine,6,FC Emmen O19,27,81,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:15:39:200,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,12,53,-,-,-,-,-,Clearance,-,-,-,-,-
+Defensive Action,01:15:42:490,Successful,-,-,-,-,Huub,8,FC Emmen O19,29,58,-,-,-,-,-,Tackle,-,-,-,-,-
+Foul,01:15:45:570,-,-,-,-,-,Noach Shenkman,6,AFC O19,23,67,-,Amine,6,-,-,-,-,-,-,-,-
+Freekick,01:16:16:080,On Target,Shot,-,-,-,Huub,8,FC Emmen O19,24,66,-,-,-,-,-,-,-,-,-,-,-
+Gk Saves,01:16:17:240,-,High Saves,-,-,-,Storm Huijsman,20,AFC O19,3,49,-,-,-,-,-,-,-,-,-,-,-
+Substitute,01:16:54:720,-,Tactical,-,-,-,Pharell Dankwa,2,AFC O19,48,96,-,Tristan Harrevelt,14,-,-,-,-,-,-,-,-
+Substitute,01:16:55:450,-,Tactical,-,-,-,Mohamed el Khallare,7,AFC O19,47,96,-,Tarik Serdar,11,-,-,-,-,-,-,-,-
+Corners,01:17:12:090,Unsuccessful,Cross,-,-,-,Amine,6,FC Emmen O19,2,3,-,-,-,-,-,-,Left Corner,-,-,-,-
+Pass,01:17:21:340,Successful,Basic,Regular,-,Low,Tristan Harrevelt,14,AFC O19,14,83,-,Milan Engelander,10,32,89,-,-,-,-,-,-
+Defensive Action,01:17:25:980,Unsuccessful,-,-,-,-,Enzo,5,FC Emmen O19,53,89,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:17:38:100,Successful,Throw-in,Regular,-,Low,Tristan Harrevelt,14,AFC O19,75,95,-,Noach Shenkman,6,76,81,-,-,-,-,-,-
+Pass,01:17:45:950,Unsuccessful,Cross,Regular,-,High,Noach Shenkman,6,AFC O19,92,85,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:17:47:420,Successful,-,-,-,-,Ilias,2,FC Emmen O19,86,51,-,-,-,-,-,Clearance,-,-,-,-,-
+Pass,01:17:52:820,Successful,Basic,Regular,-,High,Ilias,2,FC Emmen O19,75,33,-,David,4,83,32,-,-,-,-,-,-
+Pass,01:17:54:550,Successful,Basic,Regular,-,Medium,David,4,FC Emmen O19,84,35,-,Kevin,1,93,45,-,-,-,-,-,-
+Pass,01:17:56:030,Successful,Basic,Regular,-,Medium,Kevin,1,FC Emmen O19,92,42,-,Ilias,2,73,18,-,-,-,-,-,-
+Lost Possession,01:17:59:070,-,-,-,-,-,Ilias,2,FC Emmen O19,72,15,-,-,-,-,-,-,-,-,-,-,-
+Freekick,01:18:23:170,Unsuccessful,Pass,-,-,-,Tarik Serdar,11,AFC O19,72,16,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:18:24:970,Successful,-,-,-,-,Kevin,1,FC Emmen O19,92,47,-,-,-,-,-,Interception,-,-,-,-,-
+Foul,01:18:25:150,-,-,-,-,-,Dax Keller,4,AFC O19,92,47,-,Kevin,1,-,-,-,-,-,-,-,-
+Booking,01:18:48:260,-,-,-,-,-,Kevin,1,FC Emmen O19,89,37,-,-,-,-,-,-,-,-,-,Yellow Card,-
+Freekick,01:19:10:880,Unsuccessful,Pass,-,-,-,Kevin,1,FC Emmen O19,89,35,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:19:14:470,Won,Air,-,-,-,Diaz Baars,5,AFC O19,40,25,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:19:14:470,Lost,Air,-,-,-,Remiyan,9,FC Emmen O19,40,26,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:19:14:470,Successful,-,-,-,-,Diaz Baars,5,AFC O19,40,26,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:19:14:580,Unsuccessful,Basic,Regular,-,High,Diaz Baars,5,AFC O19,40,26,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:19:15:750,Successful,-,-,-,-,Ilias,2,FC Emmen O19,43,11,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:19:16:760,Successful,Basic,Regular,-,High,Ilias,2,FC Emmen O19,41,18,-,Remiyan,9,41,29,-,-,-,-,-,-
+Pass,01:19:22:400,Successful,Basic,Regular,-,High,Remiyan,9,FC Emmen O19,43,31,-,Rinse,16,48,26,-,-,-,-,-,-
+Pass,01:19:24:110,Successful,Basic,Regular,-,High,Rinse,16,FC Emmen O19,46,19,-,Ilias,2,34,19,-,-,-,-,-,-
+Pass,01:19:25:220,Successful,Basic,Regular,-,Medium,Ilias,2,FC Emmen O19,36,23,-,Remiyan,9,40,33,-,-,-,-,-,-
+Pass,01:19:26:730,Successful,Basic,Regular,-,High,Remiyan,9,FC Emmen O19,34,29,-,Yvarion,11,2,7,-,-,-,-,-,-
+Attacking Third Entry,01:19:31:330,-,-,-,-,-,Yvarion,11,FC Emmen O19,2,7,-,-,-,-,-,-,Right,-,-,-,-
+Pass,01:19:32:990,Successful,Basic,Regular,-,High,Yvarion,11,FC Emmen O19,2,8,-,Ilias,2,8,7,-,-,-,-,-,-
+Pass,01:19:36:120,Unsuccessful,Basic,Regular,-,Medium,Ilias,2,FC Emmen O19,10,10,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:19:36:500,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,11,18,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:19:36:630,Unsuccessful,Basic,Regular,-,Medium,Nicolai de Kort,15,AFC O19,11,18,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:19:38:910,Successful,-,-,-,-,Huub,8,FC Emmen O19,38,27,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:19:39:020,Successful,Basic,Regular,-,Medium,Huub,8,FC Emmen O19,39,29,-,David,4,47,30,-,-,-,-,-,-
+Pass,01:19:40:550,Successful,Basic,Regular,-,Medium,David,4,FC Emmen O19,47,32,-,Raff,3,48,56,-,-,-,-,-,-
+Pass,01:19:44:260,Successful,Basic,Regular,-,Medium,Raff,3,FC Emmen O19,47,59,-,David,4,52,41,-,-,-,-,-,-
+Pass,01:19:46:610,Unsuccessful,Basic,Regular,-,Medium,David,4,FC Emmen O19,53,39,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:19:47:820,Successful,-,-,-,-,Noach Shenkman,6,AFC O19,34,44,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:19:50:540,Unsuccessful,Through Ball,Regular,-,Medium,Noach Shenkman,6,AFC O19,47,39,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:19:53:440,Successful,-,-,-,-,Kevin,1,FC Emmen O19,83,33,-,-,-,-,-,Interception,-,-,-,-,-
+Gk Distribution,01:20:26:720,Successful,-,-,-,-,Raff,3,FC Emmen O19,86,49,-,Yvarion,11,16,94,-,-,Kick,-,-,-
+Attacking Third Entry,01:20:32:400,-,-,-,-,-,Yvarion,11,FC Emmen O19,16,94,-,-,-,-,-,-,Left,-,-,-,-
+Defensive Action,01:20:33:140,Unsuccessful,-,-,-,-,Tristan Harrevelt,14,AFC O19,12,94,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:20:44:480,Successful,Throw-in,Regular,-,Low,Enzo,5,FC Emmen O19,18,95,-,Yvarion,11,10,91,-,-,-,-,-,-
+Pass,01:20:45:240,Successful,Basic,Regular,-,High,Yvarion,11,FC Emmen O19,11,91,-,Enzo,5,17,93,-,-,-,-,-,-
+Defensive Action,01:20:47:200,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,13,88,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:20:50:220,Successful,Basic,Regular,-,High,Prio Hamid,3,AFC O19,4,88,-,Milan Engelander,10,24,92,-,-,-,-,-,-
+Pass,01:20:53:030,Unsuccessful,Basic,Regular,-,High,Milan Engelander,10,AFC O19,26,87,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:20:54:310,Successful,-,-,-,-,Rinse,16,FC Emmen O19,29,80,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:20:54:430,Unsuccessful,Cross,Regular,-,High,Rinse,16,FC Emmen O19,29,83,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:20:58:640,Successful,-,-,-,-,Storm Huijsman,20,AFC O19,6,56,-,-,-,-,-,Interception,-,-,-,-,-
+Gk Distribution,01:20:59:510,Successful,-,-,-,-,Storm Huijsman,20,AFC O19,9,56,-,Dax Keller,4,17,45,-,-,Throw,-,-,-
+Pass,01:21:03:140,Unsuccessful,Basic,Regular,-,High,Dax Keller,4,AFC O19,20,37,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:21:57:640,Successful,Basic,Regular,-,Medium,Amine,6,FC Emmen O19,59,57,-,D' Angelo,12,44,25,-,-,-,-,-,-
+Pass,01:22:01:420,Successful,Basic,Regular,-,High,D' Angelo,12,FC Emmen O19,33,28,-,Remiyan,9,22,23,-,-,-,-,-,-
+Attacking Third Entry,01:22:03:190,-,-,-,-,-,Remiyan,9,FC Emmen O19,22,23,-,-,-,-,-,-,Center,-,-,-,-
+Dribbles,01:22:06:150,Unsuccessful,-,-,-,-,Remiyan,9,FC Emmen O19,11,13,-,-,-,9,14,-,-,-,-,-,-
+Defensive Action,01:22:06:290,Successful,-,-,-,-,Rody Schouren,19,AFC O19,11,16,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:22:08:250,Unsuccessful,Basic,Regular,-,Medium,Rody Schouren,19,AFC O19,24,5,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:22:14:460,Successful,-,-,-,-,Kevin,1,FC Emmen O19,83,61,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:22:14:490,Successful,Basic,Regular,-,High,Kevin,1,FC Emmen O19,82,63,-,Enzo,5,67,82,-,-,-,-,-,-
+Lost Possession,01:22:17:900,-,-,-,-,-,Enzo,5,FC Emmen O19,66,85,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:22:21:720,Unsuccessful,-,-,-,-,Enzo,5,FC Emmen O19,53,92,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:22:25:190,Successful,Basic,Regular,-,Low,Prio Hamid,3,AFC O19,29,80,-,Dax Keller,4,30,55,-,-,-,-,-,-
+Pass,01:22:26:760,Successful,Basic,Regular,-,Medium,Dax Keller,4,AFC O19,30,59,-,Prio Hamid,3,28,83,-,-,-,-,-,-
+Pass,01:22:27:950,Successful,Basic,Regular,-,Medium,Prio Hamid,3,AFC O19,29,81,-,Storm Huijsman,20,7,57,-,-,-,-,-,-
+Pass,01:22:30:990,Unsuccessful,Basic,Regular,-,Medium,Storm Huijsman,20,AFC O19,7,60,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:22:33:530,Successful,-,-,-,-,Enzo,5,FC Emmen O19,36,88,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:22:36:210,Unsuccessful,Basic,Regular,-,High,Enzo,5,FC Emmen O19,31,94,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:22:39:330,Successful,-,-,-,-,Dax Keller,4,AFC O19,20,73,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:22:40:430,Unsuccessful,Basic,Regular,-,High,Dax Keller,4,AFC O19,24,81,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:22:42:200,Won,Air,-,-,-,David,4,FC Emmen O19,56,71,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:22:42:200,Lost,Air,-,-,-,Jahmani Braham,17,AFC O19,55,71,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:22:42:200,Successful,-,-,-,-,David,4,FC Emmen O19,55,71,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:22:42:380,Unsuccessful,Basic,Regular,-,High,David,4,FC Emmen O19,55,70,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:22:47:450,Successful,-,-,-,-,Jahmani Braham,17,AFC O19,91,90,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:22:52:060,Successful,Basic,Regular,-,High,Jahmani Braham,17,AFC O19,90,88,-,Tarik Serdar,11,84,86,-,-,-,-,-,-
+Pass,01:22:58:450,Successful,Basic,Regular,-,High,Tarik Serdar,11,AFC O19,80,65,-,Rody Schouren,19,78,18,-,-,-,-,-,-
+Pass,01:23:08:580,Successful,Basic,Regular,-,High,Rody Schouren,19,AFC O19,74,17,-,Noach Shenkman,6,76,6,-,-,-,-,-,-
+Pass,01:23:11:580,Successful,Basic,Regular,-,High,Noach Shenkman,6,AFC O19,81,11,-,Tarik Serdar,11,90,18,-,-,-,-,-,-
+Pass,01:23:15:530,Unsuccessful,Cross,Regular,-,High,Tarik Serdar,11,AFC O19,83,24,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,01:23:41:800,Successful,-,-,-,-,Raff,3,FC Emmen O19,94,61,-,Kevin,1,95,55,-,-,Kick,-,-,-
+Pass,01:23:49:300,Unsuccessful,Basic,Regular,-,Medium,Kevin,1,FC Emmen O19,90,43,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,01:24:01:970,Successful,-,-,-,-,Storm Huijsman,20,AFC O19,11,56,-,Prio Hamid,3,18,75,-,-,Throw,-,-,-
+Pass,01:24:06:000,Successful,Basic,Regular,-,High,Prio Hamid,3,AFC O19,18,72,-,Storm Huijsman,20,3,67,-,-,-,-,-,-
+Pass,01:24:07:590,Unsuccessful,Basic,Regular,-,Medium,Storm Huijsman,20,AFC O19,4,69,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:24:11:440,Won,Air,-,-,-,Raff,3,FC Emmen O19,60,58,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:24:11:440,Lost,Air,-,-,-,Jahmani Braham,17,AFC O19,60,59,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:24:11:520,Successful,-,-,-,-,Raff,3,FC Emmen O19,60,60,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:24:11:590,Successful,Basic,Regular,-,High,Raff,3,FC Emmen O19,60,60,-,Rinse,16,48,60,-,-,-,-,-,-
+Pass,01:24:14:090,Successful,Basic,Regular,-,High,Rinse,16,FC Emmen O19,48,70,-,Enzo,5,53,76,-,-,-,-,-,-
+Pass,01:24:18:920,Successful,Basic,Regular,-,High,Enzo,5,FC Emmen O19,50,66,-,Amine,6,44,63,-,-,-,-,-,-
+Pass,01:24:20:710,Successful,Basic,Regular,-,High,Amine,6,FC Emmen O19,40,66,-,Rinse,16,38,84,-,-,-,-,-,-
+Pass,01:24:22:960,Successful,Basic,Regular,-,Medium,Rinse,16,FC Emmen O19,33,86,-,Yvarion,11,28,94,-,-,-,-,-,-
+Attacking Third Entry,01:24:23:850,-,-,-,-,-,Yvarion,11,FC Emmen O19,27,94,-,-,-,-,-,-,Left,-,-,-,-
+Pass,01:24:28:350,Successful,Basic,Regular,-,Medium,Yvarion,11,FC Emmen O19,33,84,-,Raff,3,53,72,-,-,-,-,-,-
+Pass,01:24:30:810,Successful,Basic,Regular,-,Medium,Raff,3,FC Emmen O19,53,70,-,David,4,56,37,-,-,-,-,-,-
+Pass,01:24:34:960,Successful,Basic,Regular,-,Medium,David,4,FC Emmen O19,54,31,-,D' Angelo,12,36,21,-,-,-,-,-,-
+Attacking Third Entry,01:24:38:410,-,-,-,-,-,D' Angelo,12,FC Emmen O19,28,27,-,-,-,-,-,-,Center,-,-,-,-
+Defensive Action,01:24:39:320,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,24,31,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:24:42:280,Unsuccessful,Basic,Regular,-,High,Nicolai de Kort,15,AFC O19,37,27,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:24:53:450,Successful,Basic,Regular,-,Low,Kevin,1,FC Emmen O19,89,41,-,Raff,3,81,63,-,-,-,-,-,-
+Pass,01:24:57:740,Successful,Basic,Regular,-,Medium,Raff,3,FC Emmen O19,77,63,-,Huub,8,69,52,-,-,-,-,-,-
+Pass,01:24:58:810,Successful,Basic,Regular,-,Medium,Huub,8,FC Emmen O19,70,54,-,Raff,3,78,64,-,-,-,-,-,-
+Pass,01:24:59:910,Unsuccessful,Basic,Regular,-,Medium,Raff,3,FC Emmen O19,76,66,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:25:00:670,Successful,-,-,-,-,Milan Engelander,10,AFC O19,64,71,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:25:02:520,Successful,Basic,Regular,-,Medium,Milan Engelander,10,AFC O19,72,73,-,Jahmani Braham,17,80,62,-,-,-,-,-,-
+Attacking Third Entry,01:25:03:590,-,-,-,-,-,Jahmani Braham,17,AFC O19,78,62,-,-,-,-,-,-,Center,-,-,-,-
+Pass,01:25:04:760,Successful,Basic,Regular,-,High,Jahmani Braham,17,AFC O19,83,64,-,Milan Engelander,10,88,81,-,-,-,-,-,-
+Foul,01:25:18:630,-,-,-,-,-,Enzo,5,FC Emmen O19,90,95,-,Milan Engelander,10,-,-,-,-,-,-,-,-
+Substitute,01:25:38:510,-,Tactical,-,-,-,Dax Keller,4,AFC O19,59,97,-,Osa okunbor,9,-,-,-,-,-,-,-,-
+Freekick,01:26:08:650,Unsuccessful,Pass,-,-,-,Tarik Serdar,11,AFC O19,89,94,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:26:10:650,Successful,-,-,-,-,Kevin,1,FC Emmen O19,96,49,-,-,-,-,-,Interception,-,-,-,-,-
+Gk Distribution,01:26:19:230,Successful,-,-,-,-,Kevin,1,FC Emmen O19,92,50,-,Enzo,5,76,92,-,-,Throw,-,-,-
+Pass,01:26:25:610,Unsuccessful,Through Ball,Regular,-,Medium,Enzo,5,FC Emmen O19,59,88,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:26:27:800,Successful,-,-,-,-,Prio Hamid,3,AFC O19,21,68,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:26:30:120,Unsuccessful,Basic,Regular,-,High,Prio Hamid,3,AFC O19,24,77,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:26:41:580,Successful,Throw-in,Regular,-,Low,Enzo,5,FC Emmen O19,58,96,-,Yvarion,11,47,94,-,-,-,-,-,-
+Pass,01:26:42:750,Unsuccessful,Basic,Regular,-,High,Yvarion,11,FC Emmen O19,46,94,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:26:44:030,Won,Air,-,-,-,Prio Hamid,3,AFC O19,32,90,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:26:44:030,Lost,Air,-,-,-,Remiyan,9,FC Emmen O19,32,90,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:26:44:090,Successful,-,-,-,-,Prio Hamid,3,AFC O19,32,89,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:26:44:160,Unsuccessful,Basic,Regular,-,High,Prio Hamid,3,AFC O19,32,91,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:26:56:040,Unsuccessful,Throw-in,Regular,-,Low,Enzo,5,FC Emmen O19,34,96,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:27:02:050,Successful,Throw-in,Regular,-,Low,Tristan Harrevelt,14,AFC O19,40,96,-,Tarik Serdar,11,75,94,-,-,-,-,-,-
+Attacking Third Entry,01:27:05:360,-,-,-,-,-,Tarik Serdar,11,AFC O19,75,94,-,-,-,-,-,-,Right,-,-,-,-
+Pass,01:27:10:750,Successful,Basic,Regular,-,Medium,Tarik Serdar,11,AFC O19,94,87,-,Rody Schouren,19,78,32,-,-,-,-,-,-
+Pass,01:27:13:850,Unsuccessful,Basic,Regular,-,Medium,Rody Schouren,19,AFC O19,77,33,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:27:14:600,Successful,-,-,-,-,D' Angelo,12,FC Emmen O19,75,43,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:27:14:980,Successful,Basic,Regular,-,High,D' Angelo,12,FC Emmen O19,75,44,-,Amine,6,71,48,-,-,-,-,-,-
+Off-side,01:27:18:350,-,-,-,-,-,Yvarion,11,FC Emmen O19,45,70,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:27:32:900,Successful,Basic,Regular,-,Low,Storm Huijsman,20,AFC O19,14,67,-,Diaz Baars,5,24,28,-,-,-,-,-,-
+Pass,01:27:36:040,Successful,Basic,Regular,-,Medium,Diaz Baars,5,AFC O19,27,25,-,Rody Schouren,19,45,4,-,-,-,-,-,-
+Pass,01:27:41:420,Unsuccessful,Basic,Regular,-,High,Rody Schouren,19,AFC O19,56,7,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:27:41:700,Unsuccessful,-,-,-,-,Rinse,16,FC Emmen O19,60,8,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:27:47:220,Successful,Throw-in,Regular,-,Low,Rody Schouren,19,AFC O19,62,3,-,Tarik Serdar,11,66,7,-,-,-,-,-,-
+Pass,01:27:48:050,Successful,Basic,Regular,-,High,Tarik Serdar,11,AFC O19,65,9,-,Rody Schouren,19,63,2,-,-,-,-,-,-
+Defensive Action,01:27:50:040,Unsuccessful,-,-,-,-,Rinse,16,FC Emmen O19,64,6,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:27:52:010,Successful,Basic,Regular,-,High,Tarik Serdar,11,AFC O19,59,10,-,Nicolai de Kort,15,58,31,-,-,-,-,-,-
+Pass,01:27:54:810,Unsuccessful,Basic,Regular,-,High,Nicolai de Kort,15,AFC O19,58,30,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:27:56:310,Successful,-,-,-,-,Raff,3,FC Emmen O19,67,42,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:27:56:410,Unsuccessful,Through Ball,Regular,-,Medium,Raff,3,FC Emmen O19,65,42,-,-,-,-,-,-,-,-,-,-,-
+Foul,01:28:00:170,-,-,-,-,-,Remiyan,9,FC Emmen O19,25,29,-,Diaz Baars,5,-,-,-,-,-,-,-,-
+Substitute,01:28:23:180,-,Tactical,-,-,-,Amine,6,FC Emmen O19,25,95,-,Daan,21,-,-,-,-,-,-,-,-
+Freekick,01:28:33:780,Successful,Pass,-,-,-,Diaz Baars,5,AFC O19,25,29,-,Storm Huijsman,20,12,47,-,-,-,-,-,-
+Pass,01:28:48:980,Successful,Basic,Regular,-,Medium,Storm Huijsman,20,AFC O19,14,54,-,Prio Hamid,3,18,90,-,-,-,-,-,-
+Pass,01:28:51:380,Successful,Basic,Regular,-,Medium,Prio Hamid,3,AFC O19,18,86,-,Storm Huijsman,20,2,72,-,-,-,-,-,-
+Pass,01:28:56:720,Successful,Basic,Regular,-,Low,Storm Huijsman,20,AFC O19,8,59,-,Rody Schouren,19,40,4,-,-,-,-,-,-
+Pass,01:29:04:200,Unsuccessful,Basic,Regular,-,High,Rody Schouren,19,AFC O19,36,4,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:29:04:340,Unsuccessful,Basic,Regular,-,High,Ilias,2,FC Emmen O19,39,4,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:29:04:350,Successful,-,-,-,-,Ilias,2,FC Emmen O19,40,4,-,-,-,-,-,Interception,-,-,-,-,-
+Defensive Action,01:29:04:490,Unsuccessful,-,-,-,-,Rody Schouren,19,AFC O19,36,4,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:29:12:240,Successful,Throw-in,Regular,-,Low,Ilias,2,FC Emmen O19,35,4,-,D' Angelo,12,30,3,-,-,-,-,-,-
+Attacking Third Entry,01:29:13:880,-,-,-,-,-,D' Angelo,12,FC Emmen O19,28,4,-,-,-,-,-,-,Right,-,-,-,-
+Dribbles,01:29:15:140,Unsuccessful,-,-,-,-,D' Angelo,12,FC Emmen O19,21,11,-,-,-,9,14,-,-,-,-,-,-
+Lost Possession,01:29:15:250,-,-,-,-,-,D' Angelo,12,FC Emmen O19,18,13,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,01:29:33:600,Successful,-,-,-,-,Diaz Baars,5,AFC O19,5,39,-,Storm Huijsman,20,2,72,-,-,Kick,-,-,-
+Pass,01:29:37:380,Unsuccessful,Basic,Regular,-,High,Storm Huijsman,20,AFC O19,3,71,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:29:37:390,Unsuccessful,-,-,-,-,Remiyan,9,FC Emmen O19,4,73,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:29:49:030,Unsuccessful,Throw-in,Regular,-,Low,Tristan Harrevelt,14,AFC O19,23,96,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:29:50:850,Successful,-,-,-,-,Enzo,5,FC Emmen O19,43,89,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:29:50:960,Successful,Basic,Regular,-,Medium,Enzo,5,FC Emmen O19,42,87,-,Yvarion,11,34,94,-,-,-,-,-,-
+Defensive Action,01:29:52:650,Successful,-,-,-,-,Tristan Harrevelt,14,AFC O19,33,93,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:29:53:880,Successful,Basic,Regular,-,High,Nicolai de Kort,15,AFC O19,39,89,-,Jahmani Braham,17,53,90,-,-,-,-,-,-
+Pass,01:29:56:760,Successful,Basic,Regular,-,High,Jahmani Braham,17,AFC O19,54,86,-,Nicolai de Kort,15,57,80,-,-,-,-,-,-
+Defensive Action,01:29:57:610,Unsuccessful,-,-,-,-,Rinse,16,FC Emmen O19,58,78,-,-,-,-,-,Tackle,-,-,-,-,-
+Freekick,01:30:09:340,Successful,Pass,-,-,-,Prio Hamid,3,AFC O19,61,83,-,Rody Schouren,19,57,30,-,-,-,-,-,-
+Pass,01:30:15:260,Unsuccessful,Cross,Regular,-,Medium,Rody Schouren,19,AFC O19,59,29,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:30:17:550,Successful,-,-,-,-,Kevin,1,FC Emmen O19,92,49,-,-,-,-,-,Interception,-,-,-,-,-
+Gk Distribution,01:30:20:430,Successful,-,-,-,-,Kevin,1,FC Emmen O19,86,50,-,Yvarion,11,25,76,-,-,Kick,-,-,-
+Attacking Third Entry,01:30:24:330,-,-,-,-,-,Yvarion,11,FC Emmen O19,26,77,-,-,-,-,-,-,Center,-,-,-,-
+Penalty Box Entries,01:30:25:760,-,-,-,-,-,Yvarion,11,FC Emmen O19,16,75,-,-,-,-,-,-,Center,-,-,-,-
+Pass,01:30:27:130,Successful,Basic,Assist,-,Medium,Yvarion,11,FC Emmen O19,8,75,-,Daan,21,12,63,-,-,-,-,-,-
+Shots,01:30:28:530,On Target,In Game,-,Goal,Low,Daan,21,FC Emmen O19,13,64,Right Foot,-,-,-,-,-,-,-,Top-left,-,-
+Goal,01:30:28:570,Goal,Field Goal,-,-,-,Daan,21,FC Emmen O19,13,64,-,Storm Huijsman,20,3,51,-,-,-,Top-left,-,-
+Pass,01:31:15:550,Successful,Basic,Regular,-,Low,Jahmani Braham,17,AFC O19,50,50,-,Nicolai de Kort,15,40,43,-,-,-,-,-,-
+Pass,01:31:17:950,Unsuccessful,Basic,Regular,-,High,Nicolai de Kort,15,AFC O19,43,45,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:31:19:820,Successful,-,-,-,-,Remiyan,9,FC Emmen O19,48,46,-,-,-,-,-,Interception,-,-,-,-,-
+Defensive Action,01:31:21:340,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,47,65,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:31:21:480,Successful,Basic,Regular,-,High,Nicolai de Kort,15,AFC O19,47,68,-,Tristan Harrevelt,14,47,76,-,-,-,-,-,-
+Pass,01:31:27:470,Successful,Basic,Regular,-,Medium,Tristan Harrevelt,14,AFC O19,71,71,-,Jahmani Braham,17,82,87,-,-,-,-,-,-
+Attacking Third Entry,01:31:28:670,-,-,-,-,-,Jahmani Braham,17,AFC O19,82,88,-,-,-,-,-,-,Right,-,-,-,-
+Pass,01:31:32:900,Unsuccessful,Cross,Regular,-,High,Jahmani Braham,17,AFC O19,95,88,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:31:33:280,Unsuccessful,-,-,-,-,Huub,8,FC Emmen O19,96,84,-,-,-,-,-,Interception,-,-,-,-,-
+Corners,01:32:00:840,Unsuccessful,Cross,-,-,-,Tarik Serdar,11,AFC O19,98,97,-,-,-,-,-,-,Left Corner,-,-,-,-
+Defensive Action,01:32:01:890,Unsuccessful,-,-,-,-,Ilias,2,FC Emmen O19,93,58,-,-,-,-,-,Clearance,-,-,-,-,-
+Pass,01:32:07:120,Successful,Basic,Regular,-,High,Osa okunbor,9,AFC O19,65,77,-,Rody Schouren,19,34,73,-,-,-,-,-,-
+Pass,01:32:12:640,Successful,Basic,Regular,-,High,Rody Schouren,19,AFC O19,52,64,-,Milan Engelander,10,61,4,-,-,-,-,-,-
+Pass,01:32:18:150,Unsuccessful,Through Ball,Regular,-,Medium,Milan Engelander,10,AFC O19,61,8,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:32:20:290,Successful,-,-,-,-,Rinse,16,FC Emmen O19,84,31,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:32:20:410,Unsuccessful,Basic,Regular,-,High,Rinse,16,FC Emmen O19,83,30,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:32:22:310,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,76,32,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:32:22:990,Unsuccessful,Basic,Regular,-,High,Nicolai de Kort,15,AFC O19,79,32,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:32:24:360,Unsuccessful,-,-,-,-,Ilias,2,FC Emmen O19,82,23,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:32:29:400,Successful,Basic,Regular,-,High,Rody Schouren,19,AFC O19,63,27,-,Prio Hamid,3,55,46,-,-,-,-,-,-
+Pass,01:32:32:250,Successful,Basic,Regular,-,High,Prio Hamid,3,AFC O19,55,48,-,Tristan Harrevelt,14,60,70,-,-,-,-,-,-
+Pass,01:32:35:620,Unsuccessful,Basic,Regular,-,Medium,Tristan Harrevelt,14,AFC O19,68,71,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:32:36:890,Unsuccessful,-,-,-,-,Raff,3,FC Emmen O19,85,56,-,-,-,-,-,Interception,-,-,-,-,-
+Defensive Action,01:32:39:080,Unsuccessful,-,-,-,-,Ilias,2,FC Emmen O19,89,40,-,-,-,-,-,Tackle,-,-,-,-,-
+Defensive Action,01:32:42:220,Successful,-,-,-,-,Huub,8,FC Emmen O19,86,50,-,-,-,-,-,Tackle,-,-,-,-,-
+Defensive Action,01:32:43:390,Successful,-,-,-,-,Raff,3,FC Emmen O19,88,53,-,-,-,-,-,Clearance,-,-,-,-,-
+Pass,01:32:46:740,Successful,Basic,Regular,-,Medium,Noach Shenkman,6,AFC O19,68,46,-,Tristan Harrevelt,14,66,76,-,-,-,-,-,-
+Attacking Third Entry,01:32:55:170,-,-,-,-,-,Tristan Harrevelt,14,AFC O19,74,87,-,-,-,-,-,-,Right,-,-,-,-
+Lost Possession,01:33:01:690,-,-,-,-,-,Tristan Harrevelt,14,AFC O19,92,95,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:33:06:400,Unsuccessful,Throw-in,Regular,-,Low,Enzo,5,FC Emmen O19,93,96,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:33:08:140,Won,Air,-,-,-,Nicolai de Kort,15,AFC O19,77,73,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:33:08:140,Lost,Air,-,-,-,Daan,21,FC Emmen O19,77,73,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:33:08:180,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,77,73,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:33:08:270,Unsuccessful,Basic,Regular,-,High,Nicolai de Kort,15,AFC O19,78,73,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:33:09:920,Successful,-,-,-,-,Rinse,16,FC Emmen O19,82,71,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:33:10:040,Unsuccessful,Basic,Regular,-,Medium,Rinse,16,FC Emmen O19,81,73,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:33:13:990,Unsuccessful,-,-,-,-,Tristan Harrevelt,14,AFC O19,76,93,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:33:22:430,Successful,Throw-in,Regular,-,Low,Enzo,5,FC Emmen O19,74,95,-,Remiyan,9,49,83,-,-,-,-,-,-
+Defensive Action,01:33:24:820,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,52,77,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:33:24:860,Successful,Basic,Regular,-,High,Nicolai de Kort,15,AFC O19,51,76,-,Noach Shenkman,6,48,69,-,-,-,-,-,-
+Pass,01:33:26:780,Unsuccessful,Basic,Regular,-,High,Noach Shenkman,6,AFC O19,49,71,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:33:27:240,Successful,-,-,-,-,Enzo,5,FC Emmen O19,58,85,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:33:27:950,Successful,Basic,Regular,-,Medium,Enzo,5,FC Emmen O19,57,84,-,D' Angelo,12,37,10,-,-,-,-,-,-
+Attacking Third Entry,01:33:39:400,-,-,-,-,-,D' Angelo,12,FC Emmen O19,27,67,-,-,-,-,-,-,Center,-,-,-,-
+Pass,01:33:40:290,Unsuccessful,Through Ball,Regular,-,High,D' Angelo,12,FC Emmen O19,23,70,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,01:33:58:140,Successful,-,-,-,-,Diaz Baars,5,AFC O19,5,42,-,Storm Huijsman,20,5,61,-,-,Kick,-,-,-
+Pass,01:34:01:610,Successful,Basic,Regular,-,Medium,Storm Huijsman,20,AFC O19,6,59,-,Diaz Baars,5,8,38,-,-,-,-,-,-
+Pass,01:34:04:760,Successful,Basic,Regular,-,Medium,Diaz Baars,5,AFC O19,13,29,-,Tarik Serdar,11,32,21,-,-,-,-,-,-
+Pass,01:34:07:120,Unsuccessful,Basic,Regular,-,High,Tarik Serdar,11,AFC O19,27,22,-,-,-,-,-,-,-,-,-,-,-
+Substitute,01:34:34:930,-,Tactical,-,-,-,Milan Engelander,10,AFC O19,48,97,-,Ilyas Kacen,16,-,-,-,-,-,-,-,-
+Substitute,01:34:38:100,-,Tactical,-,-,-,Rody Schouren,19,AFC O19,47,96,-,Aziz Akachar,8,-,-,-,-,-,-,-,-
+Pass,01:34:57:410,Successful,Throw-in,Regular,-,Low,Ilias,2,FC Emmen O19,25,4,-,D' Angelo,12,21,7,-,-,-,-,-,-
+Pass,01:34:58:150,Successful,Basic,Regular,-,Medium,D' Angelo,12,FC Emmen O19,22,9,-,Ilias,2,27,5,-,-,-,-,-,-
+Defensive Action,01:35:00:540,Successful,-,-,-,-,Tarik Serdar,11,AFC O19,27,6,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:35:01:460,Successful,Basic,Regular,-,High,Tarik Serdar,11,AFC O19,36,4,-,Aziz Akachar,8,37,11,-,-,-,-,-,-
+Pass,01:35:02:030,Successful,Basic,Regular,-,High,Aziz Akachar,8,AFC O19,38,10,-,Tarik Serdar,11,59,4,-,-,-,-,-,-
+Pass,01:35:06:420,Unsuccessful,Through Ball,Regular,-,High,Tarik Serdar,11,AFC O19,64,4,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,01:35:15:660,Successful,-,-,-,-,Kevin,1,FC Emmen O19,87,40,-,David,4,87,23,-,-,Throw,-,-,-
+Pass,01:35:18:500,Successful,Basic,Regular,-,Medium,David,4,FC Emmen O19,85,27,-,Kevin,1,91,43,-,-,-,-,-,-
+Pass,01:35:21:840,Unsuccessful,Basic,Regular,-,Medium,Kevin,1,FC Emmen O19,89,42,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:35:25:000,Successful,-,-,-,-,Ilyas Kacen,16,AFC O19,35,72,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:35:25:120,Unsuccessful,Basic,Regular,-,High,Ilyas Kacen,16,AFC O19,35,72,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:35:26:200,Won,Ground,-,-,-,Daan,21,FC Emmen O19,45,70,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:35:26:200,Lost,Ground,-,-,-,Nicolai de Kort,15,AFC O19,45,70,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:35:26:240,Successful,-,-,-,-,Daan,21,FC Emmen O19,44,71,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:35:26:330,Unsuccessful,Basic,Regular,-,High,Daan,21,FC Emmen O19,45,72,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:35:30:020,Successful,Basic,Regular,-,Medium,Ilyas Kacen,16,AFC O19,18,73,-,Storm Huijsman,20,4,55,-,-,-,-,-,-
+Pass,01:35:34:120,Successful,Basic,Regular,-,Medium,Storm Huijsman,20,AFC O19,7,55,-,Tarik Serdar,11,54,34,-,-,-,-,-,-
+Duel,01:35:37:860,Won,Ground,-,-,-,Tarik Serdar,11,AFC O19,55,35,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:35:37:860,Lost,Ground,-,-,-,David,4,FC Emmen O19,55,35,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:35:38:860,Successful,Basic,Regular,-,High,Tarik Serdar,11,AFC O19,54,36,-,Noach Shenkman,6,52,41,-,-,-,-,-,-
+Pass,01:35:39:390,Successful,Basic,Regular,-,Medium,Noach Shenkman,6,AFC O19,52,42,-,Tarik Serdar,11,55,44,-,-,-,-,-,-
+Pass,01:35:44:110,Successful,Basic,Regular,-,Medium,Tarik Serdar,11,AFC O19,62,34,-,Osa okunbor,9,73,7,-,-,-,-,-,-
+Attacking Third Entry,01:35:46:120,-,-,-,-,-,Osa okunbor,9,AFC O19,73,8,-,-,-,-,-,-,Left,-,-,-,-
+Dribbles,01:35:48:650,Unsuccessful,-,-,-,-,Osa okunbor,9,AFC O19,87,20,-,-,-,89,23,-,-,-,-,-,-
+Lost Possession,01:35:50:220,-,-,-,-,-,David,4,FC Emmen O19,96,30,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:35:50:220,Unsuccessful,-,-,-,-,David,4,FC Emmen O19,96,30,-,-,-,-,-,Clearance,-,-,-,-,-
+Substitute,01:36:28:890,-,Tactical,-,-,-,D' Angelo,12,FC Emmen O19,45,97,-,Lars,17,-,-,-,-,-,-,-,-
+Gk Distribution,01:36:39:170,Successful,-,-,-,-,Raff,3,FC Emmen O19,95,61,-,Kevin,1,96,50,-,-,Kick,-,-,-
+Pass,01:36:42:460,Unsuccessful,Basic,Regular,-,Medium,Kevin,1,FC Emmen O19,93,45,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:36:44:690,Won,Air,-,-,-,Prio Hamid,3,AFC O19,48,43,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:36:44:690,Lost,Air,-,-,-,Lars,17,FC Emmen O19,48,43,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:36:44:730,Successful,-,-,-,-,Prio Hamid,3,AFC O19,48,44,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:36:44:850,Successful,Basic,Regular,-,High,Prio Hamid,3,AFC O19,48,43,-,Osa okunbor,9,60,21,-,-,-,-,-,-
+Foul,01:36:49:240,-,-,-,-,-,Ilias,2,FC Emmen O19,63,24,-,Osa okunbor,9,-,-,-,-,-,-,-,-
+Freekick,01:36:59:240,Successful,Pass,-,-,-,Tarik Serdar,11,AFC O19,63,24,-,Noach Shenkman,6,58,25,-,-,-,-,-,-
+Foul,01:37:02:870,-,-,-,-,-,Lars,17,FC Emmen O19,66,4,-,Noach Shenkman,6,-,-,-,-,-,-,-,-
+Freekick,01:37:17:250,Unsuccessful,Pass,-,-,-,Tarik Serdar,11,AFC O19,66,7,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:37:18:920,Won,Air,-,-,-,David,4,FC Emmen O19,89,42,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:37:18:920,Lost,Air,-,-,-,Noach Shenkman,6,AFC O19,89,42,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:37:18:930,Unsuccessful,-,-,-,-,David,4,FC Emmen O19,89,43,-,-,-,-,-,Clearance,-,-,-,-,-
+Pass,01:37:26:750,Successful,Throw-in,Regular,-,Low,Jahmani Braham,17,AFC O19,87,4,-,Osa okunbor,9,92,8,-,-,-,-,-,-
+Pass,01:37:27:640,Successful,Basic,Regular,-,High,Osa okunbor,9,AFC O19,92,10,-,Jahmani Braham,17,88,3,-,-,-,-,-,-
+Pass,01:37:32:530,Successful,Cross,Key,-,Medium,Jahmani Braham,17,AFC O19,98,9,-,Nicolai de Kort,15,88,42,-,-,-,-,-,-
+Penalty Box Entries,01:37:33:750,-,-,-,-,-,Nicolai de Kort,15,AFC O19,88,42,-,-,-,-,-,-,Center,-,-,-,-
+Shots,01:37:34:450,Off Target,In Game,-,No Goal,High,Nicolai de Kort,15,AFC O19,89,43,Right Foot,-,-,-,-,-,-,-,Top-center,-,-
+Gk Distribution,01:37:54:980,Successful,-,-,-,-,Raff,3,FC Emmen O19,96,62,-,Kevin,1,96,48,-,-,Kick,-,-,-
+Pass,01:37:57:510,Successful,Basic,Regular,-,Medium,Kevin,1,FC Emmen O19,95,46,-,Yvarion,11,47,69,-,-,-,-,-,-
+Pass,01:38:01:560,Successful,Basic,Regular,-,High,Yvarion,11,FC Emmen O19,53,68,-,Enzo,5,72,83,-,-,-,-,-,-
+Off-side,01:38:04:000,-,-,-,-,-,Remiyan,9,FC Emmen O19,43,49,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:38:13:950,Successful,Basic,Regular,-,Low,Ilyas Kacen,16,AFC O19,23,61,-,Tarik Serdar,11,37,42,-,-,-,-,-,-
+Pass,01:38:16:480,Successful,Basic,Regular,-,Medium,Tarik Serdar,11,AFC O19,35,37,-,Osa okunbor,9,43,6,-,-,-,-,-,-
+Pass,01:38:19:800,Unsuccessful,Through Ball,Regular,-,Medium,Osa okunbor,9,AFC O19,47,6,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:38:22:670,Successful,-,-,-,-,Kevin,1,FC Emmen O19,81,17,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:38:22:760,Unsuccessful,Basic,Regular,-,High,Kevin,1,FC Emmen O19,80,15,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:38:41:950,Successful,Throw-in,Regular,-,Low,Osa okunbor,9,AFC O19,66,4,-,Tarik Serdar,11,69,10,-,-,-,-,-,-
+Defensive Action,01:38:44:550,Successful,-,-,-,-,Daan,21,FC Emmen O19,68,5,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:38:45:400,Successful,Basic,Regular,-,High,Ilias,2,FC Emmen O19,73,5,-,Rinse,16,68,10,-,-,-,-,-,-
+Pass,01:38:46:480,Unsuccessful,Basic,Regular,-,High,Rinse,16,FC Emmen O19,66,8,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:38:47:620,Successful,-,-,-,-,Diaz Baars,5,AFC O19,56,4,-,-,-,-,-,Interception,-,-,-,-,-
+Defensive Action,01:38:48:940,Unsuccessful,-,-,-,-,Rinse,16,FC Emmen O19,61,3,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:38:50:760,Unsuccessful,Basic,Regular,-,High,Diaz Baars,5,AFC O19,60,8,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:38:52:390,Successful,-,-,-,-,Huub,8,FC Emmen O19,59,18,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:38:56:450,Successful,Basic,Regular,-,High,Huub,8,FC Emmen O19,47,2,-,Rinse,16,54,14,-,-,-,-,-,-
+Pass,01:38:57:720,Unsuccessful,Basic,Regular,-,High,Rinse,16,FC Emmen O19,53,15,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:38:57:820,Unsuccessful,-,-,-,-,Aziz Akachar,8,AFC O19,52,15,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:38:59:060,Successful,Basic,Regular,-,High,Huub,8,FC Emmen O19,57,14,-,David,4,67,21,-,-,-,-,-,-
+Pass,01:39:01:260,Successful,Basic,Regular,-,Medium,David,4,FC Emmen O19,71,25,-,Kevin,1,89,45,-,-,-,-,-,-
+Pass,01:39:07:330,Unsuccessful,Basic,Regular,-,Medium,Kevin,1,FC Emmen O19,86,50,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:39:10:340,Successful,-,-,-,-,Ilyas Kacen,16,AFC O19,41,69,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:39:10:440,Unsuccessful,Basic,Regular,-,High,Ilyas Kacen,16,AFC O19,42,70,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:39:11:260,Successful,-,-,-,-,Enzo,5,FC Emmen O19,52,73,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:39:11:370,Unsuccessful,Basic,Regular,-,High,Enzo,5,FC Emmen O19,52,71,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:39:12:690,Successful,-,-,-,-,Ilyas Kacen,16,AFC O19,36,70,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:39:12:770,Unsuccessful,Basic,Regular,-,High,Ilyas Kacen,16,AFC O19,38,70,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:39:14:090,Successful,-,-,-,-,Enzo,5,FC Emmen O19,46,65,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:39:15:860,Unsuccessful,Basic,Regular,-,High,Enzo,5,FC Emmen O19,47,54,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:39:17:210,Successful,-,-,-,-,Diaz Baars,5,AFC O19,35,30,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:39:21:040,Unsuccessful,Basic,Regular,-,Medium,Diaz Baars,5,AFC O19,45,19,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:39:23:010,Successful,-,-,-,-,David,4,FC Emmen O19,74,17,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:39:23:100,Unsuccessful,Basic,Regular,-,Medium,David,4,FC Emmen O19,72,18,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:39:25:440,Successful,-,-,-,-,Osa okunbor,9,AFC O19,67,11,-,-,-,-,-,Interception,-,-,-,-,-
+Defensive Action,01:39:29:560,Unsuccessful,-,-,-,-,Ilias,2,FC Emmen O19,75,10,-,-,-,-,-,Tackle,-,-,-,-,-
+Foul,01:39:34:610,-,-,-,-,-,Remiyan,9,FC Emmen O19,65,5,-,Jahmani Braham,17,-,-,-,-,-,-,-,-
+Freekick,01:39:45:590,Successful,Pass,-,-,-,Osa okunbor,9,AFC O19,59,7,-,Jahmani Braham,17,66,4,-,-,-,-,-,-
+Pass,01:39:47:820,Successful,Basic,Regular,-,High,Jahmani Braham,17,AFC O19,69,5,-,Osa okunbor,9,65,5,-,-,-,-,-,-
+Defensive Action,01:39:49:500,Successful,-,-,-,-,Rinse,16,FC Emmen O19,66,7,-,-,-,-,-,Tackle,-,-,-,-,-
+Off-side,01:39:52:000,-,-,-,-,-,Yvarion,11,FC Emmen O19,47,45,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:40:16:040,Successful,Basic,Regular,-,Low,Ilyas Kacen,16,AFC O19,37,63,-,Jahmani Braham,17,65,6,-,-,-,-,-,-
+Lost Possession,01:40:18:740,-,-,-,-,-,Jahmani Braham,17,AFC O19,66,8,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:40:21:910,Unsuccessful,Basic,Regular,-,High,Huub,8,FC Emmen O19,58,24,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:40:23:860,Successful,-,-,-,-,Prio Hamid,3,AFC O19,44,28,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:40:26:720,Successful,Basic,Regular,-,High,Prio Hamid,3,AFC O19,44,21,-,Osa okunbor,9,56,4,-,-,-,-,-,-
+Pass,01:40:28:380,Successful,Basic,Regular,-,Medium,Osa okunbor,9,AFC O19,56,6,-,Diaz Baars,5,46,6,-,-,-,-,-,-
+Pass,01:40:30:850,Successful,Basic,Regular,-,Medium,Diaz Baars,5,AFC O19,46,11,-,Prio Hamid,3,46,24,-,-,-,-,-,-
+Pass,01:40:32:920,Successful,Basic,Regular,-,High,Prio Hamid,3,AFC O19,46,29,-,Tarik Serdar,11,80,91,-,-,-,-,-,-
+Attacking Third Entry,01:40:36:830,-,-,-,-,-,Tarik Serdar,11,AFC O19,80,90,-,-,-,-,-,-,Right,-,-,-,-
+Foul,01:40:43:730,-,-,-,-,-,Enzo,5,FC Emmen O19,93,89,-,Tarik Serdar,11,-,-,-,-,-,-,-,-
+Freekick,01:41:22:310,Unsuccessful,Pass,-,-,-,Tarik Serdar,11,AFC O19,92,88,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:41:23:520,Successful,-,-,-,-,Kevin,1,FC Emmen O19,97,50,-,-,-,-,-,Interception,-,-,-,-,-
+Gk Distribution,01:41:30:740,Unsuccessful,-,-,-,-,Kevin,1,FC Emmen O19,85,46,-,-,-,-,-,-,-,Kick,-,-,-
+Defensive Action,01:41:34:650,Successful,-,-,-,-,Tristan Harrevelt,14,AFC O19,35,45,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:41:34:740,Successful,Basic,Regular,-,High,Tristan Harrevelt,14,AFC O19,36,46,-,Nicolai de Kort,15,47,45,-,-,-,-,-,-
+Pass,01:41:37:520,Successful,Basic,Regular,-,High,Nicolai de Kort,15,AFC O19,48,43,-,Tarik Serdar,11,55,34,-,-,-,-,-,-
+Foul,01:41:39:090,-,-,-,-,-,David,4,FC Emmen O19,56,28,-,Tarik Serdar,11,-,-,-,-,-,-,-,-
+Freekick,01:41:50:660,Successful,Pass,-,-,-,Tarik Serdar,11,AFC O19,56,29,-,Osa okunbor,9,66,5,-,-,-,-,-,-
+Pass,01:41:56:760,Unsuccessful,Cross,Regular,-,High,Osa okunbor,9,AFC O19,69,18,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:41:58:830,Successful,-,-,-,-,Kevin,1,FC Emmen O19,93,59,-,-,-,-,-,Interception,-,-,-,-,-
+Gk Distribution,01:42:02:230,Unsuccessful,-,-,-,-,Kevin,1,FC Emmen O19,88,63,-,-,-,-,-,-,-,Kick,-,-,-
+Defensive Action,01:42:05:770,Successful,-,-,-,-,Diaz Baars,5,AFC O19,30,48,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:42:05:930,Successful,Basic,Regular,-,High,Diaz Baars,5,AFC O19,29,47,-,Storm Huijsman,20,14,48,-,-,-,-,-,-
+Gk Distribution,01:42:13:680,Unsuccessful,-,-,-,-,Storm Huijsman,20,AFC O19,15,65,-,-,-,-,-,-,-,Kick,-,-,-
+Defensive Action,01:42:17:490,Successful,-,-,-,-,Raff,3,FC Emmen O19,74,65,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:42:17:620,Unsuccessful,Basic,Regular,-,Medium,Raff,3,FC Emmen O19,74,68,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:42:19:340,Successful,-,-,-,-,Aziz Akachar,8,AFC O19,72,77,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:42:21:650,Successful,Basic,Regular,-,High,Aziz Akachar,8,AFC O19,74,75,-,Nicolai de Kort,15,71,68,-,-,-,-,-,-
+Pass,01:42:22:440,Successful,Basic,Regular,-,High,Nicolai de Kort,15,AFC O19,72,69,-,Aziz Akachar,8,73,86,-,-,-,-,-,-
+Pass,01:42:26:340,Unsuccessful,Basic,Regular,-,High,Aziz Akachar,8,AFC O19,63,77,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:42:27:160,Won,Ground,-,-,-,Lars,17,FC Emmen O19,56,67,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:42:27:160,Lost,Ground,-,-,-,Ilyas Kacen,16,AFC O19,56,67,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:42:27:200,Successful,-,-,-,-,Lars,17,FC Emmen O19,56,67,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:42:27:350,Unsuccessful,Basic,Regular,-,High,Lars,17,FC Emmen O19,57,69,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:42:28:120,Won,Ground,-,-,-,Ilyas Kacen,16,AFC O19,56,70,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:42:28:120,Lost,Ground,-,-,-,Yvarion,11,FC Emmen O19,56,70,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:42:28:160,Successful,-,-,-,-,Ilyas Kacen,16,AFC O19,55,71,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:42:28:320,Successful,Basic,Regular,-,High,Ilyas Kacen,16,AFC O19,56,70,-,Tarik Serdar,11,74,87,-,-,-,-,-,-
+Attacking Third Entry,01:42:31:120,-,-,-,-,-,Tarik Serdar,11,AFC O19,75,87,-,-,-,-,-,-,Right,-,-,-,-
+Pass,01:42:48:980,Successful,Basic,Regular,-,Medium,Tarik Serdar,11,AFC O19,93,84,-,Jahmani Braham,17,81,58,-,-,-,-,-,-
+Pass,01:42:54:030,Unsuccessful,Through Ball,Regular,-,High,Jahmani Braham,17,AFC O19,83,42,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:42:55:620,Successful,-,-,-,-,Kevin,1,FC Emmen O19,95,53,-,-,-,-,-,Interception,-,-,-,-,-
+Gk Distribution,01:43:07:620,Successful,-,-,-,-,Kevin,1,FC Emmen O19,85,49,-,Enzo,5,62,81,-,-,Throw,-,-,-
+Pass,01:43:12:800,Unsuccessful,Basic,Regular,-,High,Enzo,5,FC Emmen O19,58,67,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:43:16:970,Successful,-,-,-,-,Storm Huijsman,20,AFC O19,21,62,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:43:21:560,Successful,Basic,Regular,-,Medium,Storm Huijsman,20,AFC O19,28,65,-,Tarik Serdar,11,53,40,-,-,-,-,-,-
+Pass,01:43:24:780,Unsuccessful,Basic,Regular,-,Medium,Tarik Serdar,11,AFC O19,47,42,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:43:24:920,Unsuccessful,-,-,-,-,Rinse,16,FC Emmen O19,52,42,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:43:26:630,Successful,Basic,Regular,-,Medium,Tarik Serdar,11,AFC O19,48,38,-,Osa okunbor,9,58,5,-,-,-,-,-,-
+Pass,01:43:30:650,Successful,Basic,Regular,-,High,Osa okunbor,9,AFC O19,60,8,-,Tarik Serdar,11,58,15,-,-,-,-,-,-
+Pass,01:43:31:320,Successful,Basic,Regular,-,High,Tarik Serdar,11,AFC O19,59,11,-,Osa okunbor,9,74,8,-,-,-,-,-,-
+Attacking Third Entry,01:43:33:390,-,-,-,-,-,Osa okunbor,9,AFC O19,74,8,-,-,-,-,-,-,Left,-,-,-,-
+Lost Possession,01:43:33:610,-,-,-,-,-,Osa okunbor,9,AFC O19,76,10,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:43:34:380,Successful,Basic,Regular,-,High,David,4,FC Emmen O19,80,20,-,Remiyan,9,61,9,-,-,-,-,-,-
+Pass,01:43:36:280,Unsuccessful,Basic,Regular,-,Medium,Remiyan,9,FC Emmen O19,63,10,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:43:36:450,Unsuccessful,-,-,-,-,Tarik Serdar,11,AFC O19,66,11,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:43:39:160,Successful,Basic,Regular,-,High,Remiyan,9,FC Emmen O19,62,19,-,Daan,21,57,20,-,-,-,-,-,-
+Pass,01:43:39:940,Unsuccessful,Basic,Regular,-,High,Daan,21,FC Emmen O19,58,21,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:43:40:930,Won,Ground,-,-,-,Nicolai de Kort,15,AFC O19,57,28,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:43:40:930,Lost,Ground,-,-,-,Remiyan,9,FC Emmen O19,57,28,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:43:40:970,Successful,-,-,-,-,Nicolai de Kort,15,AFC O19,58,28,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:43:42:040,Successful,Basic,Regular,-,High,Nicolai de Kort,15,AFC O19,58,25,-,Tarik Serdar,11,56,18,-,-,-,-,-,-
+Pass,01:43:47:170,Successful,Basic,Regular,-,High,Tarik Serdar,11,AFC O19,56,18,-,Osa okunbor,9,63,4,-,-,-,-,-,-
+Dribbles,01:43:48:980,Successful,-,-,-,-,Osa okunbor,9,AFC O19,62,7,-,-,-,64,6,-,-,-,-,-,-
+Pass,01:43:51:810,Successful,Basic,Regular,-,High,Osa okunbor,9,AFC O19,78,8,-,Aziz Akachar,8,79,22,-,-,-,-,-,-
+Pass,01:43:59:840,Successful,Basic,Regular,-,High,Aziz Akachar,8,AFC O19,67,8,-,Diaz Baars,5,75,6,-,-,-,-,-,-
+Attacking Third Entry,01:44:01:110,-,-,-,-,-,Diaz Baars,5,AFC O19,75,8,-,-,-,-,-,-,Left,-,-,-,-
+Pass,01:44:02:690,Unsuccessful,Cross,Regular,-,Medium,Diaz Baars,5,AFC O19,88,6,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:44:05:020,Successful,-,-,-,-,David,4,FC Emmen O19,90,42,-,-,-,-,-,Clearance,-,-,-,-,-
+Pass,01:44:06:960,Unsuccessful,Basic,Regular,-,High,Yvarion,11,FC Emmen O19,74,46,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:44:19:920,Successful,Basic,Key,-,High,Nicolai de Kort,15,AFC O19,80,63,-,Tarik Serdar,11,75,52,-,-,-,-,-,-
+Defensive Action,01:44:22:510,Unsuccessful,-,-,-,-,Daan,21,FC Emmen O19,73,46,-,-,-,-,-,Tackle,-,-,-,-,-
+Shots,01:44:26:420,On Target,In Game,-,No Goal,Medium,Tarik Serdar,11,AFC O19,75,46,Right Foot,-,-,-,-,-,-,-,Middle-center,-,-
+Gk Saves,01:44:27:790,-,High Saves,-,-,-,Kevin,1,FC Emmen O19,97,50,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,01:44:38:780,Successful,-,-,-,-,Kevin,1,FC Emmen O19,84,47,-,Lars,17,18,51,-,-,Kick,-,-,-
+Duel,01:44:43:210,Won,Ground,-,-,-,Daan,21,FC Emmen O19,17,49,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:44:43:210,Lost,Ground,-,-,-,Diaz Baars,5,AFC O19,17,49,-,-,-,-,-,-,-,-,-,-,-
+Attacking Third Entry,01:44:43:280,-,-,-,-,-,Lars,17,FC Emmen O19,18,50,-,-,-,-,-,-,Center,-,-,-,-
+Shots,01:44:43:360,Off Target,In Game,-,No Goal,High,Lars,17,FC Emmen O19,17,49,Right Foot,-,-,-,-,-,-,-,Bottom-right,-,-
+Gk Distribution,01:45:03:740,Unsuccessful,-,-,-,-,Storm Huijsman,20,AFC O19,5,47,-,-,-,-,-,-,-,Kick,-,-,-
+Defensive Action,01:45:07:030,Successful,-,-,-,-,Raff,3,FC Emmen O19,60,42,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:45:07:130,Unsuccessful,Basic,Regular,-,Medium,Raff,3,FC Emmen O19,59,41,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:45:10:070,Successful,-,-,-,-,Prio Hamid,3,AFC O19,33,33,-,-,-,-,-,Interception,-,-,-,-,-
+Duel,01:45:10:080,Won,Ground,-,-,-,Diaz Baars,5,AFC O19,34,32,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:45:10:080,Lost,Ground,-,-,-,Remiyan,9,FC Emmen O19,34,32,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:45:10:170,Unsuccessful,Basic,Regular,-,High,Prio Hamid,3,AFC O19,34,35,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:45:11:770,Successful,-,-,-,-,Lars,17,FC Emmen O19,35,36,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:45:12:450,Unsuccessful,Basic,Regular,-,High,Lars,17,FC Emmen O19,34,36,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:45:12:720,Unsuccessful,-,-,-,-,Diaz Baars,5,AFC O19,31,36,-,-,-,-,-,Interception,-,-,-,-,-
+Attacking Third Entry,01:45:14:250,-,-,-,-,-,Lars,17,FC Emmen O19,27,45,-,-,-,-,-,-,Center,-,-,-,-
+Pass,01:45:14:360,Successful,Basic,Regular,-,High,Lars,17,FC Emmen O19,26,46,-,Yvarion,11,22,66,-,-,-,-,-,-
+Defensive Action,01:45:22:190,Successful,-,-,-,-,Ilyas Kacen,16,AFC O19,8,83,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:45:23:730,Unsuccessful,Basic,Regular,-,High,Ilyas Kacen,16,AFC O19,7,93,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:45:25:730,Successful,-,-,-,-,Enzo,5,FC Emmen O19,31,81,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:45:26:370,Successful,Basic,Regular,-,High,Enzo,5,FC Emmen O19,32,79,-,Rinse,16,35,69,-,-,-,-,-,-
+Pass,01:45:27:900,Successful,Basic,Regular,-,High,Enzo,5,FC Emmen O19,34,66,-,Yvarion,11,22,67,-,-,-,-,-,-
+Attacking Third Entry,01:45:28:620,-,-,-,-,-,Yvarion,11,FC Emmen O19,23,69,-,-,-,-,-,-,Center,-,-,-,-
+Pass,01:45:30:550,Successful,Basic,Regular,-,High,Yvarion,11,FC Emmen O19,21,64,-,Lars,17,21,54,-,-,-,-,-,-
+Lost Possession,01:45:31:680,-,-,-,-,-,Lars,17,FC Emmen O19,23,53,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:45:34:180,Unsuccessful,Basic,Regular,-,High,Diaz Baars,5,AFC O19,28,31,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:45:37:340,Successful,-,-,-,-,David,4,FC Emmen O19,66,27,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:45:37:420,Successful,Basic,Regular,-,Medium,David,4,FC Emmen O19,67,27,-,Kevin,1,88,45,-,-,-,-,-,-
+Pass,01:45:40:780,Unsuccessful,Basic,Regular,-,Medium,Kevin,1,FC Emmen O19,90,44,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:45:42:570,Successful,-,-,-,-,Noach Shenkman,6,AFC O19,56,42,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:45:42:690,Successful,Basic,Regular,-,Medium,Noach Shenkman,6,AFC O19,57,40,-,Jahmani Braham,17,62,26,-,-,-,-,-,-
+Pass,01:45:49:310,Successful,Basic,Regular,-,High,Jahmani Braham,17,AFC O19,47,10,-,Storm Huijsman,20,17,31,-,-,-,-,-,-
+Pass,01:45:53:830,Unsuccessful,Basic,Regular,-,Low,Storm Huijsman,20,AFC O19,19,31,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:45:56:930,Successful,-,-,-,-,Ilias,2,FC Emmen O19,64,10,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:45:57:040,Unsuccessful,Basic,Regular,-,High,Ilias,2,FC Emmen O19,63,11,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:45:58:670,Won,Ground,-,-,-,Diaz Baars,5,AFC O19,52,16,-,-,-,-,-,-,-,-,-,-,-
+Duel,01:45:58:670,Lost,Ground,-,-,-,Remiyan,9,FC Emmen O19,52,16,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:45:58:710,Successful,-,-,-,-,Diaz Baars,5,AFC O19,52,15,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:45:58:850,Successful,Basic,Regular,-,High,Diaz Baars,5,AFC O19,54,15,-,Tarik Serdar,11,60,24,-,-,-,-,-,-
+Pass,01:46:01:430,Successful,Basic,Regular,-,High,Tarik Serdar,11,AFC O19,61,25,-,Osa okunbor,9,74,5,-,-,-,-,-,-
+Attacking Third Entry,01:46:05:110,-,-,-,-,-,Osa okunbor,9,AFC O19,75,6,-,-,-,-,-,-,Left,-,-,-,-
+Pass,01:46:07:180,Successful,Basic,Regular,-,Medium,Osa okunbor,9,AFC O19,82,8,-,Noach Shenkman,6,88,29,-,-,-,-,-,-
+Penalty Box Entries,01:46:08:110,-,-,-,-,-,Noach Shenkman,6,AFC O19,89,30,-,-,-,-,-,-,Left,-,-,-,-
+Defensive Action,01:46:08:310,Successful,-,-,-,-,David,4,FC Emmen O19,88,30,-,-,-,-,-,Tackle,-,-,-,-,-
+Defensive Action,01:46:09:610,Successful,-,-,-,-,Daan,21,FC Emmen O19,86,31,-,-,-,-,-,Clearance,-,-,-,-,-
+Shots,01:46:13:330,On Target,In Game,-,No Goal,Medium,Ilyas Kacen,16,AFC O19,72,61,Right Foot,-,-,-,-,-,-,-,Bottom-center,-,-
+Gk Saves,01:46:14:410,-,Low Saves,-,-,-,Kevin,1,FC Emmen O19,97,52,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,01:46:27:160,Unsuccessful,-,-,-,-,Kevin,1,FC Emmen O19,87,44,-,-,-,-,-,-,-,Kick,-,-,-
+Defensive Action,01:46:30:330,Successful,-,-,-,-,Prio Hamid,3,AFC O19,33,54,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:46:30:410,Successful,Basic,Regular,-,High,Prio Hamid,3,AFC O19,34,52,-,Noach Shenkman,6,44,54,-,-,-,-,-,-
+Pass,01:46:31:590,Unsuccessful,Basic,Regular,-,High,Noach Shenkman,6,AFC O19,45,55,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:46:32:710,Successful,-,-,-,-,Raff,3,FC Emmen O19,58,58,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:46:32:810,Unsuccessful,Basic,Regular,-,Medium,Raff,3,FC Emmen O19,58,57,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:46:34:640,Successful,-,-,-,-,Prio Hamid,3,AFC O19,34,58,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:46:34:740,Unsuccessful,Basic,Regular,-,High,Prio Hamid,3,AFC O19,36,59,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:46:36:250,Successful,-,-,-,-,Enzo,5,FC Emmen O19,54,67,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:46:36:330,Unsuccessful,Basic,Regular,-,High,Enzo,5,FC Emmen O19,54,66,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:46:38:020,Successful,-,-,-,-,Diaz Baars,5,AFC O19,36,39,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:46:38:050,Successful,Basic,Regular,-,High,Diaz Baars,5,AFC O19,37,39,-,Aziz Akachar,8,61,55,-,-,-,-,-,-
+Pass,01:46:41:050,Unsuccessful,Through Ball,Regular,-,Medium,Aziz Akachar,8,AFC O19,59,45,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:46:43:680,Successful,-,-,-,-,Kevin,1,FC Emmen O19,84,35,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:46:43:780,Unsuccessful,Basic,Regular,-,High,Kevin,1,FC Emmen O19,83,35,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:46:46:420,Successful,-,-,-,-,Osa okunbor,9,AFC O19,64,11,-,-,-,-,-,Interception,-,-,-,-,-
+Lost Possession,01:46:46:820,-,-,-,-,-,Osa okunbor,9,AFC O19,64,14,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:46:47:530,Unsuccessful,Basic,Regular,-,High,Rinse,16,FC Emmen O19,66,20,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:46:49:240,Successful,-,-,-,-,Diaz Baars,5,AFC O19,53,25,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:46:51:370,Successful,Basic,Regular,-,Medium,Diaz Baars,5,AFC O19,56,23,-,Osa okunbor,9,68,23,-,-,-,-,-,-
+Pass,01:46:53:430,Successful,Basic,Regular,-,High,Osa okunbor,9,AFC O19,68,28,-,Tarik Serdar,11,68,40,-,-,-,-,-,-
+Pass,01:46:57:530,Successful,Basic,Regular,-,High,Tarik Serdar,11,AFC O19,64,30,-,Diaz Baars,5,59,16,-,-,-,-,-,-
+Pass,01:46:59:880,Successful,Basic,Regular,-,Medium,Diaz Baars,5,AFC O19,62,17,-,Aziz Akachar,8,74,5,-,-,-,-,-,-
+Attacking Third Entry,01:47:01:980,-,-,-,-,-,Aziz Akachar,8,AFC O19,74,6,-,-,-,-,-,-,Left,-,-,-,-
+Lost Possession,01:47:06:660,-,-,-,-,-,Aziz Akachar,8,AFC O19,82,10,-,-,-,-,-,-,-,-,-,-,-
+Substitute,01:47:28:240,-,Tactical,-,-,-,Yvarion,11,FC Emmen O19,47,97,-,Dardan,19,-,-,-,-,-,-,-,-
+Gk Distribution,01:47:53:810,Unsuccessful,-,-,-,-,Kevin,1,FC Emmen O19,95,55,-,-,-,-,-,-,-,Kick,-,-,-
+Defensive Action,01:47:55:420,Successful,-,-,-,-,Aziz Akachar,8,AFC O19,67,58,-,-,-,-,-,Interception,-,-,-,-,-
+Attacking Third Entry,01:47:57:390,-,-,-,-,-,Aziz Akachar,8,AFC O19,73,54,-,-,-,-,-,-,Center,-,-,-,-
+Shots,01:47:57:520,Off Target,In Game,-,No Goal,High,Aziz Akachar,8,AFC O19,74,51,Right Foot,-,-,-,-,-,-,-,Top-left,-,-
+Gk Distribution,01:48:18:890,Successful,-,-,-,-,Raff,3,FC Emmen O19,96,61,-,Kevin,1,95,49,-,-,Kick,-,-,-
+Pass,01:48:21:850,Unsuccessful,Basic,Regular,-,Medium,Kevin,1,FC Emmen O19,94,44,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:48:27:000,Successful,-,-,-,-,Prio Hamid,3,AFC O19,24,59,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:48:27:110,Successful,Basic,Regular,-,Medium,Prio Hamid,3,AFC O19,24,59,-,Tristan Harrevelt,14,38,72,-,-,-,-,-,-
+Defensive Action,01:48:34:120,Unsuccessful,-,-,-,-,Enzo,5,FC Emmen O19,55,92,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:48:39:500,Unsuccessful,Throw-in,Regular,-,Low,Tristan Harrevelt,14,AFC O19,65,95,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:49:20:410,Unsuccessful,Throw-in,Regular,-,Low,Tristan Harrevelt,14,AFC O19,71,96,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:49:24:000,Successful,-,-,-,-,Rinse,16,FC Emmen O19,83,66,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:49:24:070,Unsuccessful,Basic,Regular,-,High,Rinse,16,FC Emmen O19,82,64,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:49:25:720,Successful,-,-,-,-,Prio Hamid,3,AFC O19,55,66,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:49:28:570,Successful,Basic,Regular,-,High,Prio Hamid,3,AFC O19,55,46,-,Osa okunbor,9,63,8,-,-,-,-,-,-
+Dribbles,01:49:33:870,Unsuccessful,-,-,-,-,Osa okunbor,9,AFC O19,68,10,-,-,-,70,10,-,-,-,-,-,-
+Lost Possession,01:49:35:330,-,-,-,-,-,Rinse,16,FC Emmen O19,78,10,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:49:35:330,Unsuccessful,Basic,Regular,-,High,Rinse,16,FC Emmen O19,78,10,-,-,-,-,-,-,-,-,-,-,-
+Pass,01:49:40:350,Successful,Throw-in,Regular,-,Low,Osa okunbor,9,AFC O19,74,4,-,Jahmani Braham,17,79,10,-,-,-,-,-,-
+Foul,01:49:42:600,-,-,-,-,-,Ilias,2,FC Emmen O19,76,5,-,Jahmani Braham,17,-,-,-,-,-,-,-,-
+Freekick,01:50:02:270,Unsuccessful,Pass,-,-,-,Tarik Serdar,11,AFC O19,76,8,-,-,-,-,-,-,-,-,-,-,-
+Gk Distribution,01:50:22:230,Successful,-,-,-,-,Raff,3,FC Emmen O19,94,61,-,Kevin,1,96,46,-,-,Kick,-,-,-
+Pass,01:50:25:730,Successful,Through Ball,Key,-,Medium,Kevin,1,FC Emmen O19,96,42,-,Dardan,19,29,57,-,-,-,-,-,-
+Attacking Third Entry,01:50:30:300,-,-,-,-,-,Dardan,19,FC Emmen O19,28,57,-,-,-,-,-,-,Center,-,-,-,-
+Shots,01:50:32:180,On Target,In Game,-,No Goal,High,Dardan,19,FC Emmen O19,18,60,Left Foot,-,-,-,-,-,-,-,Top-left,-,-
+Gk Saves,01:50:32:660,-,High Saves,-,-,-,Storm Huijsman,20,AFC O19,8,56,-,-,-,-,-,-,-,-,-,-,-
+Corners,01:50:52:670,Successful,Pass,-,-,-,Daan,21,FC Emmen O19,2,98,-,Huub,8,8,89,-,Right Corner,-,-,-,-
+Pass,01:51:03:150,Successful,Basic,Regular,-,High,Huub,8,FC Emmen O19,2,96,-,Ilias,2,5,90,-,-,-,-,-,-
+Pass,01:51:04:010,Successful,Basic,Regular,-,High,Ilias,2,FC Emmen O19,5,87,-,Daan,21,7,94,-,-,-,-,-,-
+Pass,01:51:05:350,Successful,Cross,Regular,-,High,Daan,21,FC Emmen O19,9,92,-,Remiyan,9,7,40,-,-,-,-,-,-
+Penalty Box Entries,01:51:08:010,-,-,-,-,-,Remiyan,9,FC Emmen O19,8,42,-,-,-,-,-,-,Center,-,-,-,-
+Pass,01:51:08:110,Unsuccessful,Basic,Regular,-,High,Remiyan,9,FC Emmen O19,8,42,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:51:09:280,Successful,-,-,-,-,Prio Hamid,3,AFC O19,10,65,-,-,-,-,-,Interception,-,-,-,-,-
+Pass,01:51:10:670,Successful,Basic,Regular,-,Medium,Prio Hamid,3,AFC O19,12,63,-,Tarik Serdar,11,23,46,-,-,-,-,-,-
+Pass,01:51:13:710,Successful,Basic,Regular,-,High,Tarik Serdar,11,AFC O19,34,38,-,Osa okunbor,9,60,7,-,-,-,-,-,-
+Pass,01:51:18:390,Successful,Basic,Regular,-,Medium,Osa okunbor,9,AFC O19,66,10,-,Jahmani Braham,17,92,10,-,-,-,-,-,-
+Attacking Third Entry,01:51:21:950,-,-,-,-,-,Jahmani Braham,17,AFC O19,92,9,-,-,-,-,-,-,Left,-,-,-,-
+Dribbles,01:51:25:830,Unsuccessful,-,-,-,-,Jahmani Braham,17,AFC O19,97,19,-,-,-,98,22,-,-,-,-,-,-
+Defensive Action,01:51:26:250,Unsuccessful,-,-,-,-,Ilias,2,FC Emmen O19,98,21,-,-,-,-,-,Tackle,-,-,-,-,-
+Corners,01:51:45:570,Chance Created,Cross,-,-,-,Jahmani Braham,17,AFC O19,98,4,-,Noach Shenkman,6,93,48,-,Right Corner,-,-,-,-
+Shots,01:51:47:410,Off Target,In Game,-,No Goal,High,Noach Shenkman,6,AFC O19,93,47,Header,-,-,-,-,-,-,-,Bottom-right,-,-
+Gk Distribution,01:52:03:800,Successful,-,-,-,-,Raff,3,FC Emmen O19,96,61,-,Kevin,1,96,48,-,-,Kick,-,-,-
+Pass,01:52:07:270,Successful,Basic,Regular,-,Medium,Kevin,1,FC Emmen O19,93,39,-,Lars,17,44,49,-,-,-,-,-,-
+Pass,01:52:10:220,Successful,Basic,Regular,-,High,Lars,17,FC Emmen O19,44,46,-,Dardan,19,30,73,-,-,-,-,-,-
+Attacking Third Entry,01:52:12:830,-,-,-,-,-,Dardan,19,FC Emmen O19,28,75,-,-,-,-,-,-,Center,-,-,-,-
+Defensive Action,01:52:18:700,Successful,-,-,-,-,Ilyas Kacen,16,AFC O19,10,88,-,-,-,-,-,Tackle,-,-,-,-,-
+Pass,01:52:19:800,Successful,Basic,Regular,-,High,Ilyas Kacen,16,AFC O19,10,87,-,Tristan Harrevelt,14,9,93,-,-,-,-,-,-
+Pass,01:52:21:520,Unsuccessful,Basic,Regular,-,High,Tristan Harrevelt,14,AFC O19,10,93,-,-,-,-,-,-,-,-,-,-,-
+Defensive Action,01:52:21:620,Unsuccessful,-,-,-,-,Huub,8,FC Emmen O19,12,94,-,-,-,-,-,Interception,-,-,-,-,-
+Game_State,01:52:24:820,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2nd Half End
