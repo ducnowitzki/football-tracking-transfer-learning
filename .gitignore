@@ -3,5 +3,14 @@
 .DS_Store
 data/
 lit_study/
+idsse_data/
+prof_data/datasets/
+prof_data/raw/
+prof_data/split/
+
+amateur_data/raw/
+amateur_data/split/
+
+
 *.slurm
 *.out
