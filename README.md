@@ -38,8 +38,7 @@ python prof_data/data_processing_dfl.py
 
 #### Amateur Data Preprocessing
 ```bash
-cd amateur_data/
-python data_processing_dutch.py
+python amateur_data/data_processing_dutch.py
 ```
 
 **Configuration Options:**
@@ -51,44 +50,37 @@ python data_processing_dutch.py
 
 #### Basic Training
 ```bash
-cd seqlabelvae/
-python run_training.py
+python seqlabelvae/run_training.py
 ```
 
 #### Training with Dutch Data (Transfer Learning)
 ```bash
-cd seqlabelvae/
-python run_training_dutch.py
+python seqlabelvae/run_training_dutch.py
 ```
 
 #### Testing Trained Models
 ```bash
-cd seqlabelvae/
-python run_test.py
+python seqlabelvae/run_test.py
 ```
 
 #### SMOTE Upsampling
 ```bash
-cd seqlabelvae/
-python run_smote.py
+python seqlabelvae/run_smote.py
 ```
 
 #### SMOTE with Retraining
 ```bash
-cd seqlabelvae/
-python run_smote_retrain.py
+python seqlabelvae/run_smote_retrain.py
 ```
 
 #### Testing SMOTE Models
 ```bash
-cd seqlabelvae/
-python run_test_smote.py
+python seqlabelvae/run_test_smote.py
 ```
 
 #### Retrain Classifier
 ```bash
-cd seqlabelvae/
-python run_retrain_classifier.py
+python seqlabelvae/run_retrain_classifier.py
 ```
 
 ## Model Architecture
