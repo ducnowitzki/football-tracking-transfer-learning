@@ -3,4 +3,5 @@
 .DS_Store
 data/
 lit_study/
-idsse-data/
+*.slurm
+*.out
