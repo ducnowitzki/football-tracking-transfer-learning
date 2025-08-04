@@ -2,68 +2,33 @@
 
 ## Project Overview
 
-This repository contains the implementation of a Master's thesis project focused on **Transfer Learning for Semi-Supervised Football Event Detection Models using Tracking Data**. The project explores how to leverage professional-level tracking data to improve event detection models on amateur-level data through transfer learning techniques.
+This repository contains the implementation of a Master's thesis project with the topic **Transfer Learning for Semi-Supervised Football Event Detection Models using Tracking Data**. The project explores how to leverage professional-level tracking data to improve event detection models on amateur-level data through transfer learning techniques.
 
-### Research Focus
-- **Semi-supervised learning** for football event detection
-- **Transfer learning** from professional to amateur data
-- **Sequence-based models** using tracking data
-- **Event classification**: pass, shot, dribble detection
-
-## Project Structure
-
-```
-football-tracking-transfer-learning/
-├── prof_data/                    # Professional DFL data processing
-│   ├── raw/                      # Raw DFL data (to be downloaded)
-│   ├── data_processing_dfl.py   # Professional data preprocessing
-│   └── data_processing_dfl_unlabeled.py
-├── amateur_data/                 # Amateur Dutch data processing
-│   ├── raw/                      # Raw Dutch data
-│   └── data_processing_dutch.py # Amateur data preprocessing
-├── seqlabelvae/                  # Main model implementation
-│   ├── model.py                  # SeqLabelVAE model architecture
-│   ├── config.py                 # Model configuration
-│   ├── train.py                  # Training script
-│   ├── test.py                   # Testing script
-│   ├── run_training.py           # Training execution script
-│   ├── run_test.py               # Testing execution script
-│   ├── smote.py                  # SMOTE upsampling implementation
-│   ├── run_smote.py              # SMOTE execution script
-│   └── results/                  # Training results and logs
-├── idsse-data/                   # IDSSE dataset processing
-├── dutch_data/                   # Dutch dataset processing
-└── VAE_GNN/                      # Alternative VAE-GNN implementation
-```
 
 ## Setup Instructions
+## 0. Dependencies
+Python 3.12.8
+
+Install required packages:
+```bash
+pip install -r requirements.txt
+```
 
 ### 1. Download Professional DFL Data
 
 Download the professional DFL dataset from the official source:
 - **Source**: [An integrated dataset of spatiotemporal and event data in elite soccer](https://springernature.figshare.com/articles/dataset/An_integrated_dataset_of_spatiotemporal_and_event_data_in_elite_soccer/28196177)
-- **Size**: 2.45 GB
-- **License**: CC BY
 
 **Instructions:**
 1. Visit the Figshare link above
 2. Download the complete dataset (2.45 GB)
 3. Extract the files to `prof_data/raw/`
-4. Ensure the following files are present in `prof_data/raw/`:
-   - `tracking_df_J03WMX.csv`
-   - `tracking_df_J03WN1.csv`
-   - `tracking_df_J03WPY.csv`
-   - `tracking_df_J03WOH.csv`
-   - `tracking_df_J03WQQ.csv`
-   - `tracking_df_J03WOY.csv`
-   - `tracking_df_J03WR9.csv`
 
 ### 2. Data Preprocessing
 
 #### Professional Data Preprocessing
 ```bash
-cd prof_data/
-python data_processing_dfl.py
+python prof_data/data_processing_dfl.py
 ```
 
 **Configuration Options:**
@@ -166,68 +131,4 @@ Training results are saved in `seqlabelvae/results/`:
 - **Plots**: Loss curves, confusion matrices, reconstruction examples
 - **Weights**: Model checkpoints and trained weights
 
-## Dependencies
 
-Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-Key dependencies:
-- PyTorch
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Seaborn
-
-## Usage Examples
-
-### 1. Professional Data Processing with Different Granularity
-```python
-# In prof_data/data_processing_dfl.py
-GRANULARITY = 2  # Higher resolution grid
-```
-
-### 2. Amateur Data Processing with Different Granularity
-```python
-# In amateur_data/data_processing_dutch.py
-GRANULARITY = 1  # Standard resolution grid
-```
-
-### 3. Training with Custom Parameters
-```python
-# In seqlabelvae/config.py
-BATCH_SIZE = 64
-LEARNING_RATE = 0.001
-EPOCHS = 200
-```
-
-## Research Contributions
-
-1. **Semi-supervised learning** for football event detection
-2. **Transfer learning** from professional to amateur data
-3. **Grid-based representation** of tracking data
-4. **Sequence modeling** with variational autoencoders
-5. **Multi-class event detection** (pass, shot, dribble)
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{football_tracking_transfer_learning,
-  title={Transfer Learning for Semi-Supervised Football Event Detection using Tracking Data},
-  author={[Your Name]},
-  year={2024},
-  institution={[Your Institution]}
-}
-```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For questions or issues, please contact [your email] or create an issue in this repository.
