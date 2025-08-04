@@ -191,7 +191,7 @@ def main():
     np.random.seed(args.random_state)
     tf.random.set_seed(args.random_state)
     
-    # Step 1: Load balanced data
+    # Step Load balanced data
     print("\n" + "="*40)
     print("STEP 1: LOADING BALANCED DATA")
     print("="*40)
@@ -199,7 +199,7 @@ def main():
         args.balanced_sequences, args.balanced_labels
     )
     
-    # Step 2: Create classifier-only model
+    # Step Create classifier-only model
     print("\n" + "="*40)
     print("STEP 2: CREATING CLASSIFIER MODEL")
     print("="*40)
@@ -207,7 +207,7 @@ def main():
         args.hidden_dim, args.timesteps, args.no_classes
     )
     
-    # Step 3: Train classifier
+    # Train classifier
     print("\n" + "="*40)
     print("STEP 3: TRAINING CLASSIFIER")
     print("="*40)
@@ -232,7 +232,7 @@ def main():
             f.write(json.dumps(log_entry) + '\n')
     print(f"Training log saved to {log_file}")
     
-    # Step 4: Evaluate classifier
+    # Evaluate classifier
     print("\n" + "="*40)
     print("STEP 4: EVALUATING CLASSIFIER")
     print("="*40)
@@ -240,7 +240,7 @@ def main():
         trained_classifier, balanced_sequences, balanced_labels_onehot
     )
     
-    # Step 5: Save retrained weights
+    # Save retrained weights
     print("\n" + "="*40)
     print("STEP 5: SAVING RETRAINED WEIGHTS")
     print("="*40)

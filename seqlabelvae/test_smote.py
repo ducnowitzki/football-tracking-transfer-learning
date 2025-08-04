@@ -99,9 +99,7 @@ def plot_confusion_matrix(y_true, y_pred, class_names=None, save_path=None, show
 
 def main():
     args = parse_args()
-    # Load test data
     X_test, y_test = load_test_data(args.test_sequences, args.test_labels)
-    # Load VAE and weights
     print("Loading VAE encoder...")
     vae = SeqLabelVAE(
         feature_dim=args.feature_dim,

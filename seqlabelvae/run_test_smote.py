@@ -2,7 +2,6 @@ import subprocess
 import os
 from datetime import datetime
 
-# Define your parameters here
 args_dict = {
     '--feature_dim': 300,
     '--intermediate_dim': 512,
@@ -26,7 +25,6 @@ args_dict = {
     '--show_plots': False
 }
 
-# Build the command
 cmd = ['python', 'seqlabelvae_v2/g1/test_smote.py']
 for k, v in args_dict.items():
     if isinstance(v, bool):
@@ -35,7 +33,6 @@ for k, v in args_dict.items():
     else:
         cmd.extend([k, str(v)])
 
-# Print for checking
 print("="*60)
 print("RUNNING TEST_SMOTE")
 print("="*60)
@@ -45,7 +42,6 @@ for k, v in args_dict.items():
     print(f"  {k}: {v}")
 print("\n" + "="*60)
 
-# Check if input files exist
 input_files = [
     args_dict['--test_sequences'],
     args_dict['--test_labels'],
@@ -64,7 +60,6 @@ for file_path in input_files:
 
 print("\nAll input files found. Starting test_smote...")
 
-# Run the command
 try:
     result = subprocess.run(cmd, check=True)
     print("\n" + "="*60)

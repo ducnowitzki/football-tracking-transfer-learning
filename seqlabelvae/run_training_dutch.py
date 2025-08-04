@@ -1,6 +1,5 @@
 import subprocess
 
-# Define your parameters here
 args_dict = {
     '--feature_dim': 300,
     '--intermediate_dim': 512,
@@ -30,7 +29,6 @@ args_dict = {
     '--changes': 'dutch_g1'
 }
 
-# Build the command
 cmd = ['python', 'seqlabelvae_v2/g1/train_v4_correct_split_unlabeled_sequences.py']
 for k, v in args_dict.items():
     if isinstance(v, bool):
@@ -39,8 +37,6 @@ for k, v in args_dict.items():
     else:
         cmd.extend([k, str(v)])
 
-# Print for checking
 print("Running command:", ' '.join(cmd))
 
-# Run the command
 subprocess.run(cmd)

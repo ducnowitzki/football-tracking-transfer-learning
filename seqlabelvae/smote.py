@@ -31,14 +31,12 @@ def load_data_and_model(args):
     """Load training data and initialize VAE model with weights."""
     print("Loading training data...")
     
-    # Load training sequences and labels
     train_sequences = np.load(args.train_sequences)
     train_labels = np.load(args.train_labels)
     
     print(f"Training sequences shape: {train_sequences.shape}")
     print(f"Training labels shape: {train_labels.shape}")
     
-    # Initialize VAE model
     print("Initializing VAE model...")
     model = SeqLabelVAE(
         feature_dim=args.feature_dim,
@@ -50,8 +48,7 @@ def load_data_and_model(args):
         timesteps=args.timesteps,
         no_classes=args.no_classes
     )
-    
-    # Build model with a sample batch
+
     print("Building model...")
     sample_batch = train_sequences[:1]  # Just need one sample to build
     _ = model(sample_batch)
@@ -68,7 +65,6 @@ def load_data_and_model(args):
     return model, train_sequences, train_labels
 
 def encode_sequences(model, sequences, batch_size=32):
-    """Encode sequences using VAE encoder and extract label-specific representations (a)."""
     print("Encoding sequences...")
     
     num_sequences = sequences.shape[0]
@@ -158,7 +154,6 @@ def apply_smote_balancing(X_standardized, y_sequences, k_neighbors=5, random_sta
         random_state=random_state
     )
     
-    # Fit and resample
     X_resampled, y_resampled = smote.fit_resample(X_standardized, y_sequences)
     
     # Verify the balancing worked
@@ -199,7 +194,6 @@ def reshape_synthetic_sequences(X_resampled, y_resampled, timesteps, hidden_dim)
     print(f"Final X_sequences shape: {X_sequences.shape}")
     print(f"Final y_final shape: {y_final.shape}")
     
-    # Print final class distribution
     unique, counts = np.unique(y_final, return_counts=True)
     print("Final class distribution:")
     for class_idx, count in zip(unique, counts):
@@ -214,14 +208,11 @@ def save_balanced_data(X_sequences, y_final, scaler, output_dir):
     # Create output directory
     os.makedirs(output_dir, exist_ok=True)
     
-    # Save data
     np.save(os.path.join(output_dir, 'balanced_latent_sequences.npy'), X_sequences)
     np.save(os.path.join(output_dir, 'balanced_latent_labels.npy'), y_final)
     
-    # Save scaler for later use
     joblib.dump(scaler, os.path.join(output_dir, 'latent_scaler.pkl'))
     
-    # Save metadata
     metadata = {
         'timestamp': datetime.now().isoformat(),
         'X_sequences_shape': X_sequences.shape,
@@ -250,33 +241,33 @@ def main():
     print("GENERATING BALANCED LATENT TRAINING DATA")
     print("="*60)
     
-    # Step 1: Load data and model
+    # Load data and model
     model, train_sequences, train_labels = load_data_and_model(args)
     if model is None:
         return
     
-    # Step 2: Encode sequences to get label-specific representations
+    # Encode sequences to get label-specific representations
     print("\n" + "="*40)
     print("STEP 1: ENCODING SEQUENCES")
     print("="*40)
     a_representations = encode_sequences(model, train_sequences)
     # Shape: (N_sequences, T, feature_dim)
     
-    # Step 3: Prepare sequence-wise data for SMOTE
+    # Prepare sequence-wise data for SMOTE
     print("\n" + "="*40)
     print("STEP 2: PREPARING SEQUENCE-WISE DATA")
     print("="*40)
     X_sequences, y_sequences = prepare_sequence_wise_data(a_representations, train_labels)
     # Shapes: X_sequences (N_sequences, T*feature_dim), y_sequences (N_sequences,)
     
-    # Step 4: Standardize latent space
+    # Standardize latent space
     print("\n" + "="*40)
     print("STEP 3: STANDARDIZING LATENT SPACE")
     print("="*40)
     X_standardized, scaler = standardize_latent_space(X_sequences)
     # Shape: X_standardized (N_sequences, T*feature_dim) - zero-mean, unit-variance
     
-    # Step 5: Apply SMOTE balancing
+    # Apply SMOTE balancing
     print("\n" + "="*40)
     print("STEP 4: APPLYING SMOTE BALANCING")
     print("="*40)
@@ -285,7 +276,7 @@ def main():
     )
     # Shapes: X_resampled (N_balanced, T*feature_dim), y_resampled (N_balanced,)
     
-    # Step 6: Reshape synthetic sequences
+    # Reshape synthetic sequences
     print("\n" + "="*40)
     print("STEP 5: RESHAPING SYNTHETIC SEQUENCES")
     print("="*40)
@@ -294,7 +285,7 @@ def main():
     )
     # Shapes: X_final_sequences (N_sequences, T, hidden_dim), y_final (N_sequences,)
     
-    # Step 7: Save balanced data
+    # Save balanced data
     print("\n" + "="*40)
     print("STEP 6: SAVING BALANCED DATA")
     print("="*40)

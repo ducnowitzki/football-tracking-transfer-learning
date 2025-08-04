@@ -31,11 +31,9 @@ def parse_args():
     return parser.parse_args()
 
 def normalize_data(data):
-    """Normalize data to [0, 1] range."""
     return data / 255.0
 
 def log_metrics(log_file, logs):
-    """Log metrics to file."""
     log_entry = {
         'timestamp': datetime.now().isoformat(),
         'metrics': {k: float(v) if isinstance(v, (np.float32, np.float64)) else v 
@@ -45,7 +43,6 @@ def log_metrics(log_file, logs):
         f.write(json.dumps(log_entry) + '\n')
 
 def calculate_classification_metrics(y_true, y_pred_probs):
-    """Calculate classification metrics."""
     y_pred = np.argmax(y_pred_probs, axis=1)
     
     # Get unique classes in test set
@@ -75,7 +72,6 @@ def calculate_classification_metrics(y_true, y_pred_probs):
         except ValueError:
             auc_scores.append(np.nan)
     
-    # Store per-class metrics
     for i, class_idx in enumerate(unique_classes):
         metrics[f'class_{class_idx}'] = {
             'precision': float(precision[i]),
@@ -85,10 +81,8 @@ def calculate_classification_metrics(y_true, y_pred_probs):
             'auc': float(auc_scores[i])
         }
     
-    # Calculate accuracy
     accuracy = np.mean(y_true == y_pred)
     
-    # Calculate macro-averaged metrics
     metrics['macro_avg'] = {
         'precision': float(np.mean(precision)),
         'recall': float(np.mean(recall)),
@@ -105,17 +99,14 @@ def calculate_classification_metrics(y_true, y_pred_probs):
 def plot_confusion_matrix(y_true, y_pred, class_names=None, save_path=None, show_plot=True):
     """Plot confusion matrix with proper formatting and labels."""
     
-    # Create confusion matrix
     cm = confusion_matrix(y_true, y_pred)
     
     # Default class names if not provided
     if class_names is None:
         class_names = [f'Class {i}' for i in range(len(cm))]
     
-    # Create figure
     plt.figure(figsize=(8, 6))
     
-    # Create heatmap using seaborn
     sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', 
                 xticklabels=class_names, yticklabels=class_names,
                 cbar_kws={'label': 'Count'})
@@ -125,12 +116,10 @@ def plot_confusion_matrix(y_true, y_pred, class_names=None, save_path=None, show
     plt.ylabel('True Label', fontsize=12)
     plt.tight_layout()
     
-    # Save plot if path provided
     if save_path:
         plt.savefig(save_path, dpi=300, bbox_inches='tight')
         print(f"Confusion matrix saved to: {save_path}")
     
-    # Show plot
     if show_plot:
         plt.show()
     
@@ -139,15 +128,12 @@ def plot_confusion_matrix(y_true, y_pred, class_names=None, save_path=None, show
     return cm
 
 def main():
-    # Parse arguments
     args = parse_args()
     
-    # Create logs directory
     os.makedirs('logs', exist_ok=True)
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
     log_file = os.path.join('logs', f'test_log_{timestamp}.json')
     
-    # Load and normalize test data
     print("Loading test data...")
     try:
         test_sequences = np.load(args.test_sequences)
@@ -159,7 +145,6 @@ def main():
         print(f"Error loading test data: {e}")
         return
     
-    # Initialize model
     print("Initializing model...")
     model = SeqLabelVAE(
         feature_dim=args.feature_dim,
@@ -172,12 +157,10 @@ def main():
         no_classes=args.no_classes
     )
     
-    # Build model with a sample batch
     print("Building model...")
     sample_batch = test_sequences[:args.batch_size]
     _ = model(sample_batch)  # This creates the model's variables
     
-    # Load weights
     print(f"Loading weights from {args.weights_file}...")
     try:
         model.load_weights(args.weights_file)
@@ -192,7 +175,6 @@ def main():
         from_logits=False
     )
     
-    # Evaluation loop
     print("Evaluating...")
     num_batches = int(np.ceil(test_sequences.shape[0] / args.batch_size))
     total_loss = 0.0
@@ -216,11 +198,11 @@ def main():
         reconstruction = model.decode(a_t, z_t)
         y_pred = model.classify(a_t)
         
-        # Store predictions and true labels
+   
         all_predictions.append(y_pred.numpy())
         all_true_labels.append(y_batch)
         
-        # Losses (match train.py exactly)
+        # Losses
         rec_loss = tf.reduce_mean(
             tf.reduce_sum(
                 tf.keras.losses.binary_crossentropy(x_batch, reconstruction),
@@ -242,7 +224,6 @@ def main():
             )
         ).numpy()
         
-        # Use the same minimum threshold as in train.py
         kl_min = 2.0
         kl_loss = max(kl_z, kl_min) + max(kl_a, kl_min)
         
@@ -302,7 +283,6 @@ def main():
     print(f"KL loss a (unweighted): {kl_loss_a / n:.4f}")
     print(f"Classification loss (unweighted): {classification_loss / n:.4f}")
 
-    # Print classification metrics
     print("\nClassification Metrics:")
     print("\nPer-class metrics:")
     for class_idx in np.unique(sequence_true_labels):

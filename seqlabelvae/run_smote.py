@@ -36,7 +36,7 @@ for k, v in args_dict.items():
     else:
         cmd.extend([k, str(v)])
 
-# Print for checking
+
 print("="*60)
 print("RUNNING SMOTE DATA GENERATION")
 print("="*60)
@@ -46,7 +46,6 @@ for k, v in args_dict.items():
     print(f"  {k}: {v}")
 print("\n" + "="*60)
 
-# Check if input files exist
 input_files = [
     args_dict['--train_sequences'],
     args_dict['--train_labels'],
@@ -64,7 +63,7 @@ for file_path in input_files:
 
 print("\nAll input files found. Starting SMOTE generation...")
 
-# Run the command
+
 try:
     result = subprocess.run(cmd, check=True)
     print("\n" + "="*60)

@@ -2,7 +2,6 @@ import subprocess
 import os
 from datetime import datetime
 
-# Define your parameters here
 args_dict = {
     '--feature_dim': 300,
     '--intermediate_dim': 512,
@@ -37,7 +36,7 @@ for k, v in args_dict.items():
     else:
         cmd.extend([k, str(v)])
 
-# Print for checking
+
 print("="*60)
 print("RUNNING CLASSIFIER RETRAINING")
 print("="*60)
@@ -47,7 +46,7 @@ for k, v in args_dict.items():
     print(f"  {k}: {v}")
 print("\n" + "="*60)
 
-# Check if input files exist
+
 input_files = [
     args_dict['--vae_weights_file'],
     args_dict['--balanced_sequences'],
@@ -65,7 +64,6 @@ for file_path in input_files:
 
 print("\nAll input files found. Starting classifier retraining...")
 
-# Run the command
 try:
     result = subprocess.run(cmd, check=True)
     print("\n" + "="*60)

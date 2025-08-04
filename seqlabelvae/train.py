@@ -54,7 +54,6 @@ def log_metrics(epoch, batch, logs):
     with open(log_file, 'a') as f:
         f.write(json.dumps(log_entry) + '\n')
 
-# Load data
 print("Loading data...")
 unlabeled_sequences = np.load(args.unlabeled_frames)
 train_sequences = np.load(args.labeled_sequences)
@@ -159,7 +158,6 @@ def train_step(x_labeled, y, x_unlabeled, labeled_batch_size, unlabeled_batch_si
         # classification_loss = args.alpha * ((unlabeled_batch_size + labeled_batch_size) / labeled_batch_size) * classification_loss_un
         classification_loss = args.alpha * classification_loss_un
         
-        # Total loss
         total_loss = reconstruction_loss + kl_loss + classification_loss
     
     # Compute and apply gradients
@@ -186,7 +184,6 @@ def train_step(x_labeled, y, x_unlabeled, labeled_batch_size, unlabeled_batch_si
     }
 
 def reset_metrics():
-    """Reset all metrics."""
     total_loss_metric.reset_states()
     reconstruction_loss_metric.reset_states()
     kl_loss_metric.reset_states()
@@ -195,7 +192,6 @@ def reset_metrics():
     classification_loss_metric.reset_states()
 
 def train():
-    """Main training loop."""
     print("Starting training...")
     print(f"Logging to: {log_file}")
     
@@ -246,12 +242,10 @@ def train():
             current_unlabeled_indices = unlabeled_indices[unlabeled_batch_start:unlabeled_batch_start + args.unlabeled_batch_size]
             x_unlabeled = unlabeled_sequences[current_unlabeled_indices]
             
-            # Log batch shapes and dtypes
             print(f"Batch {batch}: x_labeled shape: {x_labeled.shape}, dtype: {x_labeled.dtype}")
             print(f"Batch {batch}: y shape: {y.shape}, dtype: {y.dtype}")
             print(f"Batch {batch}: x_unlabeled shape: {x_unlabeled.shape}, dtype: {x_unlabeled.dtype}")
 
-            # Training step
             logs = train_step(
                 x_labeled, y, x_unlabeled,
                 args.labeled_batch_size,
@@ -265,12 +259,10 @@ def train():
                 log_metrics(epoch, batch, logs)
                 print("Metrics logged")
         
-        # Save weights after each epoch
         model.save_weights(
             os.path.join(args.weights_dir, f'weights_epoch_{epoch + 1}.h5')
         )
         
-        # Print epoch summary and log final metrics
         print(f"\nEpoch {epoch + 1}/{args.epochs} completed")
         for metric_name, value in logs.items():
             print(f"{metric_name}: {value:.4f}")
